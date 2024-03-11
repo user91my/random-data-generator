@@ -1,0 +1,17 @@
+{
+  "name": "random",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "jon",
+  "license": "ISC",
+  "dependencies": {
+    "@faker-js/faker": "^8.4.0",
+    "country-state-city": "^3.2.1"
+  }
+}

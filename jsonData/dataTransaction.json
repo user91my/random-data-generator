@@ -1,0 +1,5532 @@
+{
+  "dataTransaction": [
+    {
+      "_id": "9b8bc70e4ee469890563a7cb",
+      "userId": "addbddf6d2cf2b4b498ccaad",
+      "cost": 3037.68,
+      "products": [
+        "6049d873b121d062d0df3e4c",
+        "298fcc7fb96c31efb24f65ce",
+        "cfcccc8e9b70dc8db9e1b837",
+        "baf07b11d2ae4a4941f8d8ff",
+        "7a7b4eb3a744aed8233767db"
+      ]
+    },
+    {
+      "_id": "bf292a2ffeecc2494defe0a7",
+      "userId": "9f5d0aa367facbeb44bc4ccd",
+      "cost": 351.1,
+      "products": [
+        "6af0f651a4ee5b7bb1dc2a10",
+        "a66e2d500eba3a34c8fd43d8",
+        "cfcccc8e9b70dc8db9e1b837",
+        "a66e2d500eba3a34c8fd43d8"
+      ]
+    },
+    {
+      "_id": "2ff213ecc04d4d3dafb2989f",
+      "userId": "51bdd10c3a78693e66ecef40",
+      "cost": 3364.99,
+      "products": [
+        "226fbce8d9fff5de0eb6cc74",
+        "cc43af59a4beb0b82abd600f",
+        "0c213acf22ceceaedd0b2afe"
+      ]
+    },
+    {
+      "_id": "caadee043ddc5adffec4ae5d",
+      "userId": "72f5c92e58b5d2a19fbaa86b",
+      "cost": 4081,
+      "products": [
+        "cf9abe543ac500bd0dc83b4b",
+        "f2ffe373f7d02bfb21defc4f",
+        "cc48a96c045491aab31bdef3",
+        "6049d873b121d062d0df3e4c",
+        "438bce7fd0db0b1bc468cecd"
+      ]
+    },
+    {
+      "_id": "d50a95ea44ef24e9743bae8c",
+      "userId": "9b508ec72d2afb7094ea10af",
+      "cost": 3631.76,
+      "products": [
+        "cf9abe543ac500bd0dc83b4b"
+      ]
+    },
+    {
+      "_id": "1db05ff1de8edb6216b83e2f",
+      "userId": "e1cf4dba6571b79ae85df0a5",
+      "cost": 1795.5,
+      "products": [
+        "a66e2d500eba3a34c8fd43d8",
+        "6af0f651a4ee5b7bb1dc2a10",
+        "7a7b4eb3a744aed8233767db",
+        "3f5ca7e6fe8cb6decd6675d1"
+      ]
+    },
+    {
+      "_id": "bddd89043abea74141eea2cf",
+      "userId": "9dc140d1a8acd444c0aed339",
+      "cost": 3717.61,
+      "products": [
+        "4f66e6b9ab7ff73596eb1e26"
+      ]
+    },
+    {
+      "_id": "bdcbecb7b4e627daf5dfebba",
+      "userId": "fb9f69fbb5df48dde27eff61",
+      "cost": 2967.5,
+      "products": [
+        "298fcc7fb96c31efb24f65ce"
+      ]
+    },
+    {
+      "_id": "a8ffd46aaa74d8ed55dea3fb",
+      "userId": "6bd6cf376bea5d8ca2c42eef",
+      "cost": 4487.46,
+      "products": [
+        "cd0772a63cc63fce2aac137b",
+        "cfcccc8e9b70dc8db9e1b837",
+        "cc43af59a4beb0b82abd600f",
+        "438bce7fd0db0b1bc468cecd"
+      ]
+    },
+    {
+      "_id": "abac70d929ce8dd9cb6812cd",
+      "userId": "61ea2147b04b5319fb5df61d",
+      "cost": 459.39,
+      "products": [
+        "cf9abe543ac500bd0dc83b4b",
+        "a66e2d500eba3a34c8fd43d8",
+        "3f5ca7e6fe8cb6decd6675d1"
+      ]
+    },
+    {
+      "_id": "8b244caa3aa284377ee0cb1c",
+      "userId": "b39fbf8d6b14b1f7a6bca502",
+      "cost": 1533.72,
+      "products": [
+        "cf9abe543ac500bd0dc83b4b",
+        "cd4d9df62dd0fb546cd5e077",
+        "c1b3be62c8b2f4fc83cf9667"
+      ]
+    },
+    {
+      "_id": "7e4dbeef84d6393c3aaff19d",
+      "userId": "cf23ceddaea0dcfefa0da9e7",
+      "cost": 1136.99,
+      "products": [
+        "49bf6bbae1e9b1d9dffa131c",
+        "fa8bcc9cb61aa6edf4d6f5a0",
+        "fa8bcc9cb61aa6edf4d6f5a0",
+        "cd0772a63cc63fce2aac137b",
+        "0c213acf22ceceaedd0b2afe"
+      ]
+    },
+    {
+      "_id": "b4aa5b82b07854db879bb25c",
+      "userId": "acb85cabbbe821fbc590421c",
+      "cost": 3654.7,
+      "products": [
+        "cfb6f2deeeaab49d310af6a2",
+        "d2ba98bfcdfc96275e4dc7aa",
+        "49bf6bbae1e9b1d9dffa131c",
+        "fa8bcc9cb61aa6edf4d6f5a0",
+        "cfcccc8e9b70dc8db9e1b837"
+      ]
+    },
+    {
+      "_id": "0acac4ce9e270adcc4ec3786",
+      "userId": "4fe3bf6ed4c3ba8efee9cf65",
+      "cost": 2491.07,
+      "products": [
+        "fa8bcc9cb61aa6edf4d6f5a0",
+        "7a7b4eb3a744aed8233767db",
+        "baf07b11d2ae4a4941f8d8ff"
+      ]
+    },
+    {
+      "_id": "511bc93f859d3dead402af9b",
+      "userId": "5eeff2f3ff93ac8dd58c2429",
+      "cost": 1207.18,
+      "products": [
+        "226fbce8d9fff5de0eb6cc74",
+        "fa8bcc9cb61aa6edf4d6f5a0",
+        "cf9abe543ac500bd0dc83b4b"
+      ]
+    },
+    {
+      "_id": "a10e3fb938095bbdf6b53ffd",
+      "userId": "e5db4b90389dbaa8ceb27d1d",
+      "cost": 1314,
+      "products": [
+        "4f66e6b9ab7ff73596eb1e26",
+        "6049d873b121d062d0df3e4c",
+        "cc48a96c045491aab31bdef3"
+      ]
+    },
+    {
+      "_id": "1af572a9df4db6e876fde5cf",
+      "userId": "33cbab38b32cfa4b16ff4fd0",
+      "cost": 2435.22,
+      "products": [
+        "fa8bcc9cb61aa6edf4d6f5a0",
+        "6049d873b121d062d0df3e4c",
+        "baf07b11d2ae4a4941f8d8ff",
+        "4f66e6b9ab7ff73596eb1e26",
+        "cc43af59a4beb0b82abd600f"
+      ]
+    },
+    {
+      "_id": "5cc3ecbcacd9f4dffcadf658",
+      "userId": "0d205c2aea8cd4d4c48927ad",
+      "cost": 4443.77,
+      "products": [
+        "cd4d9df62dd0fb546cd5e077"
+      ]
+    },
+    {
+      "_id": "5cb7b0d18b3cd9aad0f8c3b5",
+      "userId": "c5fbfcedfe2fedfacf299d20",
+      "cost": 963.32,
+      "products": [
+        "cf9abe543ac500bd0dc83b4b"
+      ]
+    },
+    {
+      "_id": "9ba53dfcbefc16acd6f3f0ed",
+      "userId": "8b3faac5e77b32ace75107ea",
+      "cost": 3253.81,
+      "products": [
+        "cfcccc8e9b70dc8db9e1b837",
+        "298fcc7fb96c31efb24f65ce",
+        "0c213acf22ceceaedd0b2afe"
+      ]
+    },
+    {
+      "_id": "ac5978c45b3baeccdad782af",
+      "userId": "eec5b6fc4eed0b9a3d9cfdf8",
+      "cost": 173.75,
+      "products": [
+        "49bf6bbae1e9b1d9dffa131c",
+        "6049d873b121d062d0df3e4c",
+        "cc43af59a4beb0b82abd600f",
+        "a66e2d500eba3a34c8fd43d8"
+      ]
+    },
+    {
+      "_id": "814d1f0dec2d27bdccaaaed5",
+      "userId": "ffdc6f0fbeea0b74ec5be74d",
+      "cost": 2072.35,
+      "products": [
+        "cc43af59a4beb0b82abd600f",
+        "cc48a96c045491aab31bdef3",
+        "49bf6bbae1e9b1d9dffa131c",
+        "cc43af59a4beb0b82abd600f",
+        "298fcc7fb96c31efb24f65ce"
+      ]
+    },
+    {
+      "_id": "e4ea4c80016e8ffdbfcc51da",
+      "userId": "c225aec40efeacab6f8e31da",
+      "cost": 509.49,
+      "products": [
+        "226fbce8d9fff5de0eb6cc74",
+        "a66e2d500eba3a34c8fd43d8",
+        "cd4d9df62dd0fb546cd5e077"
+      ]
+    },
+    {
+      "_id": "4fc40c2755ddeeebbf46a689",
+      "userId": "16597cc9f050943cbc6cdec4",
+      "cost": 3583.89,
+      "products": [
+        "ffc50fae2bcecbff05ef8e04",
+        "cc43af59a4beb0b82abd600f",
+        "6049d873b121d062d0df3e4c",
+        "fa8bcc9cb61aa6edf4d6f5a0",
+        "438bce7fd0db0b1bc468cecd"
+      ]
+    },
+    {
+      "_id": "1b62fb5f7ccc1b5f8acaed86",
+      "userId": "eec5b6fc4eed0b9a3d9cfdf8",
+      "cost": 3025.73,
+      "products": [
+        "7a7b4eb3a744aed8233767db",
+        "fa8bcc9cb61aa6edf4d6f5a0"
+      ]
+    },
+    {
+      "_id": "a4bdb8496dbf6a94af375cd3",
+      "userId": "2aec00be1d6d6fb10187abfc",
+      "cost": 4038.29,
+      "products": [
+        "226fbce8d9fff5de0eb6cc74",
+        "226fbce8d9fff5de0eb6cc74"
+      ]
+    },
+    {
+      "_id": "ddae1df0ecead4fbc52eb2b8",
+      "userId": "d8cf0fabbec121ed4b68ad57",
+      "cost": 2388.82,
+      "products": [
+        "cc48a96c045491aab31bdef3",
+        "49bf6bbae1e9b1d9dffa131c"
+      ]
+    },
+    {
+      "_id": "ce5390f42585aee13fc2d47f",
+      "userId": "d9b8a03cba4a7c8e9ea849da",
+      "cost": 2716.76,
+      "products": [
+        "cfb6f2deeeaab49d310af6a2",
+        "6af0f651a4ee5b7bb1dc2a10",
+        "cc48a96c045491aab31bdef3",
+        "438bce7fd0db0b1bc468cecd"
+      ]
+    },
+    {
+      "_id": "fba6c9106a03c9bcbbdf35de",
+      "userId": "b89b4acf9c78acbe4bfb8fcb",
+      "cost": 3318.35,
+      "products": [
+        "fa8bcc9cb61aa6edf4d6f5a0"
+      ]
+    },
+    {
+      "_id": "afebd9a6dbbbb8df17bdcbf4",
+      "userId": "02ebdd2a76345d80c14aadeb",
+      "cost": 869.34,
+      "products": [
+        "7a7b4eb3a744aed8233767db",
+        "baf07b11d2ae4a4941f8d8ff"
+      ]
+    },
+    {
+      "_id": "82fdfb4bd9888da21be34bc0",
+      "userId": "e4ceae5bea16caba1bc2e9ea",
+      "cost": 4211.53,
+      "products": [
+        "3f5ca7e6fe8cb6decd6675d1"
+      ]
+    },
+    {
+      "_id": "36efd0fded36c5d159b2c66d",
+      "userId": "f5cce08d2e10aded09a33db8",
+      "cost": 3399.79,
+      "products": [
+        "c1b3be62c8b2f4fc83cf9667",
+        "fa8bcc9cb61aa6edf4d6f5a0",
+        "cf9abe543ac500bd0dc83b4b",
+        "49bf6bbae1e9b1d9dffa131c"
+      ]
+    },
+    {
+      "_id": "f9defebeda03ddabbca836ad",
+      "userId": "c225aec40efeacab6f8e31da",
+      "cost": 4745.84,
+      "products": [
+        "0c213acf22ceceaedd0b2afe",
+        "cc43af59a4beb0b82abd600f"
+      ]
+    },
+    {
+      "_id": "b507ebba0c1342a514a634c5",
+      "userId": "adf7df38b35b9ea13da6dd0d",
+      "cost": 497.76,
+      "products": [
+        "0c213acf22ceceaedd0b2afe",
+        "0c213acf22ceceaedd0b2afe",
+        "cc48a96c045491aab31bdef3",
+        "cc43af59a4beb0b82abd600f"
+      ]
+    },
+    {
+      "_id": "86b5e03cec0a03d169c49baa",
+      "userId": "4e7fba7dc0f6a23abbfa7bca",
+      "cost": 3644.6,
+      "products": [
+        "fa8bcc9cb61aa6edf4d6f5a0",
+        "a66e2d500eba3a34c8fd43d8"
+      ]
+    },
+    {
+      "_id": "ec7ac4bd86b0abdffbaeaf9f",
+      "userId": "edf7f60b19ab0cd731d5bf34",
+      "cost": 4132.33,
+      "products": [
+        "0c213acf22ceceaedd0b2afe",
+        "4f66e6b9ab7ff73596eb1e26",
+        "ffc50fae2bcecbff05ef8e04",
+        "cfb6f2deeeaab49d310af6a2"
+      ]
+    },
+    {
+      "_id": "8c9c20d4e6fbcb78f3eea22a",
+      "userId": "bb69a6a3b886ef56b6cbf2b1",
+      "cost": 220.27,
+      "products": [
+        "cc48a96c045491aab31bdef3",
+        "4f66e6b9ab7ff73596eb1e26",
+        "cf9abe543ac500bd0dc83b4b",
+        "3f5ca7e6fe8cb6decd6675d1"
+      ]
+    },
+    {
+      "_id": "ceb2e056b8fff4e27d6fa81e",
+      "userId": "4fe3bf6ed4c3ba8efee9cf65",
+      "cost": 3341.61,
+      "products": [
+        "49bf6bbae1e9b1d9dffa131c",
+        "226fbce8d9fff5de0eb6cc74",
+        "cc48a96c045491aab31bdef3",
+        "3f5ca7e6fe8cb6decd6675d1"
+      ]
+    },
+    {
+      "_id": "78ffb4ece79aecc2fbfe6d46",
+      "userId": "8abfeb20bcc459bde0569320",
+      "cost": 3727.23,
+      "products": [
+        "cfb6f2deeeaab49d310af6a2",
+        "7a7b4eb3a744aed8233767db"
+      ]
+    },
+    {
+      "_id": "e11d5ba5c9b46cab6c96af84",
+      "userId": "2f4861ba64f5ce00a7ea5b4c",
+      "cost": 4622.94,
+      "products": [
+        "0c213acf22ceceaedd0b2afe",
+        "49bf6bbae1e9b1d9dffa131c",
+        "baf07b11d2ae4a4941f8d8ff",
+        "cd0772a63cc63fce2aac137b"
+      ]
+    },
+    {
+      "_id": "aaee7ecdecb6ba9762c9b70f",
+      "userId": "89e2b1efdb0279b6bb2df7d7",
+      "cost": 422.02,
+      "products": [
+        "226fbce8d9fff5de0eb6cc74",
+        "baf07b11d2ae4a4941f8d8ff",
+        "a66e2d500eba3a34c8fd43d8"
+      ]
+    },
+    {
+      "_id": "9c5806f27f186b1f84d844ef",
+      "userId": "001bf9bccabe3c3bfedd747f",
+      "cost": 1007.98,
+      "products": [
+        "0c213acf22ceceaedd0b2afe",
+        "b992b9aded5ca50480a1e4bf",
+        "cd4d9df62dd0fb546cd5e077",
+        "baf07b11d2ae4a4941f8d8ff",
+        "ffc50fae2bcecbff05ef8e04"
+      ]
+    },
+    {
+      "_id": "37b7184d3cbe2ab1cfa6614e",
+      "userId": "7b43e3d9aedbf9ee752ccb0b",
+      "cost": 4030.86,
+      "products": [
+        "ffc50fae2bcecbff05ef8e04",
+        "7a7b4eb3a744aed8233767db",
+        "d2ba98bfcdfc96275e4dc7aa",
+        "6049d873b121d062d0df3e4c",
+        "cc48a96c045491aab31bdef3"
+      ]
+    },
+    {
+      "_id": "4184a7c83b3b0e8a0a27c97b",
+      "userId": "79e3134c2dc7c70c1708a7cf",
+      "cost": 2600.33,
+      "products": [
+        "ffc50fae2bcecbff05ef8e04",
+        "b992b9aded5ca50480a1e4bf",
+        "cd4d9df62dd0fb546cd5e077",
+        "6049d873b121d062d0df3e4c"
+      ]
+    },
+    {
+      "_id": "54ebd0eab7ffa1aaa740c4d4",
+      "userId": "79e3134c2dc7c70c1708a7cf",
+      "cost": 4371.44,
+      "products": [
+        "a66e2d500eba3a34c8fd43d8",
+        "c1b3be62c8b2f4fc83cf9667",
+        "cc43af59a4beb0b82abd600f"
+      ]
+    },
+    {
+      "_id": "514de5dedbcd02a2c0dc3cfb",
+      "userId": "a2f8efdc180eefa1672f53cf",
+      "cost": 2209.95,
+      "products": [
+        "cf9abe543ac500bd0dc83b4b",
+        "cf9abe543ac500bd0dc83b4b",
+        "cf9abe543ac500bd0dc83b4b"
+      ]
+    },
+    {
+      "_id": "be80f2e3d1bcec026bf01f8c",
+      "userId": "a6ad4a5e76c3fda8c4fce07f",
+      "cost": 4688.53,
+      "products": [
+        "d2ba98bfcdfc96275e4dc7aa"
+      ]
+    },
+    {
+      "_id": "bf92a5abd48be1c1fca534f3",
+      "userId": "cb6ee6fa8d6c67e3cdd9b6bd",
+      "cost": 2663.98,
+      "products": [
+        "438bce7fd0db0b1bc468cecd",
+        "cd4d9df62dd0fb546cd5e077",
+        "cfcccc8e9b70dc8db9e1b837"
+      ]
+    },
+    {
+      "_id": "907abd3ecafb7f9eb6ac8614",
+      "userId": "643ebad5dbd9a8a011f3bcc3",
+      "cost": 1995.7,
+      "products": [
+        "cd4d9df62dd0fb546cd5e077",
+        "6af0f651a4ee5b7bb1dc2a10",
+        "c1b3be62c8b2f4fc83cf9667"
+      ]
+    },
+    {
+      "_id": "1f3be16e23ab0b2fc17bafb2",
+      "userId": "05d6eb7dfdadfca45cac9b8b",
+      "cost": 1079.71,
+      "products": [
+        "0c213acf22ceceaedd0b2afe",
+        "b992b9aded5ca50480a1e4bf",
+        "7a7b4eb3a744aed8233767db"
+      ]
+    },
+    {
+      "_id": "dab4b5c5dae2845577aeaabe",
+      "userId": "fde6a9bb6eeffe1cacaeb1eb",
+      "cost": 1774.85,
+      "products": [
+        "49bf6bbae1e9b1d9dffa131c",
+        "cd4d9df62dd0fb546cd5e077",
+        "b992b9aded5ca50480a1e4bf",
+        "7a7b4eb3a744aed8233767db"
+      ]
+    },
+    {
+      "_id": "eecbed88f1a7fcabe9fae1a9",
+      "userId": "5f91ac0c26b28d29ffcd0ebb",
+      "cost": 2900.34,
+      "products": [
+        "cf9abe543ac500bd0dc83b4b",
+        "4f66e6b9ab7ff73596eb1e26"
+      ]
+    },
+    {
+      "_id": "6f2563fdedb4d3ddef35bedc",
+      "userId": "e3be885a5ee5355f8b3eacf6",
+      "cost": 3247.53,
+      "products": [
+        "4f66e6b9ab7ff73596eb1e26",
+        "0c213acf22ceceaedd0b2afe",
+        "cfcccc8e9b70dc8db9e1b837"
+      ]
+    },
+    {
+      "_id": "aadc318ea0196e6f3dabb7f0",
+      "userId": "1092a5b77ccaf9b5c5befd80",
+      "cost": 1717.15,
+      "products": [
+        "ffc50fae2bcecbff05ef8e04",
+        "7a7b4eb3a744aed8233767db",
+        "cf9abe543ac500bd0dc83b4b",
+        "f2ffe373f7d02bfb21defc4f",
+        "3f5ca7e6fe8cb6decd6675d1"
+      ]
+    },
+    {
+      "_id": "ba27d0f11989ca2facbed7db",
+      "userId": "fe5afedddd1fa5ff19dc42ba",
+      "cost": 1025.9,
+      "products": [
+        "3f5ca7e6fe8cb6decd6675d1"
+      ]
+    },
+    {
+      "_id": "defebf25d1d440f0bce88dbd",
+      "userId": "cf39cc06f71ec9bbf1c15f77",
+      "cost": 4798.49,
+      "products": [
+        "49bf6bbae1e9b1d9dffa131c",
+        "4f66e6b9ab7ff73596eb1e26"
+      ]
+    },
+    {
+      "_id": "9d365cfb6c9e73eb4b4c5efc",
+      "userId": "49a2ab07f23ac2dce20c0d6e",
+      "cost": 578.71,
+      "products": [
+        "3f5ca7e6fe8cb6decd6675d1",
+        "ffc50fae2bcecbff05ef8e04",
+        "cd4d9df62dd0fb546cd5e077",
+        "4f66e6b9ab7ff73596eb1e26"
+      ]
+    },
+    {
+      "_id": "efc985e1ebad26cdf6c3b367",
+      "userId": "9461cfc7ad7cdf0edfcec98f",
+      "cost": 929.85,
+      "products": [
+        "cfcccc8e9b70dc8db9e1b837",
+        "cfb6f2deeeaab49d310af6a2"
+      ]
+    },
+    {
+      "_id": "42ee1aefcadcd3a78421a0bc",
+      "userId": "9bd28ebb78fcffcbaba9f9f9",
+      "cost": 573.09,
+      "products": [
+        "d2ba98bfcdfc96275e4dc7aa",
+        "b992b9aded5ca50480a1e4bf",
+        "4f66e6b9ab7ff73596eb1e26",
+        "cc43af59a4beb0b82abd600f"
+      ]
+    },
+    {
+      "_id": "90145dccc7a5931ff921c8fb",
+      "userId": "2f4861ba64f5ce00a7ea5b4c",
+      "cost": 2119.34,
+      "products": [
+        "3f5ca7e6fe8cb6decd6675d1",
+        "a66e2d500eba3a34c8fd43d8",
+        "a66e2d500eba3a34c8fd43d8",
+        "7a7b4eb3a744aed8233767db",
+        "cd0772a63cc63fce2aac137b"
+      ]
+    },
+    {
+      "_id": "7eceb6ff5d0e818bf6f61dbf",
+      "userId": "9cb1aed11da5cffb5f3cfb0e",
+      "cost": 1272.69,
+      "products": [
+        "ffc50fae2bcecbff05ef8e04",
+        "3f5ca7e6fe8cb6decd6675d1"
+      ]
+    },
+    {
+      "_id": "afac8fb4d0feebbebdadd83f",
+      "userId": "a0512daaf6fb3a8fa157dbae",
+      "cost": 1331.15,
+      "products": [
+        "baf07b11d2ae4a4941f8d8ff",
+        "f2ffe373f7d02bfb21defc4f",
+        "cfb6f2deeeaab49d310af6a2",
+        "4f66e6b9ab7ff73596eb1e26"
+      ]
+    },
+    {
+      "_id": "042b7c3c31fea44361fbaeea",
+      "userId": "c02c0fe4df9d1419c198f166",
+      "cost": 3663.04,
+      "products": [
+        "0c213acf22ceceaedd0b2afe",
+        "cfcccc8e9b70dc8db9e1b837",
+        "6049d873b121d062d0df3e4c",
+        "7a7b4eb3a744aed8233767db"
+      ]
+    },
+    {
+      "_id": "2d2ef0be6dbc65b0bcab69ea",
+      "userId": "1f7bacad241aa66ab4959b5b",
+      "cost": 2463.09,
+      "products": [
+        "c1b3be62c8b2f4fc83cf9667"
+      ]
+    },
+    {
+      "_id": "c7fe5fe2ebc44df8047505ff",
+      "userId": "e6cbe3e91dabaf8ba0dfb6c8",
+      "cost": 1306.01,
+      "products": [
+        "ffc50fae2bcecbff05ef8e04"
+      ]
+    },
+    {
+      "_id": "f9baf2e9a4bdc1a02cdec8d0",
+      "userId": "b1e2fb58ecad1579cce7f43a",
+      "cost": 935.84,
+      "products": [
+        "cc43af59a4beb0b82abd600f"
+      ]
+    },
+    {
+      "_id": "190ebd9ef1aa6cff4422fad8",
+      "userId": "d3a60ffc9051887ad8ab02f6",
+      "cost": 3039.13,
+      "products": [
+        "49bf6bbae1e9b1d9dffa131c",
+        "3f5ca7e6fe8cb6decd6675d1",
+        "0c213acf22ceceaedd0b2afe",
+        "6af0f651a4ee5b7bb1dc2a10",
+        "ffc50fae2bcecbff05ef8e04"
+      ]
+    },
+    {
+      "_id": "e2c51b6e2874dc59bf3f83f2",
+      "userId": "83b8f368f0c19fd5a6d4fee2",
+      "cost": 3802.23,
+      "products": [
+        "f2ffe373f7d02bfb21defc4f",
+        "d2ba98bfcdfc96275e4dc7aa",
+        "7a7b4eb3a744aed8233767db"
+      ]
+    },
+    {
+      "_id": "c9e6aab76c76849b4bd07920",
+      "userId": "dda5cd7519a4a0df2c2faee6",
+      "cost": 2328.26,
+      "products": [
+        "f2ffe373f7d02bfb21defc4f",
+        "3f5ca7e6fe8cb6decd6675d1",
+        "cfb6f2deeeaab49d310af6a2"
+      ]
+    },
+    {
+      "_id": "aae3c5eff593fd548a6ddd18",
+      "userId": "eee29f7052acf4dadac3c5aa",
+      "cost": 2926.18,
+      "products": [
+        "298fcc7fb96c31efb24f65ce",
+        "cc43af59a4beb0b82abd600f",
+        "6af0f651a4ee5b7bb1dc2a10",
+        "226fbce8d9fff5de0eb6cc74",
+        "298fcc7fb96c31efb24f65ce"
+      ]
+    },
+    {
+      "_id": "6133d50ebf6b2a7bd04dca05",
+      "userId": "bc3adbc6ec09f9adf3eb2bcb",
+      "cost": 156.28,
+      "products": [
+        "4f66e6b9ab7ff73596eb1e26",
+        "cfcccc8e9b70dc8db9e1b837",
+        "a66e2d500eba3a34c8fd43d8"
+      ]
+    },
+    {
+      "_id": "be2cd674b1d3b5614e4d9b40",
+      "userId": "c5fbfcedfe2fedfacf299d20",
+      "cost": 2504.99,
+      "products": [
+        "baf07b11d2ae4a4941f8d8ff"
+      ]
+    },
+    {
+      "_id": "ff497edcece637bdb6d0fbb3",
+      "userId": "2f67dcf7cc817daefc8dff58",
+      "cost": 819.57,
+      "products": [
+        "baf07b11d2ae4a4941f8d8ff"
+      ]
+    },
+    {
+      "_id": "af75a9e7a6cfec5aef0daeec",
+      "userId": "8cb6eafeca7a55516992a817",
+      "cost": 2516.98,
+      "products": [
+        "6049d873b121d062d0df3e4c",
+        "0c213acf22ceceaedd0b2afe",
+        "fa8bcc9cb61aa6edf4d6f5a0"
+      ]
+    },
+    {
+      "_id": "db1dcd421bf3add5a47ea7ca",
+      "userId": "43abccb6c7f3cae15ebbca36",
+      "cost": 1496.44,
+      "products": [
+        "baf07b11d2ae4a4941f8d8ff",
+        "cfcccc8e9b70dc8db9e1b837"
+      ]
+    },
+    {
+      "_id": "9d7d6bc06e34bd2b18fcdba1",
+      "userId": "eee29f7052acf4dadac3c5aa",
+      "cost": 546.49,
+      "products": [
+        "d2ba98bfcdfc96275e4dc7aa",
+        "c1b3be62c8b2f4fc83cf9667",
+        "cd0772a63cc63fce2aac137b"
+      ]
+    },
+    {
+      "_id": "6b73aa4b6966baffda63b49d",
+      "userId": "bafead2b08d15f07be790d5c",
+      "cost": 1214.4,
+      "products": [
+        "226fbce8d9fff5de0eb6cc74"
+      ]
+    },
+    {
+      "_id": "ce6b5b50acabdf6893ff9bbb",
+      "userId": "b5db456ee9cfaaef3affcf86",
+      "cost": 4396.84,
+      "products": [
+        "fa8bcc9cb61aa6edf4d6f5a0",
+        "6049d873b121d062d0df3e4c",
+        "226fbce8d9fff5de0eb6cc74",
+        "226fbce8d9fff5de0eb6cc74"
+      ]
+    },
+    {
+      "_id": "ae2202edc8f3b5ea5be0b1f9",
+      "userId": "badf9df3fdf2dd7cd74175dd",
+      "cost": 3765.6,
+      "products": [
+        "4f66e6b9ab7ff73596eb1e26",
+        "cfcccc8e9b70dc8db9e1b837",
+        "6af0f651a4ee5b7bb1dc2a10"
+      ]
+    },
+    {
+      "_id": "4f116be66189e633d3bc3eae",
+      "userId": "a50ae25bc37bdd3bef8386b5",
+      "cost": 4245.8,
+      "products": [
+        "b992b9aded5ca50480a1e4bf",
+        "6af0f651a4ee5b7bb1dc2a10",
+        "cc43af59a4beb0b82abd600f",
+        "cfcccc8e9b70dc8db9e1b837"
+      ]
+    },
+    {
+      "_id": "4d7afbe8aefa1abf86d516d2",
+      "userId": "d5efb5dd64afddf4b5ace1cc",
+      "cost": 1633.41,
+      "products": [
+        "cfcccc8e9b70dc8db9e1b837",
+        "f2ffe373f7d02bfb21defc4f",
+        "3f5ca7e6fe8cb6decd6675d1",
+        "c1b3be62c8b2f4fc83cf9667"
+      ]
+    },
+    {
+      "_id": "25c1a14db72bec47e19f1ebd",
+      "userId": "3cabe957fc75baf5edaa196f",
+      "cost": 2454.58,
+      "products": [
+        "438bce7fd0db0b1bc468cecd",
+        "6049d873b121d062d0df3e4c",
+        "f2ffe373f7d02bfb21defc4f",
+        "baf07b11d2ae4a4941f8d8ff"
+      ]
+    },
+    {
+      "_id": "e142d5ce4a27f0c2113de3bd",
+      "userId": "a5ba560ab4a17f0b55efbec5",
+      "cost": 1720.3,
+      "products": [
+        "49bf6bbae1e9b1d9dffa131c",
+        "6af0f651a4ee5b7bb1dc2a10",
+        "cd0772a63cc63fce2aac137b",
+        "226fbce8d9fff5de0eb6cc74",
+        "7a7b4eb3a744aed8233767db"
+      ]
+    },
+    {
+      "_id": "7f03b6ef434ab53e170cbd81",
+      "userId": "aac28cdca6d18486c5c8fb1b",
+      "cost": 1841.68,
+      "products": [
+        "fa8bcc9cb61aa6edf4d6f5a0",
+        "cc43af59a4beb0b82abd600f",
+        "7a7b4eb3a744aed8233767db",
+        "49bf6bbae1e9b1d9dffa131c"
+      ]
+    },
+    {
+      "_id": "62110f47af0fc724faffcd31",
+      "userId": "54ffe741905fa8afc3a1f814",
+      "cost": 4967.84,
+      "products": [
+        "226fbce8d9fff5de0eb6cc74"
+      ]
+    },
+    {
+      "_id": "8395c8c2e57cc0defa896d0c",
+      "userId": "52a059f8bb1cb800ecccf23f",
+      "cost": 360.09,
+      "products": [
+        "fa8bcc9cb61aa6edf4d6f5a0",
+        "f2ffe373f7d02bfb21defc4f",
+        "d2ba98bfcdfc96275e4dc7aa"
+      ]
+    },
+    {
+      "_id": "d53b7f8de7ffd6c28ff1af95",
+      "userId": "ffd4cebffc44e15adcebecb7",
+      "cost": 1497.52,
+      "products": [
+        "cc43af59a4beb0b82abd600f",
+        "3f5ca7e6fe8cb6decd6675d1",
+        "cd0772a63cc63fce2aac137b",
+        "cd0772a63cc63fce2aac137b"
+      ]
+    },
+    {
+      "_id": "4d19be2cbceebbe5c8f536b3",
+      "userId": "7f54ba686a1bd9dd0ad49efb",
+      "cost": 509.86,
+      "products": [
+        "cd4d9df62dd0fb546cd5e077",
+        "cd4d9df62dd0fb546cd5e077",
+        "fa8bcc9cb61aa6edf4d6f5a0",
+        "d2ba98bfcdfc96275e4dc7aa"
+      ]
+    },
+    {
+      "_id": "b053feadfef255ae36b96eeb",
+      "userId": "61ea2147b04b5319fb5df61d",
+      "cost": 210.72,
+      "products": [
+        "226fbce8d9fff5de0eb6cc74"
+      ]
+    },
+    {
+      "_id": "cd9aecc7b09e9e408aead42f",
+      "userId": "c87c422b94e56ebe098f369d",
+      "cost": 2031.91,
+      "products": [
+        "fa8bcc9cb61aa6edf4d6f5a0",
+        "c1b3be62c8b2f4fc83cf9667",
+        "baf07b11d2ae4a4941f8d8ff",
+        "c1b3be62c8b2f4fc83cf9667"
+      ]
+    },
+    {
+      "_id": "2670524a2db10c6746ec60ed",
+      "userId": "ade7b1cc1644d01e64f9aca2",
+      "cost": 2200.16,
+      "products": [
+        "cfcccc8e9b70dc8db9e1b837",
+        "cf9abe543ac500bd0dc83b4b"
+      ]
+    },
+    {
+      "_id": "df61e4cf1f5710185acd1a6a",
+      "userId": "badf9df3fdf2dd7cd74175dd",
+      "cost": 744.38,
+      "products": [
+        "298fcc7fb96c31efb24f65ce",
+        "cd0772a63cc63fce2aac137b",
+        "f2ffe373f7d02bfb21defc4f",
+        "226fbce8d9fff5de0eb6cc74"
+      ]
+    },
+    {
+      "_id": "1b3b215ee009ae00ea2ddb3d",
+      "userId": "e2dbd5facfcff1fe21cf8705",
+      "cost": 680.37,
+      "products": [
+        "b992b9aded5ca50480a1e4bf",
+        "cfcccc8e9b70dc8db9e1b837",
+        "c1b3be62c8b2f4fc83cf9667",
+        "fa8bcc9cb61aa6edf4d6f5a0",
+        "b992b9aded5ca50480a1e4bf"
+      ]
+    },
+    {
+      "_id": "cafc0c8e0dd8fed370ad566e",
+      "userId": "762d1f76eb836b8486f7be00",
+      "cost": 1539.94,
+      "products": [
+        "49bf6bbae1e9b1d9dffa131c",
+        "6af0f651a4ee5b7bb1dc2a10",
+        "6049d873b121d062d0df3e4c",
+        "c1b3be62c8b2f4fc83cf9667",
+        "b992b9aded5ca50480a1e4bf"
+      ]
+    },
+    {
+      "_id": "ccb443212afdc87dfce1dd5c",
+      "userId": "2cca7d2ff4d6fa3bf7be80bb",
+      "cost": 1638.2,
+      "products": [
+        "4f66e6b9ab7ff73596eb1e26",
+        "d2ba98bfcdfc96275e4dc7aa",
+        "6049d873b121d062d0df3e4c"
+      ]
+    },
+    {
+      "_id": "cc3eaa64bc019ff5edad2eb2",
+      "userId": "49a2ab07f23ac2dce20c0d6e",
+      "cost": 4467.04,
+      "products": [
+        "a66e2d500eba3a34c8fd43d8",
+        "fa8bcc9cb61aa6edf4d6f5a0",
+        "fa8bcc9cb61aa6edf4d6f5a0",
+        "baf07b11d2ae4a4941f8d8ff"
+      ]
+    },
+    {
+      "_id": "64ec94f0152e810e22bea6e8",
+      "userId": "403e1ff3ea4b70bdfecbc73a",
+      "cost": 3993.11,
+      "products": [
+        "cd4d9df62dd0fb546cd5e077"
+      ]
+    },
+    {
+      "_id": "eb5ddccdd05eb48c28990c8b",
+      "userId": "e0a735bafed01f391f02aa5f",
+      "cost": 4990.87,
+      "products": [
+        "d2ba98bfcdfc96275e4dc7aa",
+        "cf9abe543ac500bd0dc83b4b",
+        "b992b9aded5ca50480a1e4bf"
+      ]
+    },
+    {
+      "_id": "d69aa7a54dbce2f1478e0e3e",
+      "userId": "1f1ebd59c7614ecb9f245aef",
+      "cost": 2671.1,
+      "products": [
+        "ffc50fae2bcecbff05ef8e04",
+        "6049d873b121d062d0df3e4c"
+      ]
+    },
+    {
+      "_id": "57e11bf2c6613893cf07edae",
+      "userId": "52a059f8bb1cb800ecccf23f",
+      "cost": 2350.51,
+      "products": [
+        "49bf6bbae1e9b1d9dffa131c"
+      ]
+    },
+    {
+      "_id": "11915326e7ddac4bfebd8ed9",
+      "userId": "ffe9bdcfdb26d8e3fffeefb2",
+      "cost": 4181.51,
+      "products": [
+        "3f5ca7e6fe8cb6decd6675d1",
+        "cfb6f2deeeaab49d310af6a2",
+        "0c213acf22ceceaedd0b2afe"
+      ]
+    },
+    {
+      "_id": "46cefcbae06f1cfeccbaaa45",
+      "userId": "ca3f8a0c4021d83a94f9b8e5",
+      "cost": 2200.32,
+      "products": [
+        "7a7b4eb3a744aed8233767db",
+        "6af0f651a4ee5b7bb1dc2a10",
+        "cf9abe543ac500bd0dc83b4b",
+        "baf07b11d2ae4a4941f8d8ff",
+        "6049d873b121d062d0df3e4c"
+      ]
+    },
+    {
+      "_id": "cae6ec37e0aba4607c7eca5f",
+      "userId": "db40f98ad48ed68aeddcc64f",
+      "cost": 1162.66,
+      "products": [
+        "0c213acf22ceceaedd0b2afe",
+        "cd4d9df62dd0fb546cd5e077",
+        "a66e2d500eba3a34c8fd43d8"
+      ]
+    },
+    {
+      "_id": "9a9dadfe56e5a26fdcdfbe28",
+      "userId": "9dc4af6e3615d17e4bad699a",
+      "cost": 741.98,
+      "products": [
+        "3f5ca7e6fe8cb6decd6675d1",
+        "baf07b11d2ae4a4941f8d8ff"
+      ]
+    },
+    {
+      "_id": "f14b1fca7ccf8c7c579d67a5",
+      "userId": "83b8f368f0c19fd5a6d4fee2",
+      "cost": 4262.15,
+      "products": [
+        "cc48a96c045491aab31bdef3",
+        "baf07b11d2ae4a4941f8d8ff",
+        "49bf6bbae1e9b1d9dffa131c",
+        "438bce7fd0db0b1bc468cecd"
+      ]
+    },
+    {
+      "_id": "2585dbdccf7f32a834661ef4",
+      "userId": "a6c0cc5bbaf5d0ce18ffba9b",
+      "cost": 3482.94,
+      "products": [
+        "cd4d9df62dd0fb546cd5e077",
+        "d2ba98bfcdfc96275e4dc7aa",
+        "a66e2d500eba3a34c8fd43d8",
+        "226fbce8d9fff5de0eb6cc74"
+      ]
+    },
+    {
+      "_id": "ee5dbba8ee0ad82a31d07ee8",
+      "userId": "5fc0d167c9ce62edc407fa60",
+      "cost": 2304.08,
+      "products": [
+        "f2ffe373f7d02bfb21defc4f",
+        "f2ffe373f7d02bfb21defc4f"
+      ]
+    },
+    {
+      "_id": "a4ea2db26cea14abfa0dcecb",
+      "userId": "762d1f76eb836b8486f7be00",
+      "cost": 4365.96,
+      "products": [
+        "cc43af59a4beb0b82abd600f",
+        "cc48a96c045491aab31bdef3"
+      ]
+    },
+    {
+      "_id": "baac23e2a80c4a2aa281f4f4",
+      "userId": "baeb1bd1f45f36ad64d91b64",
+      "cost": 4007.02,
+      "products": [
+        "cd0772a63cc63fce2aac137b",
+        "b992b9aded5ca50480a1e4bf",
+        "3f5ca7e6fe8cb6decd6675d1"
+      ]
+    },
+    {
+      "_id": "b8b68c31038be7c0f0f5c4a1",
+      "userId": "5e46fcbcc6354feeb3bca197",
+      "cost": 4915.61,
+      "products": [
+        "baf07b11d2ae4a4941f8d8ff"
+      ]
+    },
+    {
+      "_id": "f25bde4ef1ff992ffdae6bbb",
+      "userId": "a6d547acf5d2ee07ce14ddca",
+      "cost": 374.16,
+      "products": [
+        "7a7b4eb3a744aed8233767db",
+        "3f5ca7e6fe8cb6decd6675d1",
+        "cd4d9df62dd0fb546cd5e077",
+        "0c213acf22ceceaedd0b2afe"
+      ]
+    },
+    {
+      "_id": "4bf2f5bab43d090cea28bccf",
+      "userId": "ca445bce2c79eb357ca27ac5",
+      "cost": 1343.65,
+      "products": [
+        "4f66e6b9ab7ff73596eb1e26",
+        "7a7b4eb3a744aed8233767db",
+        "49bf6bbae1e9b1d9dffa131c",
+        "cc43af59a4beb0b82abd600f",
+        "6049d873b121d062d0df3e4c"
+      ]
+    },
+    {
+      "_id": "acdbe9cacde49827efee5eba",
+      "userId": "eea21cc99f10d9a6ebccd7fa",
+      "cost": 3395.95,
+      "products": [
+        "d2ba98bfcdfc96275e4dc7aa",
+        "cd4d9df62dd0fb546cd5e077",
+        "d2ba98bfcdfc96275e4dc7aa"
+      ]
+    },
+    {
+      "_id": "fd5bd1aa771af3b387411c9c",
+      "userId": "c87c422b94e56ebe098f369d",
+      "cost": 605.78,
+      "products": [
+        "ffc50fae2bcecbff05ef8e04",
+        "226fbce8d9fff5de0eb6cc74"
+      ]
+    },
+    {
+      "_id": "a2ee6e0b63aedfe48b038ee3",
+      "userId": "adacdddcab55bce0e988eafc",
+      "cost": 1588.51,
+      "products": [
+        "cfb6f2deeeaab49d310af6a2",
+        "cc48a96c045491aab31bdef3",
+        "cd0772a63cc63fce2aac137b",
+        "cd0772a63cc63fce2aac137b",
+        "cd4d9df62dd0fb546cd5e077"
+      ]
+    },
+    {
+      "_id": "b9a2ef457c52e8edad10febd",
+      "userId": "1f1ebd59c7614ecb9f245aef",
+      "cost": 3769.64,
+      "products": [
+        "cfb6f2deeeaab49d310af6a2",
+        "49bf6bbae1e9b1d9dffa131c",
+        "fa8bcc9cb61aa6edf4d6f5a0"
+      ]
+    },
+    {
+      "_id": "0dcb1cf51075d0d6c5dcf4c2",
+      "userId": "5e46fcbcc6354feeb3bca197",
+      "cost": 4900.8,
+      "products": [
+        "fa8bcc9cb61aa6edf4d6f5a0",
+        "ffc50fae2bcecbff05ef8e04",
+        "7a7b4eb3a744aed8233767db",
+        "baf07b11d2ae4a4941f8d8ff",
+        "a66e2d500eba3a34c8fd43d8"
+      ]
+    },
+    {
+      "_id": "c4d34299784df0b3efed7402",
+      "userId": "b89b4acf9c78acbe4bfb8fcb",
+      "cost": 4195.03,
+      "products": [
+        "a66e2d500eba3a34c8fd43d8",
+        "49bf6bbae1e9b1d9dffa131c",
+        "f2ffe373f7d02bfb21defc4f",
+        "baf07b11d2ae4a4941f8d8ff"
+      ]
+    },
+    {
+      "_id": "4b3aedabeaf409f8000f564a",
+      "userId": "985ba86c8c0cc816bae4fcf0",
+      "cost": 4382.11,
+      "products": [
+        "ffc50fae2bcecbff05ef8e04"
+      ]
+    },
+    {
+      "_id": "f89de1876dd2cbaf179dd177",
+      "userId": "1947bbe792ecfcf4dae14ca5",
+      "cost": 155.93,
+      "products": [
+        "cfb6f2deeeaab49d310af6a2",
+        "7a7b4eb3a744aed8233767db",
+        "6049d873b121d062d0df3e4c",
+        "4f66e6b9ab7ff73596eb1e26",
+        "b992b9aded5ca50480a1e4bf"
+      ]
+    },
+    {
+      "_id": "3ae01708ea121fccb2f6cffa",
+      "userId": "a2ffaabe8e3e807ad46bed21",
+      "cost": 1063.4,
+      "products": [
+        "4f66e6b9ab7ff73596eb1e26"
+      ]
+    },
+    {
+      "_id": "46caa4b3eca035bde2def93c",
+      "userId": "8abfeb20bcc459bde0569320",
+      "cost": 2761.47,
+      "products": [
+        "0c213acf22ceceaedd0b2afe",
+        "cd4d9df62dd0fb546cd5e077",
+        "cd4d9df62dd0fb546cd5e077"
+      ]
+    },
+    {
+      "_id": "eeed8b46013fde5d7aceacc7",
+      "userId": "93fa93bdddab5fe4b4e78cdb",
+      "cost": 4482.82,
+      "products": [
+        "438bce7fd0db0b1bc468cecd"
+      ]
+    },
+    {
+      "_id": "c0a8b2996b75aaa135d099ea",
+      "userId": "41ca6dcadc25fa3f4fccf712",
+      "cost": 3680.8,
+      "products": [
+        "cd0772a63cc63fce2aac137b",
+        "cd0772a63cc63fce2aac137b",
+        "cc43af59a4beb0b82abd600f",
+        "cd0772a63cc63fce2aac137b"
+      ]
+    },
+    {
+      "_id": "c8382ccacd2540cbaf4222c8",
+      "userId": "2ab922ddd82fd2e1a0ede019",
+      "cost": 3661.62,
+      "products": [
+        "c1b3be62c8b2f4fc83cf9667",
+        "cd0772a63cc63fce2aac137b",
+        "cd0772a63cc63fce2aac137b",
+        "baf07b11d2ae4a4941f8d8ff"
+      ]
+    },
+    {
+      "_id": "f393aab3aca290afd7c85cd3",
+      "userId": "bee5aa5a93fbccabd62f0c22",
+      "cost": 398.39,
+      "products": [
+        "a66e2d500eba3a34c8fd43d8",
+        "fa8bcc9cb61aa6edf4d6f5a0",
+        "fa8bcc9cb61aa6edf4d6f5a0",
+        "cc43af59a4beb0b82abd600f",
+        "fa8bcc9cb61aa6edf4d6f5a0"
+      ]
+    },
+    {
+      "_id": "4fefa874d1d2f62467cb0be4",
+      "userId": "cacc5aee733bbc7eaffaf9f8",
+      "cost": 1346.27,
+      "products": [
+        "298fcc7fb96c31efb24f65ce",
+        "cfcccc8e9b70dc8db9e1b837"
+      ]
+    },
+    {
+      "_id": "bbcbba63f2fcc5ebe1a7bee0",
+      "userId": "0adac04da22bb5dd3da1065b",
+      "cost": 1662.59,
+      "products": [
+        "cd4d9df62dd0fb546cd5e077",
+        "cf9abe543ac500bd0dc83b4b"
+      ]
+    },
+    {
+      "_id": "b35aa28bf6c0a13cf7c7f7b7",
+      "userId": "b14d3cf2936ea695a4f5a803",
+      "cost": 1981.44,
+      "products": [
+        "d2ba98bfcdfc96275e4dc7aa",
+        "cf9abe543ac500bd0dc83b4b"
+      ]
+    },
+    {
+      "_id": "e79d8ceadcdaf24af410b10a",
+      "userId": "a6ad4a5e76c3fda8c4fce07f",
+      "cost": 4098.94,
+      "products": [
+        "fa8bcc9cb61aa6edf4d6f5a0",
+        "ffc50fae2bcecbff05ef8e04",
+        "a66e2d500eba3a34c8fd43d8",
+        "cd4d9df62dd0fb546cd5e077"
+      ]
+    },
+    {
+      "_id": "2673aedaf8de1b50f9fc8571",
+      "userId": "2be3c0b96bcfe0ac3fc6fdc6",
+      "cost": 534.68,
+      "products": [
+        "3f5ca7e6fe8cb6decd6675d1"
+      ]
+    },
+    {
+      "_id": "dbfdad6fb2094489a9b5bd7a",
+      "userId": "61ea2147b04b5319fb5df61d",
+      "cost": 1816.8,
+      "products": [
+        "49bf6bbae1e9b1d9dffa131c",
+        "b992b9aded5ca50480a1e4bf",
+        "cc48a96c045491aab31bdef3",
+        "298fcc7fb96c31efb24f65ce",
+        "ffc50fae2bcecbff05ef8e04"
+      ]
+    },
+    {
+      "_id": "d800ba3be91fef46a1dbdca3",
+      "userId": "e2dbd5facfcff1fe21cf8705",
+      "cost": 1819.9,
+      "products": [
+        "b992b9aded5ca50480a1e4bf",
+        "6049d873b121d062d0df3e4c"
+      ]
+    },
+    {
+      "_id": "70c3dcaec25603fdba3b3cc5",
+      "userId": "ad2b9bafd8a1debbc77ddbea",
+      "cost": 1251.68,
+      "products": [
+        "226fbce8d9fff5de0eb6cc74",
+        "cfb6f2deeeaab49d310af6a2",
+        "7a7b4eb3a744aed8233767db",
+        "7a7b4eb3a744aed8233767db",
+        "b992b9aded5ca50480a1e4bf"
+      ]
+    },
+    {
+      "_id": "4f8af2b1a8dad9a5ad16d53a",
+      "userId": "ebfbf2cee06ccc09a0ebcffc",
+      "cost": 861.12,
+      "products": [
+        "a66e2d500eba3a34c8fd43d8",
+        "d2ba98bfcdfc96275e4dc7aa",
+        "3f5ca7e6fe8cb6decd6675d1"
+      ]
+    },
+    {
+      "_id": "e1f2dc37d7ddebdd9e73bbf7",
+      "userId": "eea21cc99f10d9a6ebccd7fa",
+      "cost": 3836.33,
+      "products": [
+        "4f66e6b9ab7ff73596eb1e26",
+        "cfcccc8e9b70dc8db9e1b837",
+        "d2ba98bfcdfc96275e4dc7aa"
+      ]
+    },
+    {
+      "_id": "bbc05edd5413a3a0abecfad9",
+      "userId": "3ae47eaee00ea0ce15b0ebef",
+      "cost": 754.2,
+      "products": [
+        "438bce7fd0db0b1bc468cecd",
+        "cc43af59a4beb0b82abd600f",
+        "baf07b11d2ae4a4941f8d8ff"
+      ]
+    },
+    {
+      "_id": "beb60be332cddb4be0fafd46",
+      "userId": "5defb3b3ca504e9d57b67fe4",
+      "cost": 2751.38,
+      "products": [
+        "0c213acf22ceceaedd0b2afe",
+        "ffc50fae2bcecbff05ef8e04"
+      ]
+    },
+    {
+      "_id": "dcdc3c9bfbeb2c1757d70fc9",
+      "userId": "9a8adcb3db4d391de7cb3ee2",
+      "cost": 1196.03,
+      "products": [
+        "f2ffe373f7d02bfb21defc4f"
+      ]
+    },
+    {
+      "_id": "fef715c9ea1eff1c4a4ebea9",
+      "userId": "2f4861ba64f5ce00a7ea5b4c",
+      "cost": 4215.15,
+      "products": [
+        "fa8bcc9cb61aa6edf4d6f5a0",
+        "298fcc7fb96c31efb24f65ce",
+        "3f5ca7e6fe8cb6decd6675d1",
+        "fa8bcc9cb61aa6edf4d6f5a0"
+      ]
+    },
+    {
+      "_id": "a67bdefe86e30324a81c72dd",
+      "userId": "adf7df38b35b9ea13da6dd0d",
+      "cost": 1316.89,
+      "products": [
+        "3f5ca7e6fe8cb6decd6675d1",
+        "298fcc7fb96c31efb24f65ce"
+      ]
+    },
+    {
+      "_id": "abddff7ac09ebbfc6eb737da",
+      "userId": "dd22be7b8d4e2a2af17df5d6",
+      "cost": 2492.24,
+      "products": [
+        "298fcc7fb96c31efb24f65ce"
+      ]
+    },
+    {
+      "_id": "0d89ea8d4fe2de3b1cfe0bc5",
+      "userId": "c11d0f2abc1b725ccf52eba6",
+      "cost": 2801.58,
+      "products": [
+        "298fcc7fb96c31efb24f65ce"
+      ]
+    },
+    {
+      "_id": "211d4ea4d2bbf001adbb4cab",
+      "userId": "a6ad4a5e76c3fda8c4fce07f",
+      "cost": 2775.49,
+      "products": [
+        "b992b9aded5ca50480a1e4bf",
+        "49bf6bbae1e9b1d9dffa131c",
+        "cf9abe543ac500bd0dc83b4b",
+        "cfcccc8e9b70dc8db9e1b837",
+        "cc48a96c045491aab31bdef3"
+      ]
+    },
+    {
+      "_id": "e173ebb4af3eae2fcc6b84de",
+      "userId": "d5680a6fc834ed175bcda2a4",
+      "cost": 3328.32,
+      "products": [
+        "b992b9aded5ca50480a1e4bf",
+        "7a7b4eb3a744aed8233767db",
+        "226fbce8d9fff5de0eb6cc74",
+        "226fbce8d9fff5de0eb6cc74"
+      ]
+    },
+    {
+      "_id": "a2ca3d989d80c8070a49eacf",
+      "userId": "c11d0f2abc1b725ccf52eba6",
+      "cost": 3398.16,
+      "products": [
+        "cc48a96c045491aab31bdef3",
+        "6049d873b121d062d0df3e4c",
+        "d2ba98bfcdfc96275e4dc7aa",
+        "f2ffe373f7d02bfb21defc4f"
+      ]
+    },
+    {
+      "_id": "62aaaddbe6cc2f89cee8b8f9",
+      "userId": "ffe9bdcfdb26d8e3fffeefb2",
+      "cost": 4739,
+      "products": [
+        "cd0772a63cc63fce2aac137b",
+        "4f66e6b9ab7ff73596eb1e26",
+        "cfb6f2deeeaab49d310af6a2",
+        "fa8bcc9cb61aa6edf4d6f5a0",
+        "cd0772a63cc63fce2aac137b"
+      ]
+    },
+    {
+      "_id": "dabff56a8f0af5e7eedb9150",
+      "userId": "93fa93bdddab5fe4b4e78cdb",
+      "cost": 4248.34,
+      "products": [
+        "4f66e6b9ab7ff73596eb1e26"
+      ]
+    },
+    {
+      "_id": "aa3babaf7f79871f82befe1e",
+      "userId": "ee1ab8347325100d0e06af9f",
+      "cost": 4372.52,
+      "products": [
+        "cd0772a63cc63fce2aac137b",
+        "0c213acf22ceceaedd0b2afe"
+      ]
+    },
+    {
+      "_id": "d9d88b8b3f48eb0f1129de40",
+      "userId": "b5db456ee9cfaaef3affcf86",
+      "cost": 759.54,
+      "products": [
+        "0c213acf22ceceaedd0b2afe",
+        "cc43af59a4beb0b82abd600f",
+        "49bf6bbae1e9b1d9dffa131c",
+        "cf9abe543ac500bd0dc83b4b"
+      ]
+    },
+    {
+      "_id": "577d3d4fdc2ad538da01bbe2",
+      "userId": "bebe70dfabd0babcf963dfd9",
+      "cost": 366.47,
+      "products": [
+        "3f5ca7e6fe8cb6decd6675d1",
+        "cfb6f2deeeaab49d310af6a2",
+        "3f5ca7e6fe8cb6decd6675d1",
+        "f2ffe373f7d02bfb21defc4f",
+        "49bf6bbae1e9b1d9dffa131c"
+      ]
+    },
+    {
+      "_id": "20e993bd02ddbfafc3c0ef00",
+      "userId": "c87c422b94e56ebe098f369d",
+      "cost": 3450.27,
+      "products": [
+        "ffc50fae2bcecbff05ef8e04",
+        "298fcc7fb96c31efb24f65ce",
+        "cfb6f2deeeaab49d310af6a2",
+        "cc43af59a4beb0b82abd600f"
+      ]
+    },
+    {
+      "_id": "01bfc62faf698de278a89d3b",
+      "userId": "54ffe741905fa8afc3a1f814",
+      "cost": 637.92,
+      "products": [
+        "cfb6f2deeeaab49d310af6a2",
+        "a66e2d500eba3a34c8fd43d8",
+        "c1b3be62c8b2f4fc83cf9667",
+        "cc43af59a4beb0b82abd600f"
+      ]
+    },
+    {
+      "_id": "2e3ecd3a5fbd1ee488a20dc6",
+      "userId": "17c4ca6dbbdaebf807aeb0c6",
+      "cost": 4906.12,
+      "products": [
+        "cfcccc8e9b70dc8db9e1b837"
+      ]
+    },
+    {
+      "_id": "c1b4f0c4da479af8cff081bc",
+      "userId": "9f5d0aa367facbeb44bc4ccd",
+      "cost": 1528.96,
+      "products": [
+        "4f66e6b9ab7ff73596eb1e26",
+        "3f5ca7e6fe8cb6decd6675d1",
+        "438bce7fd0db0b1bc468cecd",
+        "cc48a96c045491aab31bdef3",
+        "a66e2d500eba3a34c8fd43d8"
+      ]
+    },
+    {
+      "_id": "b2d41b7eded142bd8ca8dcc2",
+      "userId": "5e46fcbcc6354feeb3bca197",
+      "cost": 2889.26,
+      "products": [
+        "6049d873b121d062d0df3e4c",
+        "d2ba98bfcdfc96275e4dc7aa",
+        "baf07b11d2ae4a4941f8d8ff",
+        "cf9abe543ac500bd0dc83b4b",
+        "cc48a96c045491aab31bdef3"
+      ]
+    },
+    {
+      "_id": "e6f1aa7e043d3030fd2c8ee3",
+      "userId": "c9eebdddcbef2dcef9d74bcf",
+      "cost": 1519.72,
+      "products": [
+        "cc43af59a4beb0b82abd600f",
+        "c1b3be62c8b2f4fc83cf9667",
+        "6049d873b121d062d0df3e4c",
+        "fa8bcc9cb61aa6edf4d6f5a0"
+      ]
+    },
+    {
+      "_id": "f4f7f3eda5c0faf583afbffd",
+      "userId": "a5ba560ab4a17f0b55efbec5",
+      "cost": 4976.7,
+      "products": [
+        "7a7b4eb3a744aed8233767db",
+        "6049d873b121d062d0df3e4c"
+      ]
+    },
+    {
+      "_id": "939c91fdc440062899d9831e",
+      "userId": "d3a60ffc9051887ad8ab02f6",
+      "cost": 2871.66,
+      "products": [
+        "b992b9aded5ca50480a1e4bf",
+        "6049d873b121d062d0df3e4c",
+        "0c213acf22ceceaedd0b2afe",
+        "6049d873b121d062d0df3e4c"
+      ]
+    },
+    {
+      "_id": "71a77de62e80b05e0e9acbfd",
+      "userId": "c55bb93b6b49be40af95accd",
+      "cost": 2546.4,
+      "products": [
+        "438bce7fd0db0b1bc468cecd",
+        "d2ba98bfcdfc96275e4dc7aa",
+        "cfcccc8e9b70dc8db9e1b837"
+      ]
+    },
+    {
+      "_id": "1abc4fc6c4accf82b92d76d9",
+      "userId": "a50ae25bc37bdd3bef8386b5",
+      "cost": 3759.3,
+      "products": [
+        "438bce7fd0db0b1bc468cecd",
+        "f2ffe373f7d02bfb21defc4f",
+        "cc43af59a4beb0b82abd600f",
+        "7a7b4eb3a744aed8233767db"
+      ]
+    },
+    {
+      "_id": "4f61d1f54d2b5fd0142d6aad",
+      "userId": "5e46fcbcc6354feeb3bca197",
+      "cost": 733.91,
+      "products": [
+        "6af0f651a4ee5b7bb1dc2a10",
+        "3f5ca7e6fe8cb6decd6675d1",
+        "baf07b11d2ae4a4941f8d8ff"
+      ]
+    },
+    {
+      "_id": "200a0ea37aec02d43f52f9cb",
+      "userId": "c5fbfcedfe2fedfacf299d20",
+      "cost": 4409.22,
+      "products": [
+        "cc43af59a4beb0b82abd600f"
+      ]
+    },
+    {
+      "_id": "21e67dbabac79cc711dfe8cb",
+      "userId": "a2ffaabe8e3e807ad46bed21",
+      "cost": 2474.36,
+      "products": [
+        "a66e2d500eba3a34c8fd43d8"
+      ]
+    },
+    {
+      "_id": "2fda3fa55214fafcf58de353",
+      "userId": "b49d9613c9c8c4db2a45071f",
+      "cost": 2138.95,
+      "products": [
+        "cd4d9df62dd0fb546cd5e077",
+        "0c213acf22ceceaedd0b2afe",
+        "fa8bcc9cb61aa6edf4d6f5a0",
+        "c1b3be62c8b2f4fc83cf9667",
+        "fa8bcc9cb61aa6edf4d6f5a0"
+      ]
+    },
+    {
+      "_id": "08da3eca53b304ab43a7e790",
+      "userId": "9b508ec72d2afb7094ea10af",
+      "cost": 2915.56,
+      "products": [
+        "cd4d9df62dd0fb546cd5e077",
+        "a66e2d500eba3a34c8fd43d8",
+        "d2ba98bfcdfc96275e4dc7aa"
+      ]
+    },
+    {
+      "_id": "fdfbf7fbf82bffecbed75c5e",
+      "userId": "a6d547acf5d2ee07ce14ddca",
+      "cost": 2642.61,
+      "products": [
+        "438bce7fd0db0b1bc468cecd",
+        "6af0f651a4ee5b7bb1dc2a10",
+        "c1b3be62c8b2f4fc83cf9667",
+        "298fcc7fb96c31efb24f65ce",
+        "ffc50fae2bcecbff05ef8e04"
+      ]
+    },
+    {
+      "_id": "c504a480c58f981ceaad1e8e",
+      "userId": "cb6ee6fa8d6c67e3cdd9b6bd",
+      "cost": 1623.04,
+      "products": [
+        "cd0772a63cc63fce2aac137b",
+        "cc43af59a4beb0b82abd600f",
+        "49bf6bbae1e9b1d9dffa131c",
+        "b992b9aded5ca50480a1e4bf",
+        "298fcc7fb96c31efb24f65ce"
+      ]
+    },
+    {
+      "_id": "0b6aa6889df0b2514a5d5f1f",
+      "userId": "7cdbefe47adf1a06c107fdfa",
+      "cost": 1309.99,
+      "products": [
+        "438bce7fd0db0b1bc468cecd",
+        "cfcccc8e9b70dc8db9e1b837",
+        "4f66e6b9ab7ff73596eb1e26",
+        "7a7b4eb3a744aed8233767db",
+        "baf07b11d2ae4a4941f8d8ff"
+      ]
+    },
+    {
+      "_id": "9b8b942a590bd8dbeb7ffcb3",
+      "userId": "a5ba560ab4a17f0b55efbec5",
+      "cost": 3245.97,
+      "products": [
+        "3f5ca7e6fe8cb6decd6675d1"
+      ]
+    },
+    {
+      "_id": "81c28c12bcafab3dbee071ef",
+      "userId": "cf23ceddaea0dcfefa0da9e7",
+      "cost": 3176.7,
+      "products": [
+        "0c213acf22ceceaedd0b2afe",
+        "a66e2d500eba3a34c8fd43d8",
+        "f2ffe373f7d02bfb21defc4f",
+        "cfb6f2deeeaab49d310af6a2"
+      ]
+    },
+    {
+      "_id": "13a601c9d3c9dde80f541fd8",
+      "userId": "18dabe43db6f35b0cb19176e",
+      "cost": 3358.04,
+      "products": [
+        "cd4d9df62dd0fb546cd5e077"
+      ]
+    },
+    {
+      "_id": "c678efd3b510d54f5efedea4",
+      "userId": "bee5aa5a93fbccabd62f0c22",
+      "cost": 3351.37,
+      "products": [
+        "c1b3be62c8b2f4fc83cf9667",
+        "3f5ca7e6fe8cb6decd6675d1",
+        "cc48a96c045491aab31bdef3"
+      ]
+    },
+    {
+      "_id": "5e4d2a0b74e1d0ffad6112c7",
+      "userId": "d9b8a03cba4a7c8e9ea849da",
+      "cost": 3817.1,
+      "products": [
+        "226fbce8d9fff5de0eb6cc74",
+        "c1b3be62c8b2f4fc83cf9667",
+        "3f5ca7e6fe8cb6decd6675d1"
+      ]
+    },
+    {
+      "_id": "95e3cfd14992cba37d6e2f8d",
+      "userId": "edb3aea15bf7a038f9f8a9df",
+      "cost": 4088.75,
+      "products": [
+        "226fbce8d9fff5de0eb6cc74"
+      ]
+    },
+    {
+      "_id": "d0e0d4e2da4bb2e50c0bbe0f",
+      "userId": "52a059f8bb1cb800ecccf23f",
+      "cost": 4134.21,
+      "products": [
+        "cc43af59a4beb0b82abd600f",
+        "cf9abe543ac500bd0dc83b4b"
+      ]
+    },
+    {
+      "_id": "7da7daaa67b295d16ce6ed96",
+      "userId": "47de2baaf8adf9afa8b1ab2e",
+      "cost": 1708.54,
+      "products": [
+        "baf07b11d2ae4a4941f8d8ff",
+        "cc43af59a4beb0b82abd600f"
+      ]
+    },
+    {
+      "_id": "e0c429e9f8f51efa9e82f003",
+      "userId": "acb85cabbbe821fbc590421c",
+      "cost": 3346.64,
+      "products": [
+        "226fbce8d9fff5de0eb6cc74",
+        "a66e2d500eba3a34c8fd43d8"
+      ]
+    },
+    {
+      "_id": "dd1cd22632ccc9f579552ee8",
+      "userId": "b5b3bb88ca6bcdd2f7ba2700",
+      "cost": 3928.03,
+      "products": [
+        "c1b3be62c8b2f4fc83cf9667"
+      ]
+    },
+    {
+      "_id": "b7fa5ebf8670697afc123991",
+      "userId": "ff88bb98d7bcd55ba62faf90",
+      "cost": 411.14,
+      "products": [
+        "b992b9aded5ca50480a1e4bf",
+        "6049d873b121d062d0df3e4c"
+      ]
+    },
+    {
+      "_id": "97b5fba97067e5dc8fa3da0a",
+      "userId": "a3b7ee3cf854c59871eeb150",
+      "cost": 1846.49,
+      "products": [
+        "4f66e6b9ab7ff73596eb1e26",
+        "0c213acf22ceceaedd0b2afe",
+        "cd4d9df62dd0fb546cd5e077"
+      ]
+    },
+    {
+      "_id": "acdcf29f5beb14fd9c5f6ba5",
+      "userId": "d1fb1a3cd0febbf5ccecf543",
+      "cost": 1863.37,
+      "products": [
+        "b992b9aded5ca50480a1e4bf",
+        "fa8bcc9cb61aa6edf4d6f5a0",
+        "d2ba98bfcdfc96275e4dc7aa",
+        "fa8bcc9cb61aa6edf4d6f5a0",
+        "ffc50fae2bcecbff05ef8e04"
+      ]
+    },
+    {
+      "_id": "cfafbb480ab1757fdb4df6dd",
+      "userId": "a50ae25bc37bdd3bef8386b5",
+      "cost": 2759.16,
+      "products": [
+        "4f66e6b9ab7ff73596eb1e26",
+        "cd0772a63cc63fce2aac137b",
+        "4f66e6b9ab7ff73596eb1e26"
+      ]
+    },
+    {
+      "_id": "86b18db617b029b1f46e1df7",
+      "userId": "adcdea2438f5c40bcd913be3",
+      "cost": 373.49,
+      "products": [
+        "298fcc7fb96c31efb24f65ce",
+        "cc48a96c045491aab31bdef3",
+        "49bf6bbae1e9b1d9dffa131c",
+        "cfb6f2deeeaab49d310af6a2"
+      ]
+    },
+    {
+      "_id": "3ccff487ecef8a0670acfbaf",
+      "userId": "1f1ebd59c7614ecb9f245aef",
+      "cost": 906.7,
+      "products": [
+        "6049d873b121d062d0df3e4c",
+        "0c213acf22ceceaedd0b2afe",
+        "f2ffe373f7d02bfb21defc4f"
+      ]
+    },
+    {
+      "_id": "b2b720a42b8e8fdcd4c7b93a",
+      "userId": "ac91ca6219bbd5dafbc1a0f2",
+      "cost": 4305.68,
+      "products": [
+        "226fbce8d9fff5de0eb6cc74",
+        "a66e2d500eba3a34c8fd43d8",
+        "cd4d9df62dd0fb546cd5e077",
+        "226fbce8d9fff5de0eb6cc74",
+        "438bce7fd0db0b1bc468cecd"
+      ]
+    },
+    {
+      "_id": "6ab7faaba6d0ccfe8daa413a",
+      "userId": "7b40bdef2d09eaf67a77babc",
+      "cost": 3041.25,
+      "products": [
+        "cd4d9df62dd0fb546cd5e077",
+        "d2ba98bfcdfc96275e4dc7aa"
+      ]
+    },
+    {
+      "_id": "858d7acd9d8edcd6bcacfef1",
+      "userId": "ddde24deadc8413ed7c55908",
+      "cost": 4548.44,
+      "products": [
+        "cc43af59a4beb0b82abd600f"
+      ]
+    },
+    {
+      "_id": "bf2c9b7cb462d595738f4fa8",
+      "userId": "eec5b6fc4eed0b9a3d9cfdf8",
+      "cost": 2585.71,
+      "products": [
+        "3f5ca7e6fe8cb6decd6675d1",
+        "4f66e6b9ab7ff73596eb1e26",
+        "6af0f651a4ee5b7bb1dc2a10",
+        "fa8bcc9cb61aa6edf4d6f5a0"
+      ]
+    },
+    {
+      "_id": "ea4bcaa934ca5ff21e31f591",
+      "userId": "adacdddcab55bce0e988eafc",
+      "cost": 4636.58,
+      "products": [
+        "49bf6bbae1e9b1d9dffa131c",
+        "298fcc7fb96c31efb24f65ce"
+      ]
+    },
+    {
+      "_id": "a9f89dfbb7d29ca8a358d6fa",
+      "userId": "9f5d0aa367facbeb44bc4ccd",
+      "cost": 661.44,
+      "products": [
+        "cfcccc8e9b70dc8db9e1b837"
+      ]
+    },
+    {
+      "_id": "f0247554c8d2af3ee2c4e1aa",
+      "userId": "17c4ca6dbbdaebf807aeb0c6",
+      "cost": 1236.59,
+      "products": [
+        "6049d873b121d062d0df3e4c",
+        "d2ba98bfcdfc96275e4dc7aa",
+        "226fbce8d9fff5de0eb6cc74",
+        "b992b9aded5ca50480a1e4bf",
+        "49bf6bbae1e9b1d9dffa131c"
+      ]
+    },
+    {
+      "_id": "355d1b4c4bcece1d6cfaeae9",
+      "userId": "f1150cebf4a7f5fcbac547cf",
+      "cost": 706.77,
+      "products": [
+        "fa8bcc9cb61aa6edf4d6f5a0",
+        "6049d873b121d062d0df3e4c",
+        "baf07b11d2ae4a4941f8d8ff",
+        "298fcc7fb96c31efb24f65ce"
+      ]
+    },
+    {
+      "_id": "b038fe8fb65fca0dbba81dad",
+      "userId": "3cabe957fc75baf5edaa196f",
+      "cost": 2724.97,
+      "products": [
+        "cfcccc8e9b70dc8db9e1b837",
+        "f2ffe373f7d02bfb21defc4f"
+      ]
+    },
+    {
+      "_id": "37fcc60546c934cfcaabb58b",
+      "userId": "05013dd5c0760e63df3a341e",
+      "cost": 3042.77,
+      "products": [
+        "49bf6bbae1e9b1d9dffa131c",
+        "cc48a96c045491aab31bdef3"
+      ]
+    },
+    {
+      "_id": "9864ab5f4f4adcc6ecebe1e8",
+      "userId": "a70d43edc92e6bbd6e211e8b",
+      "cost": 1338.34,
+      "products": [
+        "cf9abe543ac500bd0dc83b4b",
+        "6049d873b121d062d0df3e4c",
+        "cfb6f2deeeaab49d310af6a2",
+        "3f5ca7e6fe8cb6decd6675d1"
+      ]
+    },
+    {
+      "_id": "eeb8ebff55ae286ed9b29ecd",
+      "userId": "cacc5aee733bbc7eaffaf9f8",
+      "cost": 3764.54,
+      "products": [
+        "7a7b4eb3a744aed8233767db",
+        "ffc50fae2bcecbff05ef8e04",
+        "cd4d9df62dd0fb546cd5e077",
+        "7a7b4eb3a744aed8233767db",
+        "cfb6f2deeeaab49d310af6a2"
+      ]
+    },
+    {
+      "_id": "2efcad87dbcbe76ece1c9f13",
+      "userId": "dda5cd7519a4a0df2c2faee6",
+      "cost": 320.29,
+      "products": [
+        "438bce7fd0db0b1bc468cecd"
+      ]
+    },
+    {
+      "_id": "2ce9308a43ad04481b28f9ea",
+      "userId": "b89b4acf9c78acbe4bfb8fcb",
+      "cost": 1393.76,
+      "products": [
+        "cfcccc8e9b70dc8db9e1b837",
+        "f2ffe373f7d02bfb21defc4f",
+        "cd0772a63cc63fce2aac137b"
+      ]
+    },
+    {
+      "_id": "f4de792273a9dcde9e8d2d39",
+      "userId": "ad2b9bafd8a1debbc77ddbea",
+      "cost": 702.23,
+      "products": [
+        "6049d873b121d062d0df3e4c",
+        "298fcc7fb96c31efb24f65ce",
+        "d2ba98bfcdfc96275e4dc7aa",
+        "f2ffe373f7d02bfb21defc4f",
+        "cfcccc8e9b70dc8db9e1b837"
+      ]
+    },
+    {
+      "_id": "670fbaa967bfde85ce8b3550",
+      "userId": "87dbeffbae8c3bcf805bbdae",
+      "cost": 1946.38,
+      "products": [
+        "49bf6bbae1e9b1d9dffa131c",
+        "6af0f651a4ee5b7bb1dc2a10"
+      ]
+    },
+    {
+      "_id": "a7fc6519e0480dccbd7a641c",
+      "userId": "98b95bacee9a0c9b58afdfd5",
+      "cost": 957.07,
+      "products": [
+        "438bce7fd0db0b1bc468cecd",
+        "d2ba98bfcdfc96275e4dc7aa",
+        "cfb6f2deeeaab49d310af6a2",
+        "3f5ca7e6fe8cb6decd6675d1"
+      ]
+    },
+    {
+      "_id": "d85f2fb1742cda446cc5cbfc",
+      "userId": "addbddf6d2cf2b4b498ccaad",
+      "cost": 359,
+      "products": [
+        "cc43af59a4beb0b82abd600f",
+        "cfb6f2deeeaab49d310af6a2",
+        "cfcccc8e9b70dc8db9e1b837"
+      ]
+    },
+    {
+      "_id": "bcfece7fbd89eee4d6a2cd4c",
+      "userId": "05013dd5c0760e63df3a341e",
+      "cost": 126.09,
+      "products": [
+        "226fbce8d9fff5de0eb6cc74",
+        "f2ffe373f7d02bfb21defc4f",
+        "cf9abe543ac500bd0dc83b4b",
+        "438bce7fd0db0b1bc468cecd"
+      ]
+    },
+    {
+      "_id": "9bb5436ae0d6be6592e56ada",
+      "userId": "b5b3bb88ca6bcdd2f7ba2700",
+      "cost": 1820.5,
+      "products": [
+        "6049d873b121d062d0df3e4c",
+        "7a7b4eb3a744aed8233767db",
+        "cfb6f2deeeaab49d310af6a2",
+        "3f5ca7e6fe8cb6decd6675d1"
+      ]
+    },
+    {
+      "_id": "52ae4a7446aad8ca2eecb25a",
+      "userId": "643ebad5dbd9a8a011f3bcc3",
+      "cost": 4311.57,
+      "products": [
+        "438bce7fd0db0b1bc468cecd"
+      ]
+    },
+    {
+      "_id": "18ca15f7ca166f36bbae398d",
+      "userId": "a0512daaf6fb3a8fa157dbae",
+      "cost": 1923.18,
+      "products": [
+        "f2ffe373f7d02bfb21defc4f",
+        "6af0f651a4ee5b7bb1dc2a10"
+      ]
+    },
+    {
+      "_id": "ac88dabac6b9ec4868ce57e2",
+      "userId": "5f91ac0c26b28d29ffcd0ebb",
+      "cost": 2318.67,
+      "products": [
+        "cfcccc8e9b70dc8db9e1b837",
+        "baf07b11d2ae4a4941f8d8ff",
+        "cf9abe543ac500bd0dc83b4b"
+      ]
+    },
+    {
+      "_id": "cda677fbcc769e7a494f4d7f",
+      "userId": "a77ccb5ed9362a2923b37efd",
+      "cost": 3809.66,
+      "products": [
+        "cfcccc8e9b70dc8db9e1b837"
+      ]
+    },
+    {
+      "_id": "0bbbffaae1c6554ce893120c",
+      "userId": "ff88bb98d7bcd55ba62faf90",
+      "cost": 2071.75,
+      "products": [
+        "cd0772a63cc63fce2aac137b",
+        "b992b9aded5ca50480a1e4bf",
+        "cd0772a63cc63fce2aac137b"
+      ]
+    },
+    {
+      "_id": "dade8a2ab3bb64e5bd0d9baf",
+      "userId": "aac28cdca6d18486c5c8fb1b",
+      "cost": 550.26,
+      "products": [
+        "cd4d9df62dd0fb546cd5e077",
+        "c1b3be62c8b2f4fc83cf9667"
+      ]
+    },
+    {
+      "_id": "6ed76d3ad24f1bb77deedf1f",
+      "userId": "15162f07d8ffbccdf9884da7",
+      "cost": 4505.62,
+      "products": [
+        "d2ba98bfcdfc96275e4dc7aa",
+        "0c213acf22ceceaedd0b2afe",
+        "3f5ca7e6fe8cb6decd6675d1"
+      ]
+    },
+    {
+      "_id": "911472ab443296ffecda3da8",
+      "userId": "8e3f65ad49ae7d9beed6f9e8",
+      "cost": 3465.34,
+      "products": [
+        "cfcccc8e9b70dc8db9e1b837",
+        "cf9abe543ac500bd0dc83b4b",
+        "f2ffe373f7d02bfb21defc4f",
+        "3f5ca7e6fe8cb6decd6675d1"
+      ]
+    },
+    {
+      "_id": "cbec5b5d1dfcbcc0c00fbd56",
+      "userId": "e3be885a5ee5355f8b3eacf6",
+      "cost": 3142.09,
+      "products": [
+        "ffc50fae2bcecbff05ef8e04",
+        "c1b3be62c8b2f4fc83cf9667",
+        "cfcccc8e9b70dc8db9e1b837"
+      ]
+    },
+    {
+      "_id": "be33efd22d4e7b9eb776a11b",
+      "userId": "c7749e0be8a67fbfcf8f1189",
+      "cost": 3326.41,
+      "products": [
+        "c1b3be62c8b2f4fc83cf9667",
+        "cfcccc8e9b70dc8db9e1b837",
+        "6af0f651a4ee5b7bb1dc2a10",
+        "b992b9aded5ca50480a1e4bf"
+      ]
+    },
+    {
+      "_id": "d6a2c3ccf12cbabd3fd04236",
+      "userId": "8fcc17faf56eb7bfeec3769e",
+      "cost": 3092.64,
+      "products": [
+        "298fcc7fb96c31efb24f65ce",
+        "cc43af59a4beb0b82abd600f",
+        "cd4d9df62dd0fb546cd5e077",
+        "49bf6bbae1e9b1d9dffa131c"
+      ]
+    },
+    {
+      "_id": "8c5cedeb2d1669bdefd2745d",
+      "userId": "3ae47eaee00ea0ce15b0ebef",
+      "cost": 4893.68,
+      "products": [
+        "ffc50fae2bcecbff05ef8e04",
+        "c1b3be62c8b2f4fc83cf9667",
+        "438bce7fd0db0b1bc468cecd",
+        "438bce7fd0db0b1bc468cecd",
+        "4f66e6b9ab7ff73596eb1e26"
+      ]
+    },
+    {
+      "_id": "bbb12ba0ba4f620b7eb5bddc",
+      "userId": "762d1f76eb836b8486f7be00",
+      "cost": 4285.09,
+      "products": [
+        "226fbce8d9fff5de0eb6cc74",
+        "7a7b4eb3a744aed8233767db",
+        "ffc50fae2bcecbff05ef8e04",
+        "b992b9aded5ca50480a1e4bf"
+      ]
+    },
+    {
+      "_id": "c55f10bcb8f630fe175c8bb7",
+      "userId": "fbe7a446e1bc54d4725c37c2",
+      "cost": 379,
+      "products": [
+        "cc48a96c045491aab31bdef3",
+        "f2ffe373f7d02bfb21defc4f",
+        "ffc50fae2bcecbff05ef8e04",
+        "49bf6bbae1e9b1d9dffa131c",
+        "ffc50fae2bcecbff05ef8e04"
+      ]
+    },
+    {
+      "_id": "7b4f2cc58ae887f56ffbf610",
+      "userId": "dc1dcbd98e21aadbc7d59d36",
+      "cost": 1051.73,
+      "products": [
+        "6af0f651a4ee5b7bb1dc2a10",
+        "cd0772a63cc63fce2aac137b",
+        "cf9abe543ac500bd0dc83b4b",
+        "49bf6bbae1e9b1d9dffa131c"
+      ]
+    },
+    {
+      "_id": "8c1be5b01b8a7addafcadf9f",
+      "userId": "6be0bcfff69b6ffb60ed64ab",
+      "cost": 4117.24,
+      "products": [
+        "cc43af59a4beb0b82abd600f",
+        "d2ba98bfcdfc96275e4dc7aa"
+      ]
+    },
+    {
+      "_id": "fcde2b9c704fec1c78c9db0f",
+      "userId": "badf9df3fdf2dd7cd74175dd",
+      "cost": 4177.61,
+      "products": [
+        "7a7b4eb3a744aed8233767db"
+      ]
+    },
+    {
+      "_id": "8e02d2c263a7ecba383a4c15",
+      "userId": "2f67dcf7cc817daefc8dff58",
+      "cost": 534.92,
+      "products": [
+        "cfb6f2deeeaab49d310af6a2",
+        "ffc50fae2bcecbff05ef8e04",
+        "4f66e6b9ab7ff73596eb1e26"
+      ]
+    },
+    {
+      "_id": "caa6dfb0d34ff670292fbae2",
+      "userId": "fe5afedddd1fa5ff19dc42ba",
+      "cost": 4605.04,
+      "products": [
+        "6af0f651a4ee5b7bb1dc2a10",
+        "c1b3be62c8b2f4fc83cf9667",
+        "298fcc7fb96c31efb24f65ce"
+      ]
+    },
+    {
+      "_id": "6fdaa05ff9bdd1804f2b8be7",
+      "userId": "a4120093021d6fd0f8b0588d",
+      "cost": 1391.32,
+      "products": [
+        "298fcc7fb96c31efb24f65ce",
+        "d2ba98bfcdfc96275e4dc7aa",
+        "49bf6bbae1e9b1d9dffa131c"
+      ]
+    },
+    {
+      "_id": "9f5d99acc55fe15d39fb4b42",
+      "userId": "ee1ab8347325100d0e06af9f",
+      "cost": 3063.84,
+      "products": [
+        "226fbce8d9fff5de0eb6cc74",
+        "fa8bcc9cb61aa6edf4d6f5a0",
+        "0c213acf22ceceaedd0b2afe"
+      ]
+    },
+    {
+      "_id": "bdffe9e1a8dfbd1c0bb2b133",
+      "userId": "d5680a6fc834ed175bcda2a4",
+      "cost": 3165.58,
+      "products": [
+        "cfcccc8e9b70dc8db9e1b837",
+        "3f5ca7e6fe8cb6decd6675d1",
+        "c1b3be62c8b2f4fc83cf9667",
+        "ffc50fae2bcecbff05ef8e04",
+        "cd0772a63cc63fce2aac137b"
+      ]
+    },
+    {
+      "_id": "d52fcdea4c3885c7d31c00a0",
+      "userId": "001bf9bccabe3c3bfedd747f",
+      "cost": 380.76,
+      "products": [
+        "6049d873b121d062d0df3e4c",
+        "cd4d9df62dd0fb546cd5e077",
+        "cfb6f2deeeaab49d310af6a2",
+        "438bce7fd0db0b1bc468cecd"
+      ]
+    },
+    {
+      "_id": "82f06df3ebf01e1157f270dd",
+      "userId": "8fcc17faf56eb7bfeec3769e",
+      "cost": 4153.43,
+      "products": [
+        "3f5ca7e6fe8cb6decd6675d1",
+        "0c213acf22ceceaedd0b2afe"
+      ]
+    },
+    {
+      "_id": "fddde5affb0fadeeacaf2acf",
+      "userId": "793e6460e29a0cd8e84b5f5d",
+      "cost": 3632.86,
+      "products": [
+        "d2ba98bfcdfc96275e4dc7aa",
+        "438bce7fd0db0b1bc468cecd",
+        "3f5ca7e6fe8cb6decd6675d1",
+        "438bce7fd0db0b1bc468cecd",
+        "ffc50fae2bcecbff05ef8e04"
+      ]
+    },
+    {
+      "_id": "9fe81ba378d3f4ceeeffde92",
+      "userId": "3eebce3c5c8a2feb2abab14a",
+      "cost": 4083.67,
+      "products": [
+        "cf9abe543ac500bd0dc83b4b",
+        "7a7b4eb3a744aed8233767db",
+        "49bf6bbae1e9b1d9dffa131c",
+        "6af0f651a4ee5b7bb1dc2a10",
+        "49bf6bbae1e9b1d9dffa131c"
+      ]
+    },
+    {
+      "_id": "c0e3ebcea4be8b7e0e0ceed2",
+      "userId": "ff1493d0c7f216e8bf290cc9",
+      "cost": 3637.73,
+      "products": [
+        "438bce7fd0db0b1bc468cecd",
+        "cc43af59a4beb0b82abd600f"
+      ]
+    },
+    {
+      "_id": "483ec2feaf583b7a3c47c6eb",
+      "userId": "c6eee8ddc7b1aa3a1237fb28",
+      "cost": 1989.48,
+      "products": [
+        "fa8bcc9cb61aa6edf4d6f5a0",
+        "a66e2d500eba3a34c8fd43d8",
+        "cc43af59a4beb0b82abd600f"
+      ]
+    },
+    {
+      "_id": "3efa1bfc25a5ebef3cbd11bd",
+      "userId": "ad2b9bafd8a1debbc77ddbea",
+      "cost": 4462.86,
+      "products": [
+        "7a7b4eb3a744aed8233767db"
+      ]
+    },
+    {
+      "_id": "9d8fb92cb3e61068944ccc7f",
+      "userId": "3eebce3c5c8a2feb2abab14a",
+      "cost": 4843.87,
+      "products": [
+        "226fbce8d9fff5de0eb6cc74",
+        "a66e2d500eba3a34c8fd43d8"
+      ]
+    },
+    {
+      "_id": "aa35e54e186f54cfced551fe",
+      "userId": "7b43e3d9aedbf9ee752ccb0b",
+      "cost": 1147.47,
+      "products": [
+        "0c213acf22ceceaedd0b2afe",
+        "226fbce8d9fff5de0eb6cc74",
+        "b992b9aded5ca50480a1e4bf",
+        "7a7b4eb3a744aed8233767db",
+        "6af0f651a4ee5b7bb1dc2a10"
+      ]
+    },
+    {
+      "_id": "bff90ccc12b7ef7ade88cfd2",
+      "userId": "feb0b7b1ecf1cddcadd5481d",
+      "cost": 4970.29,
+      "products": [
+        "6af0f651a4ee5b7bb1dc2a10",
+        "4f66e6b9ab7ff73596eb1e26",
+        "cc43af59a4beb0b82abd600f"
+      ]
+    },
+    {
+      "_id": "cff56da0e0f5bf3fcd4231ac",
+      "userId": "4aacc56475c6fa2c57ce6e4d",
+      "cost": 4750.45,
+      "products": [
+        "fa8bcc9cb61aa6edf4d6f5a0",
+        "cf9abe543ac500bd0dc83b4b",
+        "6af0f651a4ee5b7bb1dc2a10",
+        "cfb6f2deeeaab49d310af6a2",
+        "4f66e6b9ab7ff73596eb1e26"
+      ]
+    },
+    {
+      "_id": "920c1c0019c9cdbbc16c0d9c",
+      "userId": "8fcf4e3fdb8afae8cc5cfea5",
+      "cost": 3951.39,
+      "products": [
+        "c1b3be62c8b2f4fc83cf9667",
+        "6af0f651a4ee5b7bb1dc2a10",
+        "baf07b11d2ae4a4941f8d8ff"
+      ]
+    },
+    {
+      "_id": "6dd72e1bab46832bbc48874e",
+      "userId": "a1bf5a4baf3f0aef3c373bc1",
+      "cost": 932.97,
+      "products": [
+        "6049d873b121d062d0df3e4c",
+        "3f5ca7e6fe8cb6decd6675d1"
+      ]
+    },
+    {
+      "_id": "ef9f33b7621c83d6df9c4ce6",
+      "userId": "db40f98ad48ed68aeddcc64f",
+      "cost": 4486.31,
+      "products": [
+        "4f66e6b9ab7ff73596eb1e26"
+      ]
+    },
+    {
+      "_id": "5dad90c366d4bead0ea13d18",
+      "userId": "cacf6ed84c8eded44b3c7128",
+      "cost": 4228.75,
+      "products": [
+        "a66e2d500eba3a34c8fd43d8",
+        "4f66e6b9ab7ff73596eb1e26"
+      ]
+    },
+    {
+      "_id": "7303f17dc7aeeaea2bf3fe2d",
+      "userId": "ffca57a99bb1fadef824ba88",
+      "cost": 1641.17,
+      "products": [
+        "b992b9aded5ca50480a1e4bf",
+        "cc48a96c045491aab31bdef3",
+        "6af0f651a4ee5b7bb1dc2a10",
+        "cd4d9df62dd0fb546cd5e077",
+        "fa8bcc9cb61aa6edf4d6f5a0"
+      ]
+    },
+    {
+      "_id": "bafcdf02a3cf47a3db5dcc23",
+      "userId": "fb9f69fbb5df48dde27eff61",
+      "cost": 4857.4,
+      "products": [
+        "cd4d9df62dd0fb546cd5e077",
+        "cfb6f2deeeaab49d310af6a2",
+        "3f5ca7e6fe8cb6decd6675d1",
+        "0c213acf22ceceaedd0b2afe"
+      ]
+    },
+    {
+      "_id": "7f90db7028ccb08bd4adaedc",
+      "userId": "15162f07d8ffbccdf9884da7",
+      "cost": 698.25,
+      "products": [
+        "3f5ca7e6fe8cb6decd6675d1",
+        "d2ba98bfcdfc96275e4dc7aa",
+        "cd4d9df62dd0fb546cd5e077"
+      ]
+    },
+    {
+      "_id": "feb1930f6ac530febf0e7cad",
+      "userId": "16597cc9f050943cbc6cdec4",
+      "cost": 2983.84,
+      "products": [
+        "c1b3be62c8b2f4fc83cf9667",
+        "0c213acf22ceceaedd0b2afe",
+        "6049d873b121d062d0df3e4c",
+        "4f66e6b9ab7ff73596eb1e26",
+        "0c213acf22ceceaedd0b2afe"
+      ]
+    },
+    {
+      "_id": "ffdb37204d18981f4a9ffb31",
+      "userId": "7aedbc9f0daa97df0fb1facb",
+      "cost": 3199.18,
+      "products": [
+        "226fbce8d9fff5de0eb6cc74",
+        "49bf6bbae1e9b1d9dffa131c"
+      ]
+    },
+    {
+      "_id": "7f0d3c2f269fa426b7b1e5c1",
+      "userId": "b01dbdcacadeeafefacffe12",
+      "cost": 3217.01,
+      "products": [
+        "d2ba98bfcdfc96275e4dc7aa"
+      ]
+    },
+    {
+      "_id": "fb4031a72fa5a12ce20eea6f",
+      "userId": "b89b4acf9c78acbe4bfb8fcb",
+      "cost": 2284.93,
+      "products": [
+        "6af0f651a4ee5b7bb1dc2a10",
+        "cf9abe543ac500bd0dc83b4b",
+        "cd0772a63cc63fce2aac137b",
+        "c1b3be62c8b2f4fc83cf9667",
+        "fa8bcc9cb61aa6edf4d6f5a0"
+      ]
+    },
+    {
+      "_id": "8b5fbaefec9ad73cddd9dab5",
+      "userId": "027d5a6b3d8ad55e9c5ec8a5",
+      "cost": 4297.32,
+      "products": [
+        "f2ffe373f7d02bfb21defc4f",
+        "226fbce8d9fff5de0eb6cc74"
+      ]
+    },
+    {
+      "_id": "bdf7a1f5c8fb15cfd6ed8bae",
+      "userId": "9dc4af6e3615d17e4bad699a",
+      "cost": 3449.13,
+      "products": [
+        "3f5ca7e6fe8cb6decd6675d1",
+        "226fbce8d9fff5de0eb6cc74"
+      ]
+    },
+    {
+      "_id": "97cbb1ba8fd0a02eafeb42dd",
+      "userId": "c55bb93b6b49be40af95accd",
+      "cost": 774.29,
+      "products": [
+        "3f5ca7e6fe8cb6decd6675d1"
+      ]
+    },
+    {
+      "_id": "53507b1ebe2fe4acbc0bfaeb",
+      "userId": "baeb1bd1f45f36ad64d91b64",
+      "cost": 4253.23,
+      "products": [
+        "3f5ca7e6fe8cb6decd6675d1",
+        "baf07b11d2ae4a4941f8d8ff",
+        "cfb6f2deeeaab49d310af6a2",
+        "cd4d9df62dd0fb546cd5e077"
+      ]
+    },
+    {
+      "_id": "bd5ccfeecb8d6951becdd75f",
+      "userId": "cacf6ed84c8eded44b3c7128",
+      "cost": 4792.77,
+      "products": [
+        "226fbce8d9fff5de0eb6cc74",
+        "fa8bcc9cb61aa6edf4d6f5a0",
+        "6049d873b121d062d0df3e4c",
+        "3f5ca7e6fe8cb6decd6675d1"
+      ]
+    },
+    {
+      "_id": "b9c4fd2e5d5abb100ae2c4c8",
+      "userId": "f1b080c1e30573bdfdcc71a5",
+      "cost": 1682.65,
+      "products": [
+        "0c213acf22ceceaedd0b2afe",
+        "226fbce8d9fff5de0eb6cc74",
+        "7a7b4eb3a744aed8233767db",
+        "cd0772a63cc63fce2aac137b"
+      ]
+    },
+    {
+      "_id": "8facbdc026ffe4cd0b648bc3",
+      "userId": "e6cbe3e91dabaf8ba0dfb6c8",
+      "cost": 4485.76,
+      "products": [
+        "438bce7fd0db0b1bc468cecd",
+        "f2ffe373f7d02bfb21defc4f",
+        "6049d873b121d062d0df3e4c",
+        "cfb6f2deeeaab49d310af6a2",
+        "49bf6bbae1e9b1d9dffa131c"
+      ]
+    },
+    {
+      "_id": "fbe1cbfc35d1b4eeebf3e6e2",
+      "userId": "2cca7d2ff4d6fa3bf7be80bb",
+      "cost": 1415.72,
+      "products": [
+        "cfcccc8e9b70dc8db9e1b837",
+        "cf9abe543ac500bd0dc83b4b",
+        "cf9abe543ac500bd0dc83b4b",
+        "f2ffe373f7d02bfb21defc4f"
+      ]
+    },
+    {
+      "_id": "9c2f4ac9b63cb2b1aef0c0f2",
+      "userId": "a6d547acf5d2ee07ce14ddca",
+      "cost": 3472.1,
+      "products": [
+        "cfcccc8e9b70dc8db9e1b837",
+        "0c213acf22ceceaedd0b2afe"
+      ]
+    },
+    {
+      "_id": "69cb00d4e6d08dbeeab1eaa2",
+      "userId": "9cfabeb6b6da0ff668ff42f3",
+      "cost": 4254.77,
+      "products": [
+        "226fbce8d9fff5de0eb6cc74"
+      ]
+    },
+    {
+      "_id": "c1e1f7dd5c94d9cc7d43be42",
+      "userId": "f3cce7adecbeb91b05f86220",
+      "cost": 3278.84,
+      "products": [
+        "cc48a96c045491aab31bdef3",
+        "298fcc7fb96c31efb24f65ce",
+        "cfcccc8e9b70dc8db9e1b837",
+        "f2ffe373f7d02bfb21defc4f"
+      ]
+    },
+    {
+      "_id": "a45a5bccdeb2fdb044f3dd3b",
+      "userId": "15162f07d8ffbccdf9884da7",
+      "cost": 3549.83,
+      "products": [
+        "298fcc7fb96c31efb24f65ce",
+        "fa8bcc9cb61aa6edf4d6f5a0",
+        "438bce7fd0db0b1bc468cecd",
+        "cc48a96c045491aab31bdef3",
+        "6af0f651a4ee5b7bb1dc2a10"
+      ]
+    },
+    {
+      "_id": "74f41edaddbb4ac7ea1f2f0e",
+      "userId": "72f5c92e58b5d2a19fbaa86b",
+      "cost": 544.94,
+      "products": [
+        "baf07b11d2ae4a4941f8d8ff",
+        "0c213acf22ceceaedd0b2afe",
+        "438bce7fd0db0b1bc468cecd",
+        "cd0772a63cc63fce2aac137b",
+        "cfb6f2deeeaab49d310af6a2"
+      ]
+    },
+    {
+      "_id": "3d4dbeab1d13e1e36c9314ef",
+      "userId": "be785dfb0eeb7f4dc1a80a9c",
+      "cost": 725.68,
+      "products": [
+        "cc43af59a4beb0b82abd600f",
+        "cd4d9df62dd0fb546cd5e077",
+        "49bf6bbae1e9b1d9dffa131c",
+        "d2ba98bfcdfc96275e4dc7aa",
+        "3f5ca7e6fe8cb6decd6675d1"
+      ]
+    },
+    {
+      "_id": "17e4c8c025a351cf3e892e27",
+      "userId": "c225aec40efeacab6f8e31da",
+      "cost": 1922.19,
+      "products": [
+        "cd4d9df62dd0fb546cd5e077",
+        "226fbce8d9fff5de0eb6cc74",
+        "cd4d9df62dd0fb546cd5e077",
+        "d2ba98bfcdfc96275e4dc7aa",
+        "7a7b4eb3a744aed8233767db"
+      ]
+    },
+    {
+      "_id": "25e7ee2413840dbee36691be",
+      "userId": "027d5a6b3d8ad55e9c5ec8a5",
+      "cost": 4731.09,
+      "products": [
+        "cfb6f2deeeaab49d310af6a2"
+      ]
+    },
+    {
+      "_id": "7daba48aee97f67d48fe1aac",
+      "userId": "3ae47eaee00ea0ce15b0ebef",
+      "cost": 3012.34,
+      "products": [
+        "cc43af59a4beb0b82abd600f"
+      ]
+    },
+    {
+      "_id": "66c0f6babfaf8ac4fb2baa48",
+      "userId": "9bd28ebb78fcffcbaba9f9f9",
+      "cost": 4102.75,
+      "products": [
+        "438bce7fd0db0b1bc468cecd",
+        "cc43af59a4beb0b82abd600f",
+        "cc48a96c045491aab31bdef3",
+        "6049d873b121d062d0df3e4c",
+        "b992b9aded5ca50480a1e4bf"
+      ]
+    },
+    {
+      "_id": "80fbc7eb86da52c0d8950cb0",
+      "userId": "252cdbae4f9fdaeeec60b8a2",
+      "cost": 2508.05,
+      "products": [
+        "7a7b4eb3a744aed8233767db",
+        "b992b9aded5ca50480a1e4bf",
+        "baf07b11d2ae4a4941f8d8ff"
+      ]
+    },
+    {
+      "_id": "0bd2e522c017f6adb8c09eeb",
+      "userId": "ebfbf2cee06ccc09a0ebcffc",
+      "cost": 3464.16,
+      "products": [
+        "c1b3be62c8b2f4fc83cf9667",
+        "c1b3be62c8b2f4fc83cf9667"
+      ]
+    },
+    {
+      "_id": "20da2e7a047fcaf2ed8e2abe",
+      "userId": "2aec00be1d6d6fb10187abfc",
+      "cost": 3182.71,
+      "products": [
+        "49bf6bbae1e9b1d9dffa131c",
+        "f2ffe373f7d02bfb21defc4f",
+        "0c213acf22ceceaedd0b2afe",
+        "226fbce8d9fff5de0eb6cc74"
+      ]
+    },
+    {
+      "_id": "c23fde87efa8fdbc94ba6dbe",
+      "userId": "cae89609ceba3d9d9e7f805d",
+      "cost": 1512.39,
+      "products": [
+        "c1b3be62c8b2f4fc83cf9667",
+        "cfb6f2deeeaab49d310af6a2"
+      ]
+    },
+    {
+      "_id": "adc6c1cbfb98cfad5d6dadbd",
+      "userId": "ee1ab8347325100d0e06af9f",
+      "cost": 3692.81,
+      "products": [
+        "438bce7fd0db0b1bc468cecd",
+        "ffc50fae2bcecbff05ef8e04",
+        "cfcccc8e9b70dc8db9e1b837",
+        "438bce7fd0db0b1bc468cecd"
+      ]
+    },
+    {
+      "_id": "3edafabb2d2e5a6e5778d6e1",
+      "userId": "643ebad5dbd9a8a011f3bcc3",
+      "cost": 4849.98,
+      "products": [
+        "baf07b11d2ae4a4941f8d8ff",
+        "cc48a96c045491aab31bdef3",
+        "fa8bcc9cb61aa6edf4d6f5a0",
+        "cc43af59a4beb0b82abd600f",
+        "fa8bcc9cb61aa6edf4d6f5a0"
+      ]
+    },
+    {
+      "_id": "abdcf6ed66a2535dbd9648b1",
+      "userId": "c65ab5c27ed2b5cf3ceb6eeb",
+      "cost": 2603.01,
+      "products": [
+        "d2ba98bfcdfc96275e4dc7aa",
+        "4f66e6b9ab7ff73596eb1e26"
+      ]
+    },
+    {
+      "_id": "dbd4ef78a8d7ad90afac22de",
+      "userId": "cf39cc06f71ec9bbf1c15f77",
+      "cost": 368.03,
+      "products": [
+        "c1b3be62c8b2f4fc83cf9667"
+      ]
+    },
+    {
+      "_id": "a2fbdc7c609e4bc9bec8df42",
+      "userId": "d5680a6fc834ed175bcda2a4",
+      "cost": 2873.4,
+      "products": [
+        "ffc50fae2bcecbff05ef8e04",
+        "438bce7fd0db0b1bc468cecd",
+        "ffc50fae2bcecbff05ef8e04",
+        "cf9abe543ac500bd0dc83b4b",
+        "6af0f651a4ee5b7bb1dc2a10"
+      ]
+    },
+    {
+      "_id": "a298f52bac5f88b88c9da9bf",
+      "userId": "1092a5b77ccaf9b5c5befd80",
+      "cost": 1345.1,
+      "products": [
+        "226fbce8d9fff5de0eb6cc74",
+        "ffc50fae2bcecbff05ef8e04"
+      ]
+    },
+    {
+      "_id": "ee4bcdbaf5bcd361fdd3b4b6",
+      "userId": "b01dbdcacadeeafefacffe12",
+      "cost": 2901.72,
+      "products": [
+        "6049d873b121d062d0df3e4c",
+        "6049d873b121d062d0df3e4c"
+      ]
+    },
+    {
+      "_id": "f8848e7ab7ac7c89bd55f6f5",
+      "userId": "ebfbf2cee06ccc09a0ebcffc",
+      "cost": 649.23,
+      "products": [
+        "cf9abe543ac500bd0dc83b4b",
+        "cd4d9df62dd0fb546cd5e077",
+        "4f66e6b9ab7ff73596eb1e26",
+        "298fcc7fb96c31efb24f65ce"
+      ]
+    },
+    {
+      "_id": "3ed0d4305fe28ee575ea9604",
+      "userId": "1cd3f622ffe6a2a34da9c13b",
+      "cost": 1547.72,
+      "products": [
+        "cd0772a63cc63fce2aac137b"
+      ]
+    },
+    {
+      "_id": "3cc770b6e45e5ce2ce1ebebf",
+      "userId": "feb0b7b1ecf1cddcadd5481d",
+      "cost": 1053.26,
+      "products": [
+        "fa8bcc9cb61aa6edf4d6f5a0",
+        "cd4d9df62dd0fb546cd5e077"
+      ]
+    },
+    {
+      "_id": "dda97ebdd9e5e7514d815ade",
+      "userId": "067fe7a5b36cc1fdac1d615f",
+      "cost": 3128.45,
+      "products": [
+        "3f5ca7e6fe8cb6decd6675d1",
+        "ffc50fae2bcecbff05ef8e04",
+        "4f66e6b9ab7ff73596eb1e26",
+        "cd4d9df62dd0fb546cd5e077"
+      ]
+    },
+    {
+      "_id": "cf8c9cf0fb6ab3e42c9ad36c",
+      "userId": "a5ba560ab4a17f0b55efbec5",
+      "cost": 2032.52,
+      "products": [
+        "ffc50fae2bcecbff05ef8e04",
+        "0c213acf22ceceaedd0b2afe"
+      ]
+    },
+    {
+      "_id": "efea79b9bfff2abeda8cde78",
+      "userId": "0a29a16bcfec1bfeedab0de7",
+      "cost": 4872.67,
+      "products": [
+        "7a7b4eb3a744aed8233767db",
+        "cf9abe543ac500bd0dc83b4b",
+        "298fcc7fb96c31efb24f65ce"
+      ]
+    },
+    {
+      "_id": "71d381ad0a16d33b6bb44caa",
+      "userId": "e5db4b90389dbaa8ceb27d1d",
+      "cost": 1364.18,
+      "products": [
+        "cfcccc8e9b70dc8db9e1b837",
+        "cd4d9df62dd0fb546cd5e077",
+        "cf9abe543ac500bd0dc83b4b",
+        "c1b3be62c8b2f4fc83cf9667"
+      ]
+    },
+    {
+      "_id": "39cac9c0b6edc981b2122ad4",
+      "userId": "e4cdbcdf37eba80ec1c753a8",
+      "cost": 305.04,
+      "products": [
+        "cd4d9df62dd0fb546cd5e077",
+        "cc43af59a4beb0b82abd600f",
+        "cc48a96c045491aab31bdef3",
+        "cd4d9df62dd0fb546cd5e077",
+        "4f66e6b9ab7ff73596eb1e26"
+      ]
+    },
+    {
+      "_id": "000ada1c74d717c8672569f5",
+      "userId": "d9b8a03cba4a7c8e9ea849da",
+      "cost": 4261.34,
+      "products": [
+        "6af0f651a4ee5b7bb1dc2a10",
+        "f2ffe373f7d02bfb21defc4f",
+        "0c213acf22ceceaedd0b2afe",
+        "b992b9aded5ca50480a1e4bf"
+      ]
+    },
+    {
+      "_id": "eafe84bba89fdc0c2a82a0fb",
+      "userId": "fe5afedddd1fa5ff19dc42ba",
+      "cost": 4881,
+      "products": [
+        "cc48a96c045491aab31bdef3",
+        "fa8bcc9cb61aa6edf4d6f5a0"
+      ]
+    },
+    {
+      "_id": "58a710c8ebc3b78e3a5b4b7b",
+      "userId": "b5db456ee9cfaaef3affcf86",
+      "cost": 4431.38,
+      "products": [
+        "4f66e6b9ab7ff73596eb1e26",
+        "cc48a96c045491aab31bdef3",
+        "d2ba98bfcdfc96275e4dc7aa",
+        "0c213acf22ceceaedd0b2afe",
+        "cc48a96c045491aab31bdef3"
+      ]
+    },
+    {
+      "_id": "94cdb6abc4fc85e27d32aa49",
+      "userId": "6bd6cf376bea5d8ca2c42eef",
+      "cost": 1705.14,
+      "products": [
+        "cfb6f2deeeaab49d310af6a2"
+      ]
+    },
+    {
+      "_id": "dc8c40abdde34cbee3d30beb",
+      "userId": "fd6f8f5250fd1ef292cbaec7",
+      "cost": 3356.09,
+      "products": [
+        "baf07b11d2ae4a4941f8d8ff"
+      ]
+    },
+    {
+      "_id": "1be517ca23e96a39bbe16dd8",
+      "userId": "dd22be7b8d4e2a2af17df5d6",
+      "cost": 4856.33,
+      "products": [
+        "49bf6bbae1e9b1d9dffa131c",
+        "cf9abe543ac500bd0dc83b4b"
+      ]
+    },
+    {
+      "_id": "d8004b54b8280b41eaab77fc",
+      "userId": "ca445bce2c79eb357ca27ac5",
+      "cost": 1882.43,
+      "products": [
+        "226fbce8d9fff5de0eb6cc74",
+        "298fcc7fb96c31efb24f65ce",
+        "438bce7fd0db0b1bc468cecd",
+        "a66e2d500eba3a34c8fd43d8",
+        "f2ffe373f7d02bfb21defc4f"
+      ]
+    },
+    {
+      "_id": "4db0b84f0d4542ee2f338a44",
+      "userId": "8fcc17faf56eb7bfeec3769e",
+      "cost": 2897.34,
+      "products": [
+        "ffc50fae2bcecbff05ef8e04"
+      ]
+    },
+    {
+      "_id": "ddcd4cecad24e5ae1ce073b6",
+      "userId": "5eeff2f3ff93ac8dd58c2429",
+      "cost": 2371.64,
+      "products": [
+        "a66e2d500eba3a34c8fd43d8",
+        "f2ffe373f7d02bfb21defc4f",
+        "438bce7fd0db0b1bc468cecd",
+        "49bf6bbae1e9b1d9dffa131c",
+        "49bf6bbae1e9b1d9dffa131c"
+      ]
+    },
+    {
+      "_id": "241d7d6f665edf5c9e19ab75",
+      "userId": "edf7f60b19ab0cd731d5bf34",
+      "cost": 3904.94,
+      "products": [
+        "49bf6bbae1e9b1d9dffa131c",
+        "cd0772a63cc63fce2aac137b",
+        "fa8bcc9cb61aa6edf4d6f5a0"
+      ]
+    },
+    {
+      "_id": "bedcbcffde3bbf26e5c8b46b",
+      "userId": "068dcaca35c556970bca1a4f",
+      "cost": 2405.24,
+      "products": [
+        "4f66e6b9ab7ff73596eb1e26",
+        "0c213acf22ceceaedd0b2afe"
+      ]
+    },
+    {
+      "_id": "7eeb6ba615dafaf1eceeab52",
+      "userId": "bb69a6a3b886ef56b6cbf2b1",
+      "cost": 128.71,
+      "products": [
+        "cd4d9df62dd0fb546cd5e077",
+        "6af0f651a4ee5b7bb1dc2a10",
+        "438bce7fd0db0b1bc468cecd"
+      ]
+    },
+    {
+      "_id": "1e611d3d52c0a2c154c40cdd",
+      "userId": "e2dbd5facfcff1fe21cf8705",
+      "cost": 1570.95,
+      "products": [
+        "438bce7fd0db0b1bc468cecd"
+      ]
+    },
+    {
+      "_id": "9aec1f4c660fa594fcdce8ab",
+      "userId": "fbe7a446e1bc54d4725c37c2",
+      "cost": 2812.91,
+      "products": [
+        "49bf6bbae1e9b1d9dffa131c"
+      ]
+    },
+    {
+      "_id": "ef11cbd2becccb31def4cced",
+      "userId": "fbdc012ef337fcdebbaee1ad",
+      "cost": 1737.65,
+      "products": [
+        "298fcc7fb96c31efb24f65ce",
+        "f2ffe373f7d02bfb21defc4f",
+        "cc48a96c045491aab31bdef3",
+        "f2ffe373f7d02bfb21defc4f"
+      ]
+    },
+    {
+      "_id": "21f4ef29c5d37473c7b6bfca",
+      "userId": "0ff6b1a1ff8be4a0accbef02",
+      "cost": 4909.44,
+      "products": [
+        "d2ba98bfcdfc96275e4dc7aa",
+        "cd4d9df62dd0fb546cd5e077",
+        "438bce7fd0db0b1bc468cecd"
+      ]
+    },
+    {
+      "_id": "1f4744189fdbcdbca301c06f",
+      "userId": "2ccf9d273ed3bed17e6c7423",
+      "cost": 303.79,
+      "products": [
+        "f2ffe373f7d02bfb21defc4f"
+      ]
+    },
+    {
+      "_id": "e6607c8f4b897cd25c4afab3",
+      "userId": "bee5aa5a93fbccabd62f0c22",
+      "cost": 3754.38,
+      "products": [
+        "cd0772a63cc63fce2aac137b",
+        "cfb6f2deeeaab49d310af6a2",
+        "cc48a96c045491aab31bdef3",
+        "4f66e6b9ab7ff73596eb1e26"
+      ]
+    },
+    {
+      "_id": "13cb1c91351c4f1bb69f9878",
+      "userId": "badf9df3fdf2dd7cd74175dd",
+      "cost": 4297.28,
+      "products": [
+        "cd4d9df62dd0fb546cd5e077"
+      ]
+    },
+    {
+      "_id": "fd4436c86a407eb0cdb43c03",
+      "userId": "3ae47eaee00ea0ce15b0ebef",
+      "cost": 1846.77,
+      "products": [
+        "cfb6f2deeeaab49d310af6a2",
+        "6af0f651a4ee5b7bb1dc2a10",
+        "226fbce8d9fff5de0eb6cc74",
+        "49bf6bbae1e9b1d9dffa131c",
+        "cfb6f2deeeaab49d310af6a2"
+      ]
+    },
+    {
+      "_id": "8db4fbcd909bbf4cbad10d8e",
+      "userId": "ffca57a99bb1fadef824ba88",
+      "cost": 3371.39,
+      "products": [
+        "6049d873b121d062d0df3e4c",
+        "3f5ca7e6fe8cb6decd6675d1"
+      ]
+    },
+    {
+      "_id": "adcca6e8468edccb0b51ea17",
+      "userId": "a77ccb5ed9362a2923b37efd",
+      "cost": 4905.44,
+      "products": [
+        "6049d873b121d062d0df3e4c",
+        "cfb6f2deeeaab49d310af6a2",
+        "226fbce8d9fff5de0eb6cc74"
+      ]
+    },
+    {
+      "_id": "24b3fbc4fdca72fd2cf4be2e",
+      "userId": "ffdc6f0fbeea0b74ec5be74d",
+      "cost": 1705.59,
+      "products": [
+        "7a7b4eb3a744aed8233767db"
+      ]
+    },
+    {
+      "_id": "a89fb4f00fd5be60646a39d9",
+      "userId": "ac91ca6219bbd5dafbc1a0f2",
+      "cost": 4372.71,
+      "products": [
+        "6af0f651a4ee5b7bb1dc2a10"
+      ]
+    },
+    {
+      "_id": "aeffafeaee1e9ffc2fe323d4",
+      "userId": "c52bca3ad5c88ee545d388ee",
+      "cost": 604.38,
+      "products": [
+        "7a7b4eb3a744aed8233767db",
+        "fa8bcc9cb61aa6edf4d6f5a0",
+        "7a7b4eb3a744aed8233767db",
+        "f2ffe373f7d02bfb21defc4f"
+      ]
+    },
+    {
+      "_id": "dcbea628b95103ba27584ae8",
+      "userId": "67ebf9cdae2f2ee3e3cfca55",
+      "cost": 1692.46,
+      "products": [
+        "c1b3be62c8b2f4fc83cf9667"
+      ]
+    },
+    {
+      "_id": "e76fde0dba8c8a45c91a3840",
+      "userId": "9cfabeb6b6da0ff668ff42f3",
+      "cost": 2624.59,
+      "products": [
+        "cf9abe543ac500bd0dc83b4b",
+        "f2ffe373f7d02bfb21defc4f",
+        "cd0772a63cc63fce2aac137b",
+        "6049d873b121d062d0df3e4c"
+      ]
+    },
+    {
+      "_id": "b9dbc79bba100fb4fbd3a628",
+      "userId": "5fc0d167c9ce62edc407fa60",
+      "cost": 2799.66,
+      "products": [
+        "cd4d9df62dd0fb546cd5e077"
+      ]
+    },
+    {
+      "_id": "3df6a4bc5f5a9d1a21c5b9da",
+      "userId": "b9d0fab3ff2593c890ad479a",
+      "cost": 2598.14,
+      "products": [
+        "49bf6bbae1e9b1d9dffa131c",
+        "baf07b11d2ae4a4941f8d8ff"
+      ]
+    },
+    {
+      "_id": "1e01eb4a07c7adef9794f7aa",
+      "userId": "d8cf0fabbec121ed4b68ad57",
+      "cost": 4944.85,
+      "products": [
+        "cc48a96c045491aab31bdef3",
+        "298fcc7fb96c31efb24f65ce"
+      ]
+    },
+    {
+      "_id": "d92fb45f5321dba5ef6ada9b",
+      "userId": "3bb1e348fce4550b0dc1ed0d",
+      "cost": 2534.79,
+      "products": [
+        "226fbce8d9fff5de0eb6cc74"
+      ]
+    },
+    {
+      "_id": "57f0dd1bfe0ebf89bd8eefc3",
+      "userId": "1f1ebd59c7614ecb9f245aef",
+      "cost": 4464,
+      "products": [
+        "226fbce8d9fff5de0eb6cc74",
+        "c1b3be62c8b2f4fc83cf9667"
+      ]
+    },
+    {
+      "_id": "1d2a5e06e3694eef5d2ae59c",
+      "userId": "db40f98ad48ed68aeddcc64f",
+      "cost": 109.6,
+      "products": [
+        "cc43af59a4beb0b82abd600f",
+        "cfcccc8e9b70dc8db9e1b837",
+        "cd4d9df62dd0fb546cd5e077"
+      ]
+    },
+    {
+      "_id": "b00f2549d9c7a970add087b2",
+      "userId": "ac91ca6219bbd5dafbc1a0f2",
+      "cost": 2458.69,
+      "products": [
+        "4f66e6b9ab7ff73596eb1e26"
+      ]
+    },
+    {
+      "_id": "9eec5e72ade7f2e75702ae6a",
+      "userId": "c87c422b94e56ebe098f369d",
+      "cost": 3450.66,
+      "products": [
+        "cc43af59a4beb0b82abd600f"
+      ]
+    },
+    {
+      "_id": "66a0b1e646fdc5dd2be86df8",
+      "userId": "9461cfc7ad7cdf0edfcec98f",
+      "cost": 3510.32,
+      "products": [
+        "438bce7fd0db0b1bc468cecd",
+        "cfcccc8e9b70dc8db9e1b837"
+      ]
+    },
+    {
+      "_id": "bb2002b415424b17b477a7c4",
+      "userId": "1cd3f622ffe6a2a34da9c13b",
+      "cost": 1792.71,
+      "products": [
+        "cd0772a63cc63fce2aac137b",
+        "cd4d9df62dd0fb546cd5e077"
+      ]
+    },
+    {
+      "_id": "de1a45233bb8adb429eeae5e",
+      "userId": "e4ceae5bea16caba1bc2e9ea",
+      "cost": 2780.5,
+      "products": [
+        "cf9abe543ac500bd0dc83b4b",
+        "a66e2d500eba3a34c8fd43d8",
+        "a66e2d500eba3a34c8fd43d8"
+      ]
+    },
+    {
+      "_id": "10af1df278475a59c8f886cd",
+      "userId": "c52bca3ad5c88ee545d388ee",
+      "cost": 2507.48,
+      "products": [
+        "298fcc7fb96c31efb24f65ce"
+      ]
+    },
+    {
+      "_id": "e4eb3febdbc8272e7ae4ed60",
+      "userId": "6a71812ffa96fed8085983ce",
+      "cost": 4112.41,
+      "products": [
+        "f2ffe373f7d02bfb21defc4f",
+        "baf07b11d2ae4a4941f8d8ff",
+        "3f5ca7e6fe8cb6decd6675d1"
+      ]
+    },
+    {
+      "_id": "dadeacaffcab5ce72daf996a",
+      "userId": "2f56d6dee007bfcd0edc8b4d",
+      "cost": 1024.35,
+      "products": [
+        "0c213acf22ceceaedd0b2afe",
+        "cf9abe543ac500bd0dc83b4b",
+        "b992b9aded5ca50480a1e4bf",
+        "226fbce8d9fff5de0eb6cc74",
+        "6049d873b121d062d0df3e4c"
+      ]
+    },
+    {
+      "_id": "4ebaa3f0d7b461d84db02d5c",
+      "userId": "e3be885a5ee5355f8b3eacf6",
+      "cost": 4230.48,
+      "products": [
+        "cd4d9df62dd0fb546cd5e077",
+        "f2ffe373f7d02bfb21defc4f",
+        "226fbce8d9fff5de0eb6cc74",
+        "4f66e6b9ab7ff73596eb1e26",
+        "6af0f651a4ee5b7bb1dc2a10"
+      ]
+    },
+    {
+      "_id": "c98daeb4552c6f9eff956feb",
+      "userId": "e2dbd5facfcff1fe21cf8705",
+      "cost": 3120.68,
+      "products": [
+        "cd4d9df62dd0fb546cd5e077",
+        "c1b3be62c8b2f4fc83cf9667",
+        "cd4d9df62dd0fb546cd5e077",
+        "fa8bcc9cb61aa6edf4d6f5a0",
+        "ffc50fae2bcecbff05ef8e04"
+      ]
+    },
+    {
+      "_id": "36e38eab761a0bdc61deedc9",
+      "userId": "ade7b1cc1644d01e64f9aca2",
+      "cost": 2616.34,
+      "products": [
+        "fa8bcc9cb61aa6edf4d6f5a0",
+        "ffc50fae2bcecbff05ef8e04"
+      ]
+    },
+    {
+      "_id": "7c977274d4fdbe9dafb03c4e",
+      "userId": "e3be885a5ee5355f8b3eacf6",
+      "cost": 2015.1,
+      "products": [
+        "298fcc7fb96c31efb24f65ce",
+        "438bce7fd0db0b1bc468cecd",
+        "6af0f651a4ee5b7bb1dc2a10"
+      ]
+    },
+    {
+      "_id": "ec03dbe2e4a54ff36ecee5b0",
+      "userId": "be785dfb0eeb7f4dc1a80a9c",
+      "cost": 846.61,
+      "products": [
+        "3f5ca7e6fe8cb6decd6675d1",
+        "cd4d9df62dd0fb546cd5e077",
+        "6af0f651a4ee5b7bb1dc2a10"
+      ]
+    },
+    {
+      "_id": "bad8baa7f2eaec25c9dddf4c",
+      "userId": "2dff0d00728cefad27ba932a",
+      "cost": 2985.13,
+      "products": [
+        "ffc50fae2bcecbff05ef8e04",
+        "438bce7fd0db0b1bc468cecd",
+        "0c213acf22ceceaedd0b2afe",
+        "c1b3be62c8b2f4fc83cf9667"
+      ]
+    },
+    {
+      "_id": "acbeca18aa9f3c04f3c96acc",
+      "userId": "2f67dcf7cc817daefc8dff58",
+      "cost": 4116.54,
+      "products": [
+        "0c213acf22ceceaedd0b2afe",
+        "49bf6bbae1e9b1d9dffa131c",
+        "4f66e6b9ab7ff73596eb1e26",
+        "f2ffe373f7d02bfb21defc4f"
+      ]
+    },
+    {
+      "_id": "5f2a6e3bb23ee10a8cfeab1a",
+      "userId": "a6c0cc5bbaf5d0ce18ffba9b",
+      "cost": 1008.52,
+      "products": [
+        "4f66e6b9ab7ff73596eb1e26",
+        "a66e2d500eba3a34c8fd43d8",
+        "cfcccc8e9b70dc8db9e1b837"
+      ]
+    },
+    {
+      "_id": "e014f5cabfbc76f9b2e18f89",
+      "userId": "3bb1e348fce4550b0dc1ed0d",
+      "cost": 1828.07,
+      "products": [
+        "fa8bcc9cb61aa6edf4d6f5a0",
+        "c1b3be62c8b2f4fc83cf9667",
+        "cc43af59a4beb0b82abd600f",
+        "baf07b11d2ae4a4941f8d8ff",
+        "0c213acf22ceceaedd0b2afe"
+      ]
+    },
+    {
+      "_id": "58f40bd82b04379b01abc4d5",
+      "userId": "9dc4af6e3615d17e4bad699a",
+      "cost": 3070.52,
+      "products": [
+        "4f66e6b9ab7ff73596eb1e26",
+        "6049d873b121d062d0df3e4c"
+      ]
+    },
+    {
+      "_id": "a6e14831923c70e73e8393eb",
+      "userId": "e1cf4dba6571b79ae85df0a5",
+      "cost": 1447.71,
+      "products": [
+        "baf07b11d2ae4a4941f8d8ff",
+        "3f5ca7e6fe8cb6decd6675d1",
+        "438bce7fd0db0b1bc468cecd",
+        "cf9abe543ac500bd0dc83b4b"
+      ]
+    },
+    {
+      "_id": "8cac8eeb2540c0b1ca0cc6fc",
+      "userId": "e0a735bafed01f391f02aa5f",
+      "cost": 2406.68,
+      "products": [
+        "ffc50fae2bcecbff05ef8e04",
+        "d2ba98bfcdfc96275e4dc7aa",
+        "438bce7fd0db0b1bc468cecd",
+        "a66e2d500eba3a34c8fd43d8"
+      ]
+    },
+    {
+      "_id": "dd4fc8ecc0f2b6de2fa416db",
+      "userId": "79e3134c2dc7c70c1708a7cf",
+      "cost": 3325.87,
+      "products": [
+        "ffc50fae2bcecbff05ef8e04"
+      ]
+    },
+    {
+      "_id": "dbdd5cf30cb8ef3b7d63d0e2",
+      "userId": "02ebdd2a76345d80c14aadeb",
+      "cost": 1294.93,
+      "products": [
+        "49bf6bbae1e9b1d9dffa131c",
+        "7a7b4eb3a744aed8233767db"
+      ]
+    },
+    {
+      "_id": "b9c8a1ad749cf1cda48ced68",
+      "userId": "374eabdedfac6866cc7df538",
+      "cost": 2539.54,
+      "products": [
+        "cfb6f2deeeaab49d310af6a2",
+        "298fcc7fb96c31efb24f65ce",
+        "7a7b4eb3a744aed8233767db",
+        "6049d873b121d062d0df3e4c"
+      ]
+    },
+    {
+      "_id": "b65eb8cb92eace42ba2b2efe",
+      "userId": "49a2ab07f23ac2dce20c0d6e",
+      "cost": 2382.34,
+      "products": [
+        "4f66e6b9ab7ff73596eb1e26"
+      ]
+    },
+    {
+      "_id": "b284a18cd4fdf0fbedaae53c",
+      "userId": "1f8d29cc8b7fa55effcb11cf",
+      "cost": 4658.15,
+      "products": [
+        "cf9abe543ac500bd0dc83b4b",
+        "6049d873b121d062d0df3e4c",
+        "cc43af59a4beb0b82abd600f",
+        "baf07b11d2ae4a4941f8d8ff"
+      ]
+    },
+    {
+      "_id": "2e084ac80d388153175dd94b",
+      "userId": "a37362cde6373b6d0dd0e9e2",
+      "cost": 4462.48,
+      "products": [
+        "226fbce8d9fff5de0eb6cc74",
+        "cc43af59a4beb0b82abd600f",
+        "4f66e6b9ab7ff73596eb1e26",
+        "d2ba98bfcdfc96275e4dc7aa",
+        "7a7b4eb3a744aed8233767db"
+      ]
+    },
+    {
+      "_id": "ad2e668030cc31682156a77a",
+      "userId": "d5efb5dd64afddf4b5ace1cc",
+      "cost": 1871.47,
+      "products": [
+        "298fcc7fb96c31efb24f65ce",
+        "3f5ca7e6fe8cb6decd6675d1",
+        "ffc50fae2bcecbff05ef8e04"
+      ]
+    },
+    {
+      "_id": "ab6cccbc0ffafdbb4bc4c4c7",
+      "userId": "be785dfb0eeb7f4dc1a80a9c",
+      "cost": 2808.76,
+      "products": [
+        "cd4d9df62dd0fb546cd5e077",
+        "226fbce8d9fff5de0eb6cc74",
+        "f2ffe373f7d02bfb21defc4f"
+      ]
+    },
+    {
+      "_id": "23edf53e07d3752c0bebdf1c",
+      "userId": "d9b8a03cba4a7c8e9ea849da",
+      "cost": 131.67,
+      "products": [
+        "d2ba98bfcdfc96275e4dc7aa",
+        "d2ba98bfcdfc96275e4dc7aa",
+        "f2ffe373f7d02bfb21defc4f",
+        "c1b3be62c8b2f4fc83cf9667",
+        "3f5ca7e6fe8cb6decd6675d1"
+      ]
+    },
+    {
+      "_id": "b42e4a9dd9f813a56c5ef5d4",
+      "userId": "c9eebdddcbef2dcef9d74bcf",
+      "cost": 3179.06,
+      "products": [
+        "298fcc7fb96c31efb24f65ce",
+        "49bf6bbae1e9b1d9dffa131c",
+        "d2ba98bfcdfc96275e4dc7aa",
+        "fa8bcc9cb61aa6edf4d6f5a0",
+        "fa8bcc9cb61aa6edf4d6f5a0"
+      ]
+    },
+    {
+      "_id": "a51bf8caa529fde41bccb0c2",
+      "userId": "1f8d29cc8b7fa55effcb11cf",
+      "cost": 4880.65,
+      "products": [
+        "cf9abe543ac500bd0dc83b4b",
+        "438bce7fd0db0b1bc468cecd",
+        "cfcccc8e9b70dc8db9e1b837",
+        "fa8bcc9cb61aa6edf4d6f5a0",
+        "3f5ca7e6fe8cb6decd6675d1"
+      ]
+    },
+    {
+      "_id": "1bab45dcaf4e72b2f5d85fef",
+      "userId": "5344c1eed9bcbbbbe10feecb",
+      "cost": 1544.55,
+      "products": [
+        "cf9abe543ac500bd0dc83b4b",
+        "cfcccc8e9b70dc8db9e1b837",
+        "ffc50fae2bcecbff05ef8e04"
+      ]
+    },
+    {
+      "_id": "7c7efa917cf31811c8beb7da",
+      "userId": "baeb1bd1f45f36ad64d91b64",
+      "cost": 2724.8,
+      "products": [
+        "7a7b4eb3a744aed8233767db",
+        "d2ba98bfcdfc96275e4dc7aa",
+        "cd4d9df62dd0fb546cd5e077"
+      ]
+    },
+    {
+      "_id": "1ab0f8dce53eb5bcce60f4ce",
+      "userId": "7cdbefe47adf1a06c107fdfa",
+      "cost": 2663.53,
+      "products": [
+        "4f66e6b9ab7ff73596eb1e26",
+        "438bce7fd0db0b1bc468cecd",
+        "4f66e6b9ab7ff73596eb1e26",
+        "cf9abe543ac500bd0dc83b4b",
+        "cc43af59a4beb0b82abd600f"
+      ]
+    },
+    {
+      "_id": "29a03c28054aa7fd3cd0fdfc",
+      "userId": "17c4ca6dbbdaebf807aeb0c6",
+      "cost": 2099.3,
+      "products": [
+        "f2ffe373f7d02bfb21defc4f",
+        "fa8bcc9cb61aa6edf4d6f5a0"
+      ]
+    },
+    {
+      "_id": "65ab2e0e1afac7e237bfa8fd",
+      "userId": "edb3aea15bf7a038f9f8a9df",
+      "cost": 434.72,
+      "products": [
+        "cfb6f2deeeaab49d310af6a2",
+        "3f5ca7e6fe8cb6decd6675d1",
+        "f2ffe373f7d02bfb21defc4f",
+        "cfb6f2deeeaab49d310af6a2"
+      ]
+    },
+    {
+      "_id": "d1fed85e5c5fecf8f92fabe3",
+      "userId": "b489f5ea51a6fb5fc9b2ec94",
+      "cost": 1712.27,
+      "products": [
+        "baf07b11d2ae4a4941f8d8ff",
+        "f2ffe373f7d02bfb21defc4f",
+        "f2ffe373f7d02bfb21defc4f",
+        "49bf6bbae1e9b1d9dffa131c",
+        "b992b9aded5ca50480a1e4bf"
+      ]
+    },
+    {
+      "_id": "4f016db7c499632cd6f5af95",
+      "userId": "027d5a6b3d8ad55e9c5ec8a5",
+      "cost": 1181.9,
+      "products": [
+        "cc43af59a4beb0b82abd600f"
+      ]
+    },
+    {
+      "_id": "fc925e2a022771daccd5e3f0",
+      "userId": "8d341f77050fa9e707c0ac6c",
+      "cost": 465.68,
+      "products": [
+        "298fcc7fb96c31efb24f65ce",
+        "c1b3be62c8b2f4fc83cf9667",
+        "3f5ca7e6fe8cb6decd6675d1",
+        "cfcccc8e9b70dc8db9e1b837",
+        "ffc50fae2bcecbff05ef8e04"
+      ]
+    },
+    {
+      "_id": "cdc2bfcbc77db2494185bc6c",
+      "userId": "7b43e3d9aedbf9ee752ccb0b",
+      "cost": 3891.94,
+      "products": [
+        "cf9abe543ac500bd0dc83b4b",
+        "4f66e6b9ab7ff73596eb1e26",
+        "7a7b4eb3a744aed8233767db",
+        "6049d873b121d062d0df3e4c",
+        "cd0772a63cc63fce2aac137b"
+      ]
+    },
+    {
+      "_id": "b3c4d8fdb8abf6d60abc51fa",
+      "userId": "7b40bdef2d09eaf67a77babc",
+      "cost": 4506.1,
+      "products": [
+        "cf9abe543ac500bd0dc83b4b",
+        "298fcc7fb96c31efb24f65ce",
+        "4f66e6b9ab7ff73596eb1e26"
+      ]
+    },
+    {
+      "_id": "fccdb3fad7ba7fdda74b9fce",
+      "userId": "9dc4af6e3615d17e4bad699a",
+      "cost": 1023.59,
+      "products": [
+        "d2ba98bfcdfc96275e4dc7aa",
+        "226fbce8d9fff5de0eb6cc74",
+        "c1b3be62c8b2f4fc83cf9667"
+      ]
+    },
+    {
+      "_id": "a68a7cfdffa8edddbfa3acce",
+      "userId": "762d1f76eb836b8486f7be00",
+      "cost": 452.85,
+      "products": [
+        "c1b3be62c8b2f4fc83cf9667",
+        "cfcccc8e9b70dc8db9e1b837",
+        "6049d873b121d062d0df3e4c",
+        "cd4d9df62dd0fb546cd5e077"
+      ]
+    },
+    {
+      "_id": "5ad8eaa32b34f3ac5f40f48d",
+      "userId": "dc1dcbd98e21aadbc7d59d36",
+      "cost": 4687.2,
+      "products": [
+        "6049d873b121d062d0df3e4c",
+        "baf07b11d2ae4a4941f8d8ff",
+        "cd4d9df62dd0fb546cd5e077",
+        "6af0f651a4ee5b7bb1dc2a10"
+      ]
+    },
+    {
+      "_id": "eda7ffcd7f866e0e7efad5a5",
+      "userId": "7ea993ccf15feb9d4aacfe1b",
+      "cost": 4151.68,
+      "products": [
+        "cf9abe543ac500bd0dc83b4b"
+      ]
+    },
+    {
+      "_id": "c46cde44da9faae1ac40ceb8",
+      "userId": "98b95bacee9a0c9b58afdfd5",
+      "cost": 455.04,
+      "products": [
+        "b992b9aded5ca50480a1e4bf",
+        "b992b9aded5ca50480a1e4bf",
+        "b992b9aded5ca50480a1e4bf"
+      ]
+    },
+    {
+      "_id": "78face59d1f93abd2555ab7d",
+      "userId": "3bb1e348fce4550b0dc1ed0d",
+      "cost": 4803.91,
+      "products": [
+        "6049d873b121d062d0df3e4c",
+        "fa8bcc9cb61aa6edf4d6f5a0"
+      ]
+    },
+    {
+      "_id": "cc8ce5b6dc1d22358975a065",
+      "userId": "a70d43edc92e6bbd6e211e8b",
+      "cost": 4357.66,
+      "products": [
+        "cf9abe543ac500bd0dc83b4b"
+      ]
+    },
+    {
+      "_id": "3edbdeab9735be7ac3a1ba89",
+      "userId": "dd22be7b8d4e2a2af17df5d6",
+      "cost": 4314.07,
+      "products": [
+        "49bf6bbae1e9b1d9dffa131c",
+        "438bce7fd0db0b1bc468cecd"
+      ]
+    },
+    {
+      "_id": "50afb612bc565fad5fe3a8fa",
+      "userId": "ad2b9bafd8a1debbc77ddbea",
+      "cost": 4789.34,
+      "products": [
+        "4f66e6b9ab7ff73596eb1e26"
+      ]
+    },
+    {
+      "_id": "0d6ecc01e83d2ed487c90c6a",
+      "userId": "d9b8a03cba4a7c8e9ea849da",
+      "cost": 951.11,
+      "products": [
+        "4f66e6b9ab7ff73596eb1e26"
+      ]
+    },
+    {
+      "_id": "c67e70dfbc4b7dd640d7f7bf",
+      "userId": "decf2e22e824e21c5f1ec472",
+      "cost": 4860.71,
+      "products": [
+        "cf9abe543ac500bd0dc83b4b",
+        "6af0f651a4ee5b7bb1dc2a10",
+        "226fbce8d9fff5de0eb6cc74",
+        "cfb6f2deeeaab49d310af6a2"
+      ]
+    },
+    {
+      "_id": "eb516d5a59bc8e54da0ec4bb",
+      "userId": "f00ef3e7dbb52f55afdac40b",
+      "cost": 3041.54,
+      "products": [
+        "49bf6bbae1e9b1d9dffa131c"
+      ]
+    },
+    {
+      "_id": "3e0ea370fd86cdcfbea314a4",
+      "userId": "9cfabeb6b6da0ff668ff42f3",
+      "cost": 3600.8,
+      "products": [
+        "cd4d9df62dd0fb546cd5e077",
+        "cfcccc8e9b70dc8db9e1b837",
+        "cfb6f2deeeaab49d310af6a2",
+        "4f66e6b9ab7ff73596eb1e26",
+        "f2ffe373f7d02bfb21defc4f"
+      ]
+    },
+    {
+      "_id": "570c8bdfefb1dba5c9ac4afd",
+      "userId": "2ccf9d273ed3bed17e6c7423",
+      "cost": 4003.61,
+      "products": [
+        "c1b3be62c8b2f4fc83cf9667",
+        "cfb6f2deeeaab49d310af6a2"
+      ]
+    },
+    {
+      "_id": "8c45d22ddfc53faaadeb59ab",
+      "userId": "67ebf9cdae2f2ee3e3cfca55",
+      "cost": 4808.48,
+      "products": [
+        "226fbce8d9fff5de0eb6cc74",
+        "d2ba98bfcdfc96275e4dc7aa",
+        "4f66e6b9ab7ff73596eb1e26"
+      ]
+    },
+    {
+      "_id": "28bf6c3ed8cd2b01aa4ebc86",
+      "userId": "d3a60ffc9051887ad8ab02f6",
+      "cost": 1730.79,
+      "products": [
+        "226fbce8d9fff5de0eb6cc74",
+        "4f66e6b9ab7ff73596eb1e26",
+        "d2ba98bfcdfc96275e4dc7aa"
+      ]
+    },
+    {
+      "_id": "bedf567ddd2fbc64b9bae062",
+      "userId": "1d7d49fcca1d18e4fc4b0f26",
+      "cost": 2701.38,
+      "products": [
+        "cfcccc8e9b70dc8db9e1b837",
+        "226fbce8d9fff5de0eb6cc74"
+      ]
+    },
+    {
+      "_id": "9aeab1ccfa0e82c1b4dabf04",
+      "userId": "4fe3bf6ed4c3ba8efee9cf65",
+      "cost": 3311.8,
+      "products": [
+        "438bce7fd0db0b1bc468cecd",
+        "baf07b11d2ae4a4941f8d8ff",
+        "fa8bcc9cb61aa6edf4d6f5a0",
+        "438bce7fd0db0b1bc468cecd"
+      ]
+    },
+    {
+      "_id": "ceea2b0c3febeb53f2fef40e",
+      "userId": "f3cce7adecbeb91b05f86220",
+      "cost": 1502.15,
+      "products": [
+        "cc43af59a4beb0b82abd600f",
+        "438bce7fd0db0b1bc468cecd",
+        "7a7b4eb3a744aed8233767db"
+      ]
+    },
+    {
+      "_id": "3eb57cf6ae4a5cfe1f45cdc5",
+      "userId": "e4ceae5bea16caba1bc2e9ea",
+      "cost": 3329.68,
+      "products": [
+        "cfb6f2deeeaab49d310af6a2"
+      ]
+    },
+    {
+      "_id": "fd402b5780bceaaadaebf3c7",
+      "userId": "decf2e22e824e21c5f1ec472",
+      "cost": 4591.72,
+      "products": [
+        "cf9abe543ac500bd0dc83b4b"
+      ]
+    },
+    {
+      "_id": "620577c736b4955ebb25b68c",
+      "userId": "b5db456ee9cfaaef3affcf86",
+      "cost": 1320.15,
+      "products": [
+        "ffc50fae2bcecbff05ef8e04",
+        "6af0f651a4ee5b7bb1dc2a10",
+        "3f5ca7e6fe8cb6decd6675d1",
+        "cc48a96c045491aab31bdef3",
+        "49bf6bbae1e9b1d9dffa131c"
+      ]
+    },
+    {
+      "_id": "ca6e4b65bd8035afd8c658d0",
+      "userId": "c11d0f2abc1b725ccf52eba6",
+      "cost": 2245.92,
+      "products": [
+        "49bf6bbae1e9b1d9dffa131c",
+        "4f66e6b9ab7ff73596eb1e26",
+        "cc43af59a4beb0b82abd600f",
+        "cc43af59a4beb0b82abd600f"
+      ]
+    },
+    {
+      "_id": "e017a1bde1c4bff4eb9591a3",
+      "userId": "adf7df38b35b9ea13da6dd0d",
+      "cost": 1848.25,
+      "products": [
+        "fa8bcc9cb61aa6edf4d6f5a0"
+      ]
+    },
+    {
+      "_id": "850afe5dfffe2a71ba4b71e4",
+      "userId": "ebfbf2cee06ccc09a0ebcffc",
+      "cost": 962.1,
+      "products": [
+        "7a7b4eb3a744aed8233767db",
+        "c1b3be62c8b2f4fc83cf9667",
+        "6af0f651a4ee5b7bb1dc2a10",
+        "baf07b11d2ae4a4941f8d8ff",
+        "cfb6f2deeeaab49d310af6a2"
+      ]
+    },
+    {
+      "_id": "6e6d9fbce3fee3bef0c1c1de",
+      "userId": "6bd6cf376bea5d8ca2c42eef",
+      "cost": 304.2,
+      "products": [
+        "49bf6bbae1e9b1d9dffa131c",
+        "4f66e6b9ab7ff73596eb1e26"
+      ]
+    },
+    {
+      "_id": "059d9b6b207280fcbfa0d9ff",
+      "userId": "a6d547acf5d2ee07ce14ddca",
+      "cost": 521.61,
+      "products": [
+        "fa8bcc9cb61aa6edf4d6f5a0",
+        "3f5ca7e6fe8cb6decd6675d1",
+        "c1b3be62c8b2f4fc83cf9667",
+        "cfcccc8e9b70dc8db9e1b837",
+        "cc48a96c045491aab31bdef3"
+      ]
+    },
+    {
+      "_id": "c770849db5bb908abd08c61a",
+      "userId": "419bb6ba497a8cb4cfbcaf88",
+      "cost": 2891.67,
+      "products": [
+        "cd0772a63cc63fce2aac137b"
+      ]
+    },
+    {
+      "_id": "babee6faf2e1686f728fcf05",
+      "userId": "07f75e9d41f36b5d2bbb1d87",
+      "cost": 4736.33,
+      "products": [
+        "b992b9aded5ca50480a1e4bf",
+        "baf07b11d2ae4a4941f8d8ff",
+        "6049d873b121d062d0df3e4c",
+        "ffc50fae2bcecbff05ef8e04",
+        "f2ffe373f7d02bfb21defc4f"
+      ]
+    },
+    {
+      "_id": "eccd3c80aa5cf7cee2f2fabf",
+      "userId": "5344c1eed9bcbbbbe10feecb",
+      "cost": 1679.09,
+      "products": [
+        "cfb6f2deeeaab49d310af6a2",
+        "cd4d9df62dd0fb546cd5e077"
+      ]
+    },
+    {
+      "_id": "8b6198edec99aeba7e1edaaf",
+      "userId": "d46bd5a548817a5bd9bbff97",
+      "cost": 955.39,
+      "products": [
+        "7a7b4eb3a744aed8233767db",
+        "fa8bcc9cb61aa6edf4d6f5a0",
+        "b992b9aded5ca50480a1e4bf",
+        "226fbce8d9fff5de0eb6cc74"
+      ]
+    },
+    {
+      "_id": "3d771bacdc3d8dabc2d33e12",
+      "userId": "f1ead44cedec163d9c269c29",
+      "cost": 2406.63,
+      "products": [
+        "f2ffe373f7d02bfb21defc4f",
+        "298fcc7fb96c31efb24f65ce",
+        "298fcc7fb96c31efb24f65ce",
+        "ffc50fae2bcecbff05ef8e04"
+      ]
+    },
+    {
+      "_id": "865bb4121d3438da18dc2ad8",
+      "userId": "ffd4cebffc44e15adcebecb7",
+      "cost": 2168.48,
+      "products": [
+        "298fcc7fb96c31efb24f65ce"
+      ]
+    },
+    {
+      "_id": "cbdd49fcb4df0bf1443e56d1",
+      "userId": "9bd28ebb78fcffcbaba9f9f9",
+      "cost": 4701.53,
+      "products": [
+        "0c213acf22ceceaedd0b2afe",
+        "cfb6f2deeeaab49d310af6a2",
+        "cc43af59a4beb0b82abd600f",
+        "d2ba98bfcdfc96275e4dc7aa",
+        "cc48a96c045491aab31bdef3"
+      ]
+    },
+    {
+      "_id": "ad84c8e1325c8f01b13f5eac",
+      "userId": "52af25ffdaab1cc1928a09cf",
+      "cost": 2811.84,
+      "products": [
+        "3f5ca7e6fe8cb6decd6675d1",
+        "6af0f651a4ee5b7bb1dc2a10",
+        "f2ffe373f7d02bfb21defc4f",
+        "49bf6bbae1e9b1d9dffa131c"
+      ]
+    },
+    {
+      "_id": "5242e3c304aaf02ba074e5f6",
+      "userId": "ff1493d0c7f216e8bf290cc9",
+      "cost": 2495.38,
+      "products": [
+        "a66e2d500eba3a34c8fd43d8"
+      ]
+    },
+    {
+      "_id": "dc7d585c3f7fbd6b2c6cbd3a",
+      "userId": "b01dbdcacadeeafefacffe12",
+      "cost": 4992.89,
+      "products": [
+        "438bce7fd0db0b1bc468cecd",
+        "cfb6f2deeeaab49d310af6a2",
+        "cf9abe543ac500bd0dc83b4b"
+      ]
+    },
+    {
+      "_id": "07ecce592b85bde6dad5c913",
+      "userId": "9f819eeb0fda107ec8b14c01",
+      "cost": 687.68,
+      "products": [
+        "6049d873b121d062d0df3e4c",
+        "cfcccc8e9b70dc8db9e1b837",
+        "226fbce8d9fff5de0eb6cc74",
+        "a66e2d500eba3a34c8fd43d8",
+        "438bce7fd0db0b1bc468cecd"
+      ]
+    },
+    {
+      "_id": "93b8b561ac1eccbdc7f9946c",
+      "userId": "fbdc012ef337fcdebbaee1ad",
+      "cost": 3838.77,
+      "products": [
+        "6049d873b121d062d0df3e4c"
+      ]
+    },
+    {
+      "_id": "8bd61bf3eafdbe4cec6cace0",
+      "userId": "9f819eeb0fda107ec8b14c01",
+      "cost": 4182.99,
+      "products": [
+        "cc48a96c045491aab31bdef3",
+        "298fcc7fb96c31efb24f65ce",
+        "0c213acf22ceceaedd0b2afe",
+        "7a7b4eb3a744aed8233767db"
+      ]
+    },
+    {
+      "_id": "16cff6f91171dfd769f8adfa",
+      "userId": "0d205c2aea8cd4d4c48927ad",
+      "cost": 163.8,
+      "products": [
+        "b992b9aded5ca50480a1e4bf",
+        "baf07b11d2ae4a4941f8d8ff",
+        "6049d873b121d062d0df3e4c",
+        "baf07b11d2ae4a4941f8d8ff",
+        "298fcc7fb96c31efb24f65ce"
+      ]
+    },
+    {
+      "_id": "c91a8dbee0be0be58ad4a59d",
+      "userId": "e2dbd5facfcff1fe21cf8705",
+      "cost": 2792.24,
+      "products": [
+        "a66e2d500eba3a34c8fd43d8",
+        "cd0772a63cc63fce2aac137b",
+        "baf07b11d2ae4a4941f8d8ff",
+        "d2ba98bfcdfc96275e4dc7aa",
+        "cd4d9df62dd0fb546cd5e077"
+      ]
+    },
+    {
+      "_id": "4db32afc9d9bc29f8fa5bb8e",
+      "userId": "15162f07d8ffbccdf9884da7",
+      "cost": 4715.61,
+      "products": [
+        "226fbce8d9fff5de0eb6cc74",
+        "cc48a96c045491aab31bdef3",
+        "298fcc7fb96c31efb24f65ce",
+        "4f66e6b9ab7ff73596eb1e26"
+      ]
+    },
+    {
+      "_id": "9ab78b3fc6ef6c6ba2392ac1",
+      "userId": "41ca6dcadc25fa3f4fccf712",
+      "cost": 4082.56,
+      "products": [
+        "6049d873b121d062d0df3e4c",
+        "a66e2d500eba3a34c8fd43d8",
+        "fa8bcc9cb61aa6edf4d6f5a0"
+      ]
+    },
+    {
+      "_id": "6173c716cbf0f1bdcbedcc5d",
+      "userId": "7ea993ccf15feb9d4aacfe1b",
+      "cost": 3368.37,
+      "products": [
+        "cfcccc8e9b70dc8db9e1b837",
+        "226fbce8d9fff5de0eb6cc74",
+        "cd4d9df62dd0fb546cd5e077"
+      ]
+    },
+    {
+      "_id": "e0badecbbfdd76ca474ea8ee",
+      "userId": "4aacc56475c6fa2c57ce6e4d",
+      "cost": 4194.14,
+      "products": [
+        "cfb6f2deeeaab49d310af6a2",
+        "3f5ca7e6fe8cb6decd6675d1",
+        "cd0772a63cc63fce2aac137b",
+        "226fbce8d9fff5de0eb6cc74"
+      ]
+    },
+    {
+      "_id": "7e79cd3b9eb5b4f9ddf387ef",
+      "userId": "ef0b4b1fd9bcf91f0fbbc4ae",
+      "cost": 487.94,
+      "products": [
+        "cd4d9df62dd0fb546cd5e077",
+        "d2ba98bfcdfc96275e4dc7aa",
+        "cfcccc8e9b70dc8db9e1b837",
+        "cd4d9df62dd0fb546cd5e077"
+      ]
+    },
+    {
+      "_id": "3a84a039cc793ff6972cab82",
+      "userId": "cacf6ed84c8eded44b3c7128",
+      "cost": 2029.85,
+      "products": [
+        "cc48a96c045491aab31bdef3",
+        "49bf6bbae1e9b1d9dffa131c"
+      ]
+    },
+    {
+      "_id": "1ffaf4afc6cb358748cbc5d1",
+      "userId": "fafabf1fe11b17c22a0e4b08",
+      "cost": 2840.48,
+      "products": [
+        "cc43af59a4beb0b82abd600f",
+        "298fcc7fb96c31efb24f65ce",
+        "c1b3be62c8b2f4fc83cf9667",
+        "298fcc7fb96c31efb24f65ce",
+        "6af0f651a4ee5b7bb1dc2a10"
+      ]
+    },
+    {
+      "_id": "9d2abae9bac58af2f1e367e1",
+      "userId": "f00ef3e7dbb52f55afdac40b",
+      "cost": 3265.35,
+      "products": [
+        "fa8bcc9cb61aa6edf4d6f5a0",
+        "6af0f651a4ee5b7bb1dc2a10",
+        "cc48a96c045491aab31bdef3"
+      ]
+    },
+    {
+      "_id": "7c93e25c957d59f6fa7c1af4",
+      "userId": "a77ccb5ed9362a2923b37efd",
+      "cost": 1191.37,
+      "products": [
+        "f2ffe373f7d02bfb21defc4f",
+        "cf9abe543ac500bd0dc83b4b",
+        "3f5ca7e6fe8cb6decd6675d1",
+        "298fcc7fb96c31efb24f65ce",
+        "a66e2d500eba3a34c8fd43d8"
+      ]
+    },
+    {
+      "_id": "3a4f422ad34d4f1c9f42d6de",
+      "userId": "5affbe32a9fcd5c72eeca855",
+      "cost": 4461.23,
+      "products": [
+        "c1b3be62c8b2f4fc83cf9667",
+        "cc43af59a4beb0b82abd600f"
+      ]
+    },
+    {
+      "_id": "26f6cdeb0ce5f527da536dd3",
+      "userId": "b49d9613c9c8c4db2a45071f",
+      "cost": 3197.75,
+      "products": [
+        "49bf6bbae1e9b1d9dffa131c",
+        "6049d873b121d062d0df3e4c",
+        "6049d873b121d062d0df3e4c"
+      ]
+    },
+    {
+      "_id": "4cacca74efa8fbaafb7debb5",
+      "userId": "cfbffa5c979be23b1eeff7d5",
+      "cost": 2778.88,
+      "products": [
+        "c1b3be62c8b2f4fc83cf9667",
+        "0c213acf22ceceaedd0b2afe",
+        "ffc50fae2bcecbff05ef8e04",
+        "7a7b4eb3a744aed8233767db"
+      ]
+    },
+    {
+      "_id": "8fa63fcd214a65e810e0a2be",
+      "userId": "cf23ceddaea0dcfefa0da9e7",
+      "cost": 4219.09,
+      "products": [
+        "f2ffe373f7d02bfb21defc4f",
+        "3f5ca7e6fe8cb6decd6675d1",
+        "438bce7fd0db0b1bc468cecd",
+        "cc43af59a4beb0b82abd600f",
+        "a66e2d500eba3a34c8fd43d8"
+      ]
+    },
+    {
+      "_id": "5f2fb7afac7b7ddd0e4cf3d4",
+      "userId": "bebe70dfabd0babcf963dfd9",
+      "cost": 4371.69,
+      "products": [
+        "f2ffe373f7d02bfb21defc4f"
+      ]
+    },
+    {
+      "_id": "2de363aabbef22d77e109fca",
+      "userId": "9dc4af6e3615d17e4bad699a",
+      "cost": 3568,
+      "products": [
+        "f2ffe373f7d02bfb21defc4f",
+        "3f5ca7e6fe8cb6decd6675d1",
+        "298fcc7fb96c31efb24f65ce",
+        "298fcc7fb96c31efb24f65ce"
+      ]
+    },
+    {
+      "_id": "ddae2dffb747e1bbac32ccc3",
+      "userId": "a37362cde6373b6d0dd0e9e2",
+      "cost": 3345.69,
+      "products": [
+        "cfb6f2deeeaab49d310af6a2",
+        "6049d873b121d062d0df3e4c"
+      ]
+    },
+    {
+      "_id": "cafeea93e562cbecefcbe22e",
+      "userId": "49a2ab07f23ac2dce20c0d6e",
+      "cost": 4450.34,
+      "products": [
+        "226fbce8d9fff5de0eb6cc74",
+        "f2ffe373f7d02bfb21defc4f",
+        "49bf6bbae1e9b1d9dffa131c",
+        "c1b3be62c8b2f4fc83cf9667",
+        "c1b3be62c8b2f4fc83cf9667"
+      ]
+    },
+    {
+      "_id": "3c6f78dd4fa487e97bf60e93",
+      "userId": "1f1ebd59c7614ecb9f245aef",
+      "cost": 4412.32,
+      "products": [
+        "cf9abe543ac500bd0dc83b4b",
+        "3f5ca7e6fe8cb6decd6675d1"
+      ]
+    },
+    {
+      "_id": "72bedc6addab43f2d88a4a1b",
+      "userId": "d3a60ffc9051887ad8ab02f6",
+      "cost": 2201.77,
+      "products": [
+        "fa8bcc9cb61aa6edf4d6f5a0",
+        "438bce7fd0db0b1bc468cecd",
+        "b992b9aded5ca50480a1e4bf"
+      ]
+    },
+    {
+      "_id": "27a655c3c9a8462821ec7289",
+      "userId": "5344c1eed9bcbbbbe10feecb",
+      "cost": 642.73,
+      "products": [
+        "cd4d9df62dd0fb546cd5e077",
+        "cc48a96c045491aab31bdef3",
+        "cf9abe543ac500bd0dc83b4b",
+        "f2ffe373f7d02bfb21defc4f"
+      ]
+    },
+    {
+      "_id": "85063eeefaec07d03b2cccc3",
+      "userId": "eeb0daa1a4fa194fc56bcaa9",
+      "cost": 1470.02,
+      "products": [
+        "226fbce8d9fff5de0eb6cc74",
+        "cfb6f2deeeaab49d310af6a2",
+        "d2ba98bfcdfc96275e4dc7aa",
+        "baf07b11d2ae4a4941f8d8ff"
+      ]
+    },
+    {
+      "_id": "34adca7371e558b5594a5f15",
+      "userId": "7b40bdef2d09eaf67a77babc",
+      "cost": 380.15,
+      "products": [
+        "f2ffe373f7d02bfb21defc4f"
+      ]
+    },
+    {
+      "_id": "6dc465d23e8c2fecfba35a91",
+      "userId": "643ebad5dbd9a8a011f3bcc3",
+      "cost": 3222.23,
+      "products": [
+        "b992b9aded5ca50480a1e4bf",
+        "f2ffe373f7d02bfb21defc4f",
+        "226fbce8d9fff5de0eb6cc74"
+      ]
+    },
+    {
+      "_id": "d207c56b91da8ece2eb6ebe2",
+      "userId": "1dc0b4b71dac319b17d70de3",
+      "cost": 528.13,
+      "products": [
+        "cd4d9df62dd0fb546cd5e077",
+        "6af0f651a4ee5b7bb1dc2a10",
+        "cc43af59a4beb0b82abd600f",
+        "6af0f651a4ee5b7bb1dc2a10",
+        "cf9abe543ac500bd0dc83b4b"
+      ]
+    },
+    {
+      "_id": "de3eacfcdd4619a8eba2a72c",
+      "userId": "fde6a9bb6eeffe1cacaeb1eb",
+      "cost": 3839.62,
+      "products": [
+        "438bce7fd0db0b1bc468cecd",
+        "226fbce8d9fff5de0eb6cc74",
+        "a66e2d500eba3a34c8fd43d8",
+        "298fcc7fb96c31efb24f65ce",
+        "438bce7fd0db0b1bc468cecd"
+      ]
+    },
+    {
+      "_id": "dbd954508ddb7010e5ed6bfc",
+      "userId": "1f1ebd59c7614ecb9f245aef",
+      "cost": 1777.22,
+      "products": [
+        "0c213acf22ceceaedd0b2afe",
+        "cc48a96c045491aab31bdef3",
+        "49bf6bbae1e9b1d9dffa131c"
+      ]
+    },
+    {
+      "_id": "e29b8f5cebb856dddfb1bbb9",
+      "userId": "eee29f7052acf4dadac3c5aa",
+      "cost": 1763.32,
+      "products": [
+        "cc43af59a4beb0b82abd600f",
+        "4f66e6b9ab7ff73596eb1e26",
+        "6af0f651a4ee5b7bb1dc2a10"
+      ]
+    },
+    {
+      "_id": "c319ffd1f5abd9a959eea3d1",
+      "userId": "0adac04da22bb5dd3da1065b",
+      "cost": 3157.35,
+      "products": [
+        "cf9abe543ac500bd0dc83b4b",
+        "cfcccc8e9b70dc8db9e1b837",
+        "b992b9aded5ca50480a1e4bf",
+        "cfcccc8e9b70dc8db9e1b837",
+        "7a7b4eb3a744aed8233767db"
+      ]
+    },
+    {
+      "_id": "1a9c5ac27894d0c83bdde2a2",
+      "userId": "adcdea2438f5c40bcd913be3",
+      "cost": 1380.59,
+      "products": [
+        "cfcccc8e9b70dc8db9e1b837",
+        "298fcc7fb96c31efb24f65ce",
+        "7a7b4eb3a744aed8233767db",
+        "3f5ca7e6fe8cb6decd6675d1",
+        "4f66e6b9ab7ff73596eb1e26"
+      ]
+    },
+    {
+      "_id": "2808c8a7aa74abaaa4ca7aa0",
+      "userId": "7aedbc9f0daa97df0fb1facb",
+      "cost": 4794.78,
+      "products": [
+        "cfcccc8e9b70dc8db9e1b837",
+        "d2ba98bfcdfc96275e4dc7aa",
+        "49bf6bbae1e9b1d9dffa131c"
+      ]
+    },
+    {
+      "_id": "2263c8db76e0d68fa0e2df04",
+      "userId": "65a6eab8aea0fae10ef301c3",
+      "cost": 2613.7,
+      "products": [
+        "cfcccc8e9b70dc8db9e1b837"
+      ]
+    },
+    {
+      "_id": "5fabbfdca8f0267c0bf0be95",
+      "userId": "9cb1aed11da5cffb5f3cfb0e",
+      "cost": 773.92,
+      "products": [
+        "49bf6bbae1e9b1d9dffa131c",
+        "49bf6bbae1e9b1d9dffa131c",
+        "f2ffe373f7d02bfb21defc4f"
+      ]
+    },
+    {
+      "_id": "ef7091609f6ca66ae4d4b1ed",
+      "userId": "ba85c6853cdacefae371b93c",
+      "cost": 3206.25,
+      "products": [
+        "cd4d9df62dd0fb546cd5e077",
+        "cd0772a63cc63fce2aac137b",
+        "0c213acf22ceceaedd0b2afe",
+        "0c213acf22ceceaedd0b2afe"
+      ]
+    },
+    {
+      "_id": "cffe59df4b4d166e4a7f9100",
+      "userId": "b01dbdcacadeeafefacffe12",
+      "cost": 1605.12,
+      "products": [
+        "baf07b11d2ae4a4941f8d8ff",
+        "d2ba98bfcdfc96275e4dc7aa"
+      ]
+    },
+    {
+      "_id": "ffebc74e38577c3fc4bd5f8a",
+      "userId": "a6c0cc5bbaf5d0ce18ffba9b",
+      "cost": 1213.01,
+      "products": [
+        "a66e2d500eba3a34c8fd43d8"
+      ]
+    },
+    {
+      "_id": "57abc9efbaacd1beb0d10e4c",
+      "userId": "adacdddcab55bce0e988eafc",
+      "cost": 4035.74,
+      "products": [
+        "cfb6f2deeeaab49d310af6a2",
+        "b992b9aded5ca50480a1e4bf"
+      ]
+    },
+    {
+      "_id": "2aeb2eabbb7d66ba68e7c3ae",
+      "userId": "edb3aea15bf7a038f9f8a9df",
+      "cost": 4312.87,
+      "products": [
+        "438bce7fd0db0b1bc468cecd",
+        "cfcccc8e9b70dc8db9e1b837",
+        "cc43af59a4beb0b82abd600f",
+        "6049d873b121d062d0df3e4c",
+        "cd0772a63cc63fce2aac137b"
+      ]
+    },
+    {
+      "_id": "aa6ee7ef6fb06fb3216101b3",
+      "userId": "9b508ec72d2afb7094ea10af",
+      "cost": 3835.66,
+      "products": [
+        "cd0772a63cc63fce2aac137b",
+        "fa8bcc9cb61aa6edf4d6f5a0",
+        "438bce7fd0db0b1bc468cecd",
+        "6049d873b121d062d0df3e4c",
+        "226fbce8d9fff5de0eb6cc74"
+      ]
+    },
+    {
+      "_id": "2230b3a9eef24ab17b9bf704",
+      "userId": "9a8adcb3db4d391de7cb3ee2",
+      "cost": 1131.14,
+      "products": [
+        "226fbce8d9fff5de0eb6cc74",
+        "a66e2d500eba3a34c8fd43d8",
+        "6af0f651a4ee5b7bb1dc2a10"
+      ]
+    },
+    {
+      "_id": "c0da8e1e815abfeb6564efa6",
+      "userId": "027d5a6b3d8ad55e9c5ec8a5",
+      "cost": 3369.82,
+      "products": [
+        "49bf6bbae1e9b1d9dffa131c",
+        "f2ffe373f7d02bfb21defc4f"
+      ]
+    },
+    {
+      "_id": "eb1ac48a5cf75dac5d9cdc28",
+      "userId": "7aedbc9f0daa97df0fb1facb",
+      "cost": 474.3,
+      "products": [
+        "6af0f651a4ee5b7bb1dc2a10"
+      ]
+    },
+    {
+      "_id": "e5d07e2bedff792da8d3d0cb",
+      "userId": "a2f8efdc180eefa1672f53cf",
+      "cost": 3858.04,
+      "products": [
+        "49bf6bbae1e9b1d9dffa131c"
+      ]
+    },
+    {
+      "_id": "fa39e09dae3626de9d9edbfd",
+      "userId": "0d205c2aea8cd4d4c48927ad",
+      "cost": 3781.78,
+      "products": [
+        "cf9abe543ac500bd0dc83b4b",
+        "a66e2d500eba3a34c8fd43d8",
+        "a66e2d500eba3a34c8fd43d8",
+        "cc48a96c045491aab31bdef3",
+        "49bf6bbae1e9b1d9dffa131c"
+      ]
+    },
+    {
+      "_id": "283b1cb42bbb44a2aedc21bf",
+      "userId": "5ce07ebb8cec3ef4629d9e05",
+      "cost": 4834.03,
+      "products": [
+        "6049d873b121d062d0df3e4c",
+        "cfcccc8e9b70dc8db9e1b837",
+        "cf9abe543ac500bd0dc83b4b",
+        "d2ba98bfcdfc96275e4dc7aa"
+      ]
+    },
+    {
+      "_id": "ddf8e109f45f3da62fa59ade",
+      "userId": "a70d43edc92e6bbd6e211e8b",
+      "cost": 2089.27,
+      "products": [
+        "6af0f651a4ee5b7bb1dc2a10",
+        "cfcccc8e9b70dc8db9e1b837",
+        "f2ffe373f7d02bfb21defc4f",
+        "438bce7fd0db0b1bc468cecd",
+        "ffc50fae2bcecbff05ef8e04"
+      ]
+    },
+    {
+      "_id": "acf8c0f536c309ded6fa2bdd",
+      "userId": "cacc5aee733bbc7eaffaf9f8",
+      "cost": 4724.01,
+      "products": [
+        "226fbce8d9fff5de0eb6cc74"
+      ]
+    },
+    {
+      "_id": "4bec781a3ceebe5de5ea9e5c",
+      "userId": "bb69a6a3b886ef56b6cbf2b1",
+      "cost": 3481.38,
+      "products": [
+        "cc43af59a4beb0b82abd600f",
+        "baf07b11d2ae4a4941f8d8ff",
+        "fa8bcc9cb61aa6edf4d6f5a0",
+        "0c213acf22ceceaedd0b2afe"
+      ]
+    },
+    {
+      "_id": "e8bea44d3fc7feabe33addee",
+      "userId": "c6eee8ddc7b1aa3a1237fb28",
+      "cost": 1135.48,
+      "products": [
+        "49bf6bbae1e9b1d9dffa131c"
+      ]
+    },
+    {
+      "_id": "6844eaae254cfaaadcfc7f38",
+      "userId": "e3be885a5ee5355f8b3eacf6",
+      "cost": 370.39,
+      "products": [
+        "226fbce8d9fff5de0eb6cc74"
+      ]
+    },
+    {
+      "_id": "ebabb47504e524f284340d0b",
+      "userId": "bb5ec2ff3edff97a5d2b0b16",
+      "cost": 1670.14,
+      "products": [
+        "6af0f651a4ee5b7bb1dc2a10",
+        "7a7b4eb3a744aed8233767db",
+        "a66e2d500eba3a34c8fd43d8",
+        "cd4d9df62dd0fb546cd5e077",
+        "7a7b4eb3a744aed8233767db"
+      ]
+    },
+    {
+      "_id": "fc3498e7acd0acae2f5039fe",
+      "userId": "762d1f76eb836b8486f7be00",
+      "cost": 812.92,
+      "products": [
+        "6af0f651a4ee5b7bb1dc2a10",
+        "7a7b4eb3a744aed8233767db",
+        "7a7b4eb3a744aed8233767db",
+        "cd4d9df62dd0fb546cd5e077",
+        "438bce7fd0db0b1bc468cecd"
+      ]
+    },
+    {
+      "_id": "6c7a4db3c6ce07da3cef2856",
+      "userId": "bee0eae5dda77b2f9bfdaeb5",
+      "cost": 3806.28,
+      "products": [
+        "4f66e6b9ab7ff73596eb1e26"
+      ]
+    },
+    {
+      "_id": "7d532cd4faa2d9df3a37bbbd",
+      "userId": "badf9df3fdf2dd7cd74175dd",
+      "cost": 2677.87,
+      "products": [
+        "438bce7fd0db0b1bc468cecd",
+        "cd4d9df62dd0fb546cd5e077"
+      ]
+    },
+    {
+      "_id": "82dc665b21d8d8f6b3fee88e",
+      "userId": "d8cf0fabbec121ed4b68ad57",
+      "cost": 4958.07,
+      "products": [
+        "49bf6bbae1e9b1d9dffa131c"
+      ]
+    },
+    {
+      "_id": "4c1b7d847b8e86583b1b8217",
+      "userId": "adacdddcab55bce0e988eafc",
+      "cost": 4714.96,
+      "products": [
+        "fa8bcc9cb61aa6edf4d6f5a0",
+        "4f66e6b9ab7ff73596eb1e26",
+        "fa8bcc9cb61aa6edf4d6f5a0",
+        "3f5ca7e6fe8cb6decd6675d1"
+      ]
+    },
+    {
+      "_id": "1d11cf1eac29f7bc6dba0aef",
+      "userId": "9f819eeb0fda107ec8b14c01",
+      "cost": 760.99,
+      "products": [
+        "cd4d9df62dd0fb546cd5e077"
+      ]
+    },
+    {
+      "_id": "4bec3c2a2abfffeab2ceef70",
+      "userId": "8fcf4e3fdb8afae8cc5cfea5",
+      "cost": 3095.16,
+      "products": [
+        "6af0f651a4ee5b7bb1dc2a10",
+        "cfb6f2deeeaab49d310af6a2",
+        "298fcc7fb96c31efb24f65ce",
+        "f2ffe373f7d02bfb21defc4f",
+        "cd4d9df62dd0fb546cd5e077"
+      ]
+    },
+    {
+      "_id": "ca23f63a0cbc73cd12bfeb78",
+      "userId": "a2f8efdc180eefa1672f53cf",
+      "cost": 2031.35,
+      "products": [
+        "cd0772a63cc63fce2aac137b"
+      ]
+    },
+    {
+      "_id": "d4837bbd59df43b05cba2dde",
+      "userId": "bee5aa5a93fbccabd62f0c22",
+      "cost": 4113.65,
+      "products": [
+        "49bf6bbae1e9b1d9dffa131c",
+        "0c213acf22ceceaedd0b2afe",
+        "6049d873b121d062d0df3e4c",
+        "cfb6f2deeeaab49d310af6a2"
+      ]
+    },
+    {
+      "_id": "8e3c7f3edfec1bad9e5acd7a",
+      "userId": "3bb1e348fce4550b0dc1ed0d",
+      "cost": 4999.79,
+      "products": [
+        "cfb6f2deeeaab49d310af6a2",
+        "6049d873b121d062d0df3e4c",
+        "cd0772a63cc63fce2aac137b",
+        "cf9abe543ac500bd0dc83b4b",
+        "a66e2d500eba3a34c8fd43d8"
+      ]
+    },
+    {
+      "_id": "0e4fabff691f4cbc3b6c7b4e",
+      "userId": "ade7b1cc1644d01e64f9aca2",
+      "cost": 4934.38,
+      "products": [
+        "ffc50fae2bcecbff05ef8e04"
+      ]
+    },
+    {
+      "_id": "bb049cb2e149a2ce47a3883c",
+      "userId": "5ce07ebb8cec3ef4629d9e05",
+      "cost": 198,
+      "products": [
+        "cd0772a63cc63fce2aac137b",
+        "a66e2d500eba3a34c8fd43d8",
+        "baf07b11d2ae4a4941f8d8ff"
+      ]
+    },
+    {
+      "_id": "e99c7ab7fa925229bbc38cc6",
+      "userId": "252cdbae4f9fdaeeec60b8a2",
+      "cost": 4290.77,
+      "products": [
+        "3f5ca7e6fe8cb6decd6675d1"
+      ]
+    },
+    {
+      "_id": "c03c4e479b7c115add2315de",
+      "userId": "badf9df3fdf2dd7cd74175dd",
+      "cost": 289.54,
+      "products": [
+        "cc48a96c045491aab31bdef3",
+        "c1b3be62c8b2f4fc83cf9667",
+        "d2ba98bfcdfc96275e4dc7aa",
+        "6af0f651a4ee5b7bb1dc2a10",
+        "cc43af59a4beb0b82abd600f"
+      ]
+    },
+    {
+      "_id": "c27b6b5d39490686b7ddc8ec",
+      "userId": "ba85c6853cdacefae371b93c",
+      "cost": 4841.99,
+      "products": [
+        "cc48a96c045491aab31bdef3",
+        "cfcccc8e9b70dc8db9e1b837",
+        "298fcc7fb96c31efb24f65ce",
+        "a66e2d500eba3a34c8fd43d8"
+      ]
+    },
+    {
+      "_id": "66a9578c1cc225128d74e9c5",
+      "userId": "07f75e9d41f36b5d2bbb1d87",
+      "cost": 3126.28,
+      "products": [
+        "7a7b4eb3a744aed8233767db",
+        "cfb6f2deeeaab49d310af6a2",
+        "cc43af59a4beb0b82abd600f"
+      ]
+    },
+    {
+      "_id": "cd90471ddc52861fbe24fa4e",
+      "userId": "5e46fcbcc6354feeb3bca197",
+      "cost": 3735.19,
+      "products": [
+        "6af0f651a4ee5b7bb1dc2a10"
+      ]
+    },
+    {
+      "_id": "172e5b2a5a6e7d1df6d6a09a",
+      "userId": "3cabe957fc75baf5edaa196f",
+      "cost": 2885.72,
+      "products": [
+        "c1b3be62c8b2f4fc83cf9667",
+        "6049d873b121d062d0df3e4c"
+      ]
+    },
+    {
+      "_id": "6ecaa3aed8dc3f9ea7d1bb8e",
+      "userId": "cacf6ed84c8eded44b3c7128",
+      "cost": 1013.97,
+      "products": [
+        "ffc50fae2bcecbff05ef8e04",
+        "baf07b11d2ae4a4941f8d8ff"
+      ]
+    },
+    {
+      "_id": "4d3c3bcbeac747ec5efbccef",
+      "userId": "ac91ca6219bbd5dafbc1a0f2",
+      "cost": 3587.97,
+      "products": [
+        "fa8bcc9cb61aa6edf4d6f5a0",
+        "4f66e6b9ab7ff73596eb1e26"
+      ]
+    },
+    {
+      "_id": "c44117afcb99cc8004faf9cb",
+      "userId": "3bb1e348fce4550b0dc1ed0d",
+      "cost": 4661.91,
+      "products": [
+        "7a7b4eb3a744aed8233767db"
+      ]
+    },
+    {
+      "_id": "365a6d2d6fcd5f6a9def9ea2",
+      "userId": "cf39cc06f71ec9bbf1c15f77",
+      "cost": 2244.38,
+      "products": [
+        "298fcc7fb96c31efb24f65ce"
+      ]
+    },
+    {
+      "_id": "f45e57cdcc85e1bf09f4c98d",
+      "userId": "2f4861ba64f5ce00a7ea5b4c",
+      "cost": 1371.26,
+      "products": [
+        "6049d873b121d062d0df3e4c",
+        "fa8bcc9cb61aa6edf4d6f5a0",
+        "baf07b11d2ae4a4941f8d8ff",
+        "cc48a96c045491aab31bdef3"
+      ]
+    },
+    {
+      "_id": "e590ca763bc93cb68adc59a4",
+      "userId": "a2ffaabe8e3e807ad46bed21",
+      "cost": 2331.14,
+      "products": [
+        "cc43af59a4beb0b82abd600f",
+        "ffc50fae2bcecbff05ef8e04",
+        "cc43af59a4beb0b82abd600f"
+      ]
+    },
+    {
+      "_id": "a2b4a3bece8f17a9db61cec9",
+      "userId": "badf9df3fdf2dd7cd74175dd",
+      "cost": 3647.73,
+      "products": [
+        "6af0f651a4ee5b7bb1dc2a10",
+        "0c213acf22ceceaedd0b2afe",
+        "ffc50fae2bcecbff05ef8e04",
+        "fa8bcc9cb61aa6edf4d6f5a0"
+      ]
+    },
+    {
+      "_id": "a1a7f5eb21f1ba752f76fb35",
+      "userId": "da8cd3e518de8f1e56cdd1cb",
+      "cost": 4097.99,
+      "products": [
+        "cc48a96c045491aab31bdef3",
+        "6af0f651a4ee5b7bb1dc2a10",
+        "cfcccc8e9b70dc8db9e1b837"
+      ]
+    },
+    {
+      "_id": "3b1e9e1cd9af4f19c22c9b3a",
+      "userId": "ffca57a99bb1fadef824ba88",
+      "cost": 1170.64,
+      "products": [
+        "b992b9aded5ca50480a1e4bf",
+        "d2ba98bfcdfc96275e4dc7aa",
+        "cfb6f2deeeaab49d310af6a2"
+      ]
+    },
+    {
+      "_id": "0cc4f5d1ee11a7be41ba3fb9",
+      "userId": "dc1dcbd98e21aadbc7d59d36",
+      "cost": 2885.33,
+      "products": [
+        "f2ffe373f7d02bfb21defc4f",
+        "6af0f651a4ee5b7bb1dc2a10",
+        "fa8bcc9cb61aa6edf4d6f5a0",
+        "cf9abe543ac500bd0dc83b4b"
+      ]
+    },
+    {
+      "_id": "d25530fae7deeea7dbe9f01f",
+      "userId": "9bd28ebb78fcffcbaba9f9f9",
+      "cost": 796.48,
+      "products": [
+        "d2ba98bfcdfc96275e4dc7aa",
+        "298fcc7fb96c31efb24f65ce",
+        "c1b3be62c8b2f4fc83cf9667"
+      ]
+    },
+    {
+      "_id": "e060f00eaffa660e55cbafb2",
+      "userId": "fb9f69fbb5df48dde27eff61",
+      "cost": 1385.67,
+      "products": [
+        "d2ba98bfcdfc96275e4dc7aa",
+        "d2ba98bfcdfc96275e4dc7aa",
+        "cd4d9df62dd0fb546cd5e077",
+        "ffc50fae2bcecbff05ef8e04"
+      ]
+    },
+    {
+      "_id": "6fe82a38ebabbef1e3dd6aeb",
+      "userId": "e1cf4dba6571b79ae85df0a5",
+      "cost": 4096.93,
+      "products": [
+        "6049d873b121d062d0df3e4c",
+        "baf07b11d2ae4a4941f8d8ff",
+        "cfb6f2deeeaab49d310af6a2",
+        "c1b3be62c8b2f4fc83cf9667"
+      ]
+    },
+    {
+      "_id": "e0cbb6defce7bb1ffcc7bab0",
+      "userId": "96cf26dcf4ff2b1ebbce6111",
+      "cost": 2673.21,
+      "products": [
+        "a66e2d500eba3a34c8fd43d8",
+        "226fbce8d9fff5de0eb6cc74",
+        "a66e2d500eba3a34c8fd43d8",
+        "d2ba98bfcdfc96275e4dc7aa"
+      ]
+    },
+    {
+      "_id": "0e7ac49e3cfc05f41c9fbaaf",
+      "userId": "2ccf9d273ed3bed17e6c7423",
+      "cost": 1502.48,
+      "products": [
+        "cc43af59a4beb0b82abd600f",
+        "3f5ca7e6fe8cb6decd6675d1",
+        "6049d873b121d062d0df3e4c"
+      ]
+    },
+    {
+      "_id": "d574afa0dfe2951da3cfdd90",
+      "userId": "8ee5eb65dad32cd8abfa3e47",
+      "cost": 4680.2,
+      "products": [
+        "cfcccc8e9b70dc8db9e1b837",
+        "6049d873b121d062d0df3e4c",
+        "6af0f651a4ee5b7bb1dc2a10",
+        "3f5ca7e6fe8cb6decd6675d1"
+      ]
+    },
+    {
+      "_id": "8410a9f9aee77292b5047d1d",
+      "userId": "2aec00be1d6d6fb10187abfc",
+      "cost": 1367.56,
+      "products": [
+        "6049d873b121d062d0df3e4c",
+        "cfcccc8e9b70dc8db9e1b837",
+        "cf9abe543ac500bd0dc83b4b"
+      ]
+    },
+    {
+      "_id": "b37ed18bea6de1c6e8961fab",
+      "userId": "08c3f2c937a3dfa8bd0ae3f3",
+      "cost": 1327.95,
+      "products": [
+        "49bf6bbae1e9b1d9dffa131c",
+        "6af0f651a4ee5b7bb1dc2a10",
+        "cd4d9df62dd0fb546cd5e077",
+        "a66e2d500eba3a34c8fd43d8",
+        "7a7b4eb3a744aed8233767db"
+      ]
+    },
+    {
+      "_id": "09d15adcc87a2f67ac94429f",
+      "userId": "87dbeffbae8c3bcf805bbdae",
+      "cost": 900.7,
+      "products": [
+        "f2ffe373f7d02bfb21defc4f"
+      ]
+    },
+    {
+      "_id": "f0fb2d3d0f8b7ed2aff1ef82",
+      "userId": "2ccf9d273ed3bed17e6c7423",
+      "cost": 1736.49,
+      "products": [
+        "cfb6f2deeeaab49d310af6a2"
+      ]
+    },
+    {
+      "_id": "056eef207e984c65b2a52e2e",
+      "userId": "b9d0fab3ff2593c890ad479a",
+      "cost": 387.56,
+      "products": [
+        "cf9abe543ac500bd0dc83b4b",
+        "4f66e6b9ab7ff73596eb1e26",
+        "fa8bcc9cb61aa6edf4d6f5a0",
+        "7a7b4eb3a744aed8233767db",
+        "c1b3be62c8b2f4fc83cf9667"
+      ]
+    },
+    {
+      "_id": "bfbdfeacb6bae7253eb40fcf",
+      "userId": "dda5cd7519a4a0df2c2faee6",
+      "cost": 753.26,
+      "products": [
+        "a66e2d500eba3a34c8fd43d8",
+        "cc43af59a4beb0b82abd600f",
+        "a66e2d500eba3a34c8fd43d8",
+        "0c213acf22ceceaedd0b2afe",
+        "d2ba98bfcdfc96275e4dc7aa"
+      ]
+    },
+    {
+      "_id": "b473ede3c5499bfea7c8ca57",
+      "userId": "5f91ac0c26b28d29ffcd0ebb",
+      "cost": 4743.09,
+      "products": [
+        "cc48a96c045491aab31bdef3",
+        "6049d873b121d062d0df3e4c"
+      ]
+    },
+    {
+      "_id": "b8cec4fc66f6a89a92ee979e",
+      "userId": "a1bf5a4baf3f0aef3c373bc1",
+      "cost": 3962.29,
+      "products": [
+        "cd4d9df62dd0fb546cd5e077",
+        "cc43af59a4beb0b82abd600f",
+        "cfcccc8e9b70dc8db9e1b837"
+      ]
+    },
+    {
+      "_id": "dc9fb64b1b807a0ca0f05fdb",
+      "userId": "a0512daaf6fb3a8fa157dbae",
+      "cost": 4023.01,
+      "products": [
+        "6049d873b121d062d0df3e4c",
+        "6049d873b121d062d0df3e4c"
+      ]
+    },
+    {
+      "_id": "03ef7fce6b0cbbfd07d67e40",
+      "userId": "ffe9bdcfdb26d8e3fffeefb2",
+      "cost": 3072.23,
+      "products": [
+        "3f5ca7e6fe8cb6decd6675d1",
+        "cfcccc8e9b70dc8db9e1b837"
+      ]
+    },
+    {
+      "_id": "8cab30dcaf028069dfcc2cb5",
+      "userId": "88a861fbe13c0a3adaf1ee83",
+      "cost": 344.49,
+      "products": [
+        "cd0772a63cc63fce2aac137b",
+        "6af0f651a4ee5b7bb1dc2a10"
+      ]
+    },
+    {
+      "_id": "c0edb8bffc4cec258f37e023",
+      "userId": "9bd28ebb78fcffcbaba9f9f9",
+      "cost": 2265.51,
+      "products": [
+        "fa8bcc9cb61aa6edf4d6f5a0",
+        "c1b3be62c8b2f4fc83cf9667",
+        "fa8bcc9cb61aa6edf4d6f5a0"
+      ]
+    },
+    {
+      "_id": "12ccfa3cdfa771f99786e1ed",
+      "userId": "e3be885a5ee5355f8b3eacf6",
+      "cost": 2695.54,
+      "products": [
+        "3f5ca7e6fe8cb6decd6675d1",
+        "6af0f651a4ee5b7bb1dc2a10",
+        "c1b3be62c8b2f4fc83cf9667",
+        "226fbce8d9fff5de0eb6cc74",
+        "7a7b4eb3a744aed8233767db"
+      ]
+    },
+    {
+      "_id": "333c7b38ac50bbdf4cbc37de",
+      "userId": "2865c4ba1688c8eadf05cce3",
+      "cost": 1800.26,
+      "products": [
+        "4f66e6b9ab7ff73596eb1e26"
+      ]
+    },
+    {
+      "_id": "afefa5fdda1338cf9aaccdfc",
+      "userId": "4aacc56475c6fa2c57ce6e4d",
+      "cost": 4977.65,
+      "products": [
+        "b992b9aded5ca50480a1e4bf"
+      ]
+    },
+    {
+      "_id": "7e4fd1377b666cf51afca94a",
+      "userId": "fbdc012ef337fcdebbaee1ad",
+      "cost": 595.42,
+      "products": [
+        "cfb6f2deeeaab49d310af6a2",
+        "49bf6bbae1e9b1d9dffa131c",
+        "cd0772a63cc63fce2aac137b",
+        "7a7b4eb3a744aed8233767db",
+        "f2ffe373f7d02bfb21defc4f"
+      ]
+    },
+    {
+      "_id": "edb324dccafa0bdee4edceb4",
+      "userId": "9f819eeb0fda107ec8b14c01",
+      "cost": 2965.43,
+      "products": [
+        "3f5ca7e6fe8cb6decd6675d1",
+        "6049d873b121d062d0df3e4c"
+      ]
+    },
+    {
+      "_id": "aadbc0fa9b63c3dde65fd645",
+      "userId": "ce9faf4156d8d8a889441502",
+      "cost": 1082.66,
+      "products": [
+        "cc48a96c045491aab31bdef3",
+        "0c213acf22ceceaedd0b2afe",
+        "4f66e6b9ab7ff73596eb1e26",
+        "f2ffe373f7d02bfb21defc4f",
+        "d2ba98bfcdfc96275e4dc7aa"
+      ]
+    },
+    {
+      "_id": "f0a52dcfaed0452ab1a614a7",
+      "userId": "1dc0b4b71dac319b17d70de3",
+      "cost": 2299.86,
+      "products": [
+        "d2ba98bfcdfc96275e4dc7aa",
+        "baf07b11d2ae4a4941f8d8ff",
+        "3f5ca7e6fe8cb6decd6675d1"
+      ]
+    },
+    {
+      "_id": "d5b2da2ef27ffb33efe5fb2a",
+      "userId": "b9d0fab3ff2593c890ad479a",
+      "cost": 3823.52,
+      "products": [
+        "7a7b4eb3a744aed8233767db",
+        "fa8bcc9cb61aa6edf4d6f5a0",
+        "298fcc7fb96c31efb24f65ce"
+      ]
+    },
+    {
+      "_id": "ffaa4dc7cdc9beab2eb07aec",
+      "userId": "9f5d0aa367facbeb44bc4ccd",
+      "cost": 312.29,
+      "products": [
+        "7a7b4eb3a744aed8233767db",
+        "438bce7fd0db0b1bc468cecd",
+        "438bce7fd0db0b1bc468cecd",
+        "226fbce8d9fff5de0eb6cc74",
+        "c1b3be62c8b2f4fc83cf9667"
+      ]
+    },
+    {
+      "_id": "cab5e33e33ab83a56cafeab8",
+      "userId": "5de17af18eab248fbd0bcb3c",
+      "cost": 888.1,
+      "products": [
+        "7a7b4eb3a744aed8233767db",
+        "f2ffe373f7d02bfb21defc4f"
+      ]
+    },
+    {
+      "_id": "b25dc04841a63eac62dba8d3",
+      "userId": "d9b8a03cba4a7c8e9ea849da",
+      "cost": 2925.04,
+      "products": [
+        "4f66e6b9ab7ff73596eb1e26",
+        "cfb6f2deeeaab49d310af6a2",
+        "6af0f651a4ee5b7bb1dc2a10",
+        "6af0f651a4ee5b7bb1dc2a10",
+        "49bf6bbae1e9b1d9dffa131c"
+      ]
+    },
+    {
+      "_id": "9a3cf03b4b5bf9cde86ac1aa",
+      "userId": "cf23ceddaea0dcfefa0da9e7",
+      "cost": 3098.13,
+      "products": [
+        "cc43af59a4beb0b82abd600f"
+      ]
+    },
+    {
+      "_id": "89b4cad215b4d8d3b4edec75",
+      "userId": "96cf26dcf4ff2b1ebbce6111",
+      "cost": 2472.89,
+      "products": [
+        "6af0f651a4ee5b7bb1dc2a10",
+        "fa8bcc9cb61aa6edf4d6f5a0",
+        "298fcc7fb96c31efb24f65ce",
+        "0c213acf22ceceaedd0b2afe",
+        "6af0f651a4ee5b7bb1dc2a10"
+      ]
+    },
+    {
+      "_id": "75fed9db3e5c6d0239ce8f06",
+      "userId": "d9caaeea7f0bf98ab34054cf",
+      "cost": 4282.45,
+      "products": [
+        "cf9abe543ac500bd0dc83b4b"
+      ]
+    },
+    {
+      "_id": "c60c0f053897bf9b04cdd2eb",
+      "userId": "2f56d6dee007bfcd0edc8b4d",
+      "cost": 3305.95,
+      "products": [
+        "ffc50fae2bcecbff05ef8e04",
+        "f2ffe373f7d02bfb21defc4f"
+      ]
+    },
+    {
+      "_id": "9d83ace3d7dcc1dfcf7bf6af",
+      "userId": "bee0eae5dda77b2f9bfdaeb5",
+      "cost": 424.65,
+      "products": [
+        "298fcc7fb96c31efb24f65ce",
+        "4f66e6b9ab7ff73596eb1e26",
+        "a66e2d500eba3a34c8fd43d8",
+        "fa8bcc9cb61aa6edf4d6f5a0",
+        "cd4d9df62dd0fb546cd5e077"
+      ]
+    },
+    {
+      "_id": "3b24ad2eaeee43f0c74c4c61",
+      "userId": "d5efb5dd64afddf4b5ace1cc",
+      "cost": 4602.78,
+      "products": [
+        "d2ba98bfcdfc96275e4dc7aa",
+        "6049d873b121d062d0df3e4c"
+      ]
+    },
+    {
+      "_id": "f3fe9fbc08e26b231c55f7b4",
+      "userId": "bb5ec2ff3edff97a5d2b0b16",
+      "cost": 1942.97,
+      "products": [
+        "fa8bcc9cb61aa6edf4d6f5a0",
+        "438bce7fd0db0b1bc468cecd",
+        "baf07b11d2ae4a4941f8d8ff",
+        "b992b9aded5ca50480a1e4bf"
+      ]
+    },
+    {
+      "_id": "30ddd75b5a9bfe6d536bde9f",
+      "userId": "b89b4acf9c78acbe4bfb8fcb",
+      "cost": 1200.55,
+      "products": [
+        "3f5ca7e6fe8cb6decd6675d1",
+        "cf9abe543ac500bd0dc83b4b",
+        "cc48a96c045491aab31bdef3"
+      ]
+    },
+    {
+      "_id": "572be23dfae2fb090b0561bc",
+      "userId": "e5db4b90389dbaa8ceb27d1d",
+      "cost": 3074.26,
+      "products": [
+        "cf9abe543ac500bd0dc83b4b",
+        "a66e2d500eba3a34c8fd43d8",
+        "cfcccc8e9b70dc8db9e1b837",
+        "4f66e6b9ab7ff73596eb1e26",
+        "cc43af59a4beb0b82abd600f"
+      ]
+    },
+    {
+      "_id": "f92cefdce5ac4faf4c2b3ad6",
+      "userId": "eea21cc99f10d9a6ebccd7fa",
+      "cost": 1662.08,
+      "products": [
+        "6af0f651a4ee5b7bb1dc2a10",
+        "3f5ca7e6fe8cb6decd6675d1",
+        "b992b9aded5ca50480a1e4bf"
+      ]
+    },
+    {
+      "_id": "d1aa4d59df61ce1dced963b8",
+      "userId": "8fcf4e3fdb8afae8cc5cfea5",
+      "cost": 3497.34,
+      "products": [
+        "baf07b11d2ae4a4941f8d8ff",
+        "baf07b11d2ae4a4941f8d8ff",
+        "cfcccc8e9b70dc8db9e1b837",
+        "ffc50fae2bcecbff05ef8e04",
+        "c1b3be62c8b2f4fc83cf9667"
+      ]
+    },
+    {
+      "_id": "bd510dac4e96cca2937ed016",
+      "userId": "374eabdedfac6866cc7df538",
+      "cost": 2957.65,
+      "products": [
+        "b992b9aded5ca50480a1e4bf",
+        "cd0772a63cc63fce2aac137b"
+      ]
+    },
+    {
+      "_id": "d68def7faeeaddf36e2da1cd",
+      "userId": "2dff0d00728cefad27ba932a",
+      "cost": 1988.46,
+      "products": [
+        "3f5ca7e6fe8cb6decd6675d1",
+        "3f5ca7e6fe8cb6decd6675d1",
+        "226fbce8d9fff5de0eb6cc74",
+        "4f66e6b9ab7ff73596eb1e26",
+        "baf07b11d2ae4a4941f8d8ff"
+      ]
+    },
+    {
+      "_id": "9ea0bdede6b5e2c7fcaaeb92",
+      "userId": "4aacc56475c6fa2c57ce6e4d",
+      "cost": 4308.1,
+      "products": [
+        "cd0772a63cc63fce2aac137b",
+        "3f5ca7e6fe8cb6decd6675d1",
+        "b992b9aded5ca50480a1e4bf"
+      ]
+    },
+    {
+      "_id": "572a1e0edb1fcc1adcd14e3a",
+      "userId": "eeb0daa1a4fa194fc56bcaa9",
+      "cost": 1778.66,
+      "products": [
+        "438bce7fd0db0b1bc468cecd",
+        "c1b3be62c8b2f4fc83cf9667",
+        "cfb6f2deeeaab49d310af6a2"
+      ]
+    },
+    {
+      "_id": "67e45adbe7d7e8658ba2898b",
+      "userId": "4fe3bf6ed4c3ba8efee9cf65",
+      "cost": 1420.1,
+      "products": [
+        "cf9abe543ac500bd0dc83b4b"
+      ]
+    },
+    {
+      "_id": "e5eacfc20fa07a19c585bc62",
+      "userId": "dfd74ee4d9a3ea0fb1005408",
+      "cost": 171.15,
+      "products": [
+        "c1b3be62c8b2f4fc83cf9667"
+      ]
+    },
+    {
+      "_id": "a9fbfaab860d5c0af7da9dd4",
+      "userId": "bee5aa5a93fbccabd62f0c22",
+      "cost": 4455.57,
+      "products": [
+        "7a7b4eb3a744aed8233767db",
+        "cd0772a63cc63fce2aac137b",
+        "cd0772a63cc63fce2aac137b"
+      ]
+    },
+    {
+      "_id": "74d8504cfdcfaa29aa07c73f",
+      "userId": "a9fc295a4178d2482a3e34d9",
+      "cost": 2176.87,
+      "products": [
+        "3f5ca7e6fe8cb6decd6675d1",
+        "6af0f651a4ee5b7bb1dc2a10",
+        "3f5ca7e6fe8cb6decd6675d1"
+      ]
+    },
+    {
+      "_id": "720eaaeadffa7b264e33bd05",
+      "userId": "51bdd10c3a78693e66ecef40",
+      "cost": 3802.71,
+      "products": [
+        "7a7b4eb3a744aed8233767db",
+        "b992b9aded5ca50480a1e4bf"
+      ]
+    },
+    {
+      "_id": "b8a2dc178f9d2bb6c185a855",
+      "userId": "2fbfbecbab9a047f7bfa3cdd",
+      "cost": 177.27,
+      "products": [
+        "b992b9aded5ca50480a1e4bf",
+        "d2ba98bfcdfc96275e4dc7aa",
+        "4f66e6b9ab7ff73596eb1e26",
+        "ffc50fae2bcecbff05ef8e04"
+      ]
+    },
+    {
+      "_id": "2d7bd36efcdfa843dafd9bfb",
+      "userId": "5344c1eed9bcbbbbe10feecb",
+      "cost": 278.9,
+      "products": [
+        "7a7b4eb3a744aed8233767db",
+        "cc48a96c045491aab31bdef3",
+        "4f66e6b9ab7ff73596eb1e26",
+        "b992b9aded5ca50480a1e4bf",
+        "fa8bcc9cb61aa6edf4d6f5a0"
+      ]
+    },
+    {
+      "_id": "20a9ab6a83bca636fe2affbb",
+      "userId": "fafabf1fe11b17c22a0e4b08",
+      "cost": 3741.91,
+      "products": [
+        "baf07b11d2ae4a4941f8d8ff",
+        "d2ba98bfcdfc96275e4dc7aa"
+      ]
+    },
+    {
+      "_id": "839ad86872291592352eb0ac",
+      "userId": "cfbffa5c979be23b1eeff7d5",
+      "cost": 2822.33,
+      "products": [
+        "cd4d9df62dd0fb546cd5e077",
+        "6af0f651a4ee5b7bb1dc2a10",
+        "6af0f651a4ee5b7bb1dc2a10",
+        "d2ba98bfcdfc96275e4dc7aa",
+        "baf07b11d2ae4a4941f8d8ff"
+      ]
+    },
+    {
+      "_id": "ef546efcbf9314cb7c0c981d",
+      "userId": "b39fbf8d6b14b1f7a6bca502",
+      "cost": 1340.67,
+      "products": [
+        "0c213acf22ceceaedd0b2afe"
+      ]
+    },
+    {
+      "_id": "47d5cbc6f29eeb14e504d8ef",
+      "userId": "aac28cdca6d18486c5c8fb1b",
+      "cost": 4267.44,
+      "products": [
+        "3f5ca7e6fe8cb6decd6675d1",
+        "b992b9aded5ca50480a1e4bf",
+        "ffc50fae2bcecbff05ef8e04",
+        "cc43af59a4beb0b82abd600f",
+        "cc48a96c045491aab31bdef3"
+      ]
+    },
+    {
+      "_id": "11304dba449651c23a4dca63",
+      "userId": "c55bb93b6b49be40af95accd",
+      "cost": 1687.82,
+      "products": [
+        "298fcc7fb96c31efb24f65ce"
+      ]
+    },
+    {
+      "_id": "e3ab877f1fdd08a3833d7ad2",
+      "userId": "ebfbf2cee06ccc09a0ebcffc",
+      "cost": 2216.72,
+      "products": [
+        "b992b9aded5ca50480a1e4bf",
+        "baf07b11d2ae4a4941f8d8ff",
+        "49bf6bbae1e9b1d9dffa131c",
+        "cd4d9df62dd0fb546cd5e077"
+      ]
+    },
+    {
+      "_id": "dad645fcafc0d2c9beb0a7e2",
+      "userId": "fb9f69fbb5df48dde27eff61",
+      "cost": 2672.11,
+      "products": [
+        "b992b9aded5ca50480a1e4bf",
+        "49bf6bbae1e9b1d9dffa131c",
+        "298fcc7fb96c31efb24f65ce",
+        "c1b3be62c8b2f4fc83cf9667"
+      ]
+    },
+    {
+      "_id": "5c7fd5ffc72a259c25c231c4",
+      "userId": "8b3faac5e77b32ace75107ea",
+      "cost": 1761.06,
+      "products": [
+        "cfb6f2deeeaab49d310af6a2",
+        "fa8bcc9cb61aa6edf4d6f5a0",
+        "a66e2d500eba3a34c8fd43d8",
+        "6af0f651a4ee5b7bb1dc2a10",
+        "298fcc7fb96c31efb24f65ce"
+      ]
+    },
+    {
+      "_id": "4e78dcd348c2eddbc81bae80",
+      "userId": "bafead2b08d15f07be790d5c",
+      "cost": 4338.92,
+      "products": [
+        "d2ba98bfcdfc96275e4dc7aa",
+        "7a7b4eb3a744aed8233767db"
+      ]
+    },
+    {
+      "_id": "a965a6de1f5ddd29eebe3a95",
+      "userId": "41ca6dcadc25fa3f4fccf712",
+      "cost": 4420.66,
+      "products": [
+        "ffc50fae2bcecbff05ef8e04",
+        "c1b3be62c8b2f4fc83cf9667"
+      ]
+    },
+    {
+      "_id": "ba3e4e09306e4ff993dd2fd4",
+      "userId": "3ae47eaee00ea0ce15b0ebef",
+      "cost": 2782.89,
+      "products": [
+        "cf9abe543ac500bd0dc83b4b",
+        "cd0772a63cc63fce2aac137b"
+      ]
+    },
+    {
+      "_id": "ce4de3ad80f10ecf6a1acda3",
+      "userId": "b49d9613c9c8c4db2a45071f",
+      "cost": 4344.85,
+      "products": [
+        "7a7b4eb3a744aed8233767db"
+      ]
+    },
+    {
+      "_id": "c8ccd6c0f5f8f7ec955f5178",
+      "userId": "cb6ee6fa8d6c67e3cdd9b6bd",
+      "cost": 4192.63,
+      "products": [
+        "3f5ca7e6fe8cb6decd6675d1",
+        "3f5ca7e6fe8cb6decd6675d1",
+        "49bf6bbae1e9b1d9dffa131c",
+        "cfcccc8e9b70dc8db9e1b837",
+        "298fcc7fb96c31efb24f65ce"
+      ]
+    },
+    {
+      "_id": "fdabc02c72cf310d99acfead",
+      "userId": "6bd6cf376bea5d8ca2c42eef",
+      "cost": 552.15,
+      "products": [
+        "cd0772a63cc63fce2aac137b",
+        "cf9abe543ac500bd0dc83b4b"
+      ]
+    },
+    {
+      "_id": "54d93dc98be1e4ecc15ced3b",
+      "userId": "b9d0fab3ff2593c890ad479a",
+      "cost": 3144.97,
+      "products": [
+        "cc43af59a4beb0b82abd600f"
+      ]
+    },
+    {
+      "_id": "efb8dddfacbaaa0d5b372d5e",
+      "userId": "b39fbf8d6b14b1f7a6bca502",
+      "cost": 4348.31,
+      "products": [
+        "7a7b4eb3a744aed8233767db",
+        "c1b3be62c8b2f4fc83cf9667",
+        "7a7b4eb3a744aed8233767db",
+        "a66e2d500eba3a34c8fd43d8"
+      ]
+    },
+    {
+      "_id": "532c10a29585fd26ccfd0e67",
+      "userId": "b01dbdcacadeeafefacffe12",
+      "cost": 1638.36,
+      "products": [
+        "226fbce8d9fff5de0eb6cc74",
+        "4f66e6b9ab7ff73596eb1e26",
+        "cf9abe543ac500bd0dc83b4b",
+        "f2ffe373f7d02bfb21defc4f"
+      ]
+    },
+    {
+      "_id": "6f90ecbb03cba0dcab057de2",
+      "userId": "baeb1bd1f45f36ad64d91b64",
+      "cost": 2819.87,
+      "products": [
+        "a66e2d500eba3a34c8fd43d8",
+        "cc43af59a4beb0b82abd600f"
+      ]
+    },
+    {
+      "_id": "7a4ca71ea00297d1f832ad7a",
+      "userId": "252cdbae4f9fdaeeec60b8a2",
+      "cost": 3130.7,
+      "products": [
+        "0c213acf22ceceaedd0b2afe",
+        "fa8bcc9cb61aa6edf4d6f5a0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,618 @@
+{
+  "dataAffiliateStat": [
+    {
+      "_id": "ee46cf1d188ae8dc4c1e450d",
+      "userId": "419bb6ba497a8cb4cfbcaf88",
+      "affiliateSales": [
+        "bfbdfeacb6bae7253eb40fcf",
+        "3ccff487ecef8a0670acfbaf",
+        "720eaaeadffa7b264e33bd05",
+        "26f6cdeb0ce5f527da536dd3",
+        "a68a7cfdffa8edddbfa3acce",
+        "6fdaa05ff9bdd1804f2b8be7",
+        "d8004b54b8280b41eaab77fc",
+        "fc3498e7acd0acae2f5039fe"
+      ]
+    },
+    {
+      "_id": "33ef74afcdb9d52b2c14eb4b",
+      "userId": "b1e2fb58ecad1579cce7f43a",
+      "affiliateSales": [
+        "75fed9db3e5c6d0239ce8f06",
+        "b25dc04841a63eac62dba8d3",
+        "4d3c3bcbeac747ec5efbccef",
+        "dabff56a8f0af5e7eedb9150",
+        "7d532cd4faa2d9df3a37bbbd",
+        "aa35e54e186f54cfced551fe",
+        "a9fbfaab860d5c0af7da9dd4",
+        "2fda3fa55214fafcf58de353",
+        "920c1c0019c9cdbbc16c0d9c"
+      ]
+    },
+    {
+      "_id": "3fa8bad83731c2df1f0b8fab",
+      "userId": "4aacc56475c6fa2c57ce6e4d",
+      "affiliateSales": [
+        "4bf2f5bab43d090cea28bccf",
+        "20e993bd02ddbfafc3c0ef00",
+        "caadee043ddc5adffec4ae5d",
+        "30ddd75b5a9bfe6d536bde9f",
+        "0d89ea8d4fe2de3b1cfe0bc5"
+      ]
+    },
+    {
+      "_id": "60debf4ad2c5a4a2ff84cbe7",
+      "userId": "67ebf9cdae2f2ee3e3cfca55",
+      "affiliateSales": [
+        "8c9c20d4e6fbcb78f3eea22a",
+        "ee4bcdbaf5bcd361fdd3b4b6",
+        "4bf2f5bab43d090cea28bccf",
+        "28bf6c3ed8cd2b01aa4ebc86",
+        "42ee1aefcadcd3a78421a0bc",
+        "8b244caa3aa284377ee0cb1c"
+      ]
+    },
+    {
+      "_id": "dc0a1e95ec2f11c09b0f6edf",
+      "userId": "c02c0fe4df9d1419c198f166",
+      "affiliateSales": [
+        "a89fb4f00fd5be60646a39d9",
+        "865bb4121d3438da18dc2ad8",
+        "bdcbecb7b4e627daf5dfebba"
+      ]
+    },
+    {
+      "_id": "c3df860f79d12a1b78adfd2e",
+      "userId": "ffca57a99bb1fadef824ba88",
+      "affiliateSales": [
+        "1b3b215ee009ae00ea2ddb3d",
+        "f393aab3aca290afd7c85cd3",
+        "bbcbba63f2fcc5ebe1a7bee0",
+        "bddd89043abea74141eea2cf",
+        "2ff213ecc04d4d3dafb2989f",
+        "5cb7b0d18b3cd9aad0f8c3b5",
+        "b9a2ef457c52e8edad10febd"
+      ]
+    },
+    {
+      "_id": "7aaf750febefc9fefefb6e70",
+      "userId": "adf7df38b35b9ea13da6dd0d",
+      "affiliateSales": [
+        "efea79b9bfff2abeda8cde78",
+        "572a1e0edb1fcc1adcd14e3a",
+        "aa3babaf7f79871f82befe1e",
+        "6ed76d3ad24f1bb77deedf1f",
+        "acdcf29f5beb14fd9c5f6ba5",
+        "4bf2f5bab43d090cea28bccf"
+      ]
+    },
+    {
+      "_id": "eec6ab8bd46182dbf5c4cded",
+      "userId": "9cfabeb6b6da0ff668ff42f3",
+      "affiliateSales": [
+        "7da7daaa67b295d16ce6ed96",
+        "42ee1aefcadcd3a78421a0bc",
+        "03ef7fce6b0cbbfd07d67e40",
+        "fdabc02c72cf310d99acfead",
+        "ddf8e109f45f3da62fa59ade",
+        "6173c716cbf0f1bdcbedcc5d",
+        "c9e6aab76c76849b4bd07920",
+        "dad645fcafc0d2c9beb0a7e2",
+        "bcfece7fbd89eee4d6a2cd4c"
+      ]
+    },
+    {
+      "_id": "e9a2d69561aafffe58cfdbb2",
+      "userId": "87dbeffbae8c3bcf805bbdae",
+      "affiliateSales": [
+        "f3fe9fbc08e26b231c55f7b4",
+        "fccdb3fad7ba7fdda74b9fce",
+        "75fed9db3e5c6d0239ce8f06",
+        "efc985e1ebad26cdf6c3b367",
+        "8cac8eeb2540c0b1ca0cc6fc",
+        "ec03dbe2e4a54ff36ecee5b0",
+        "74d8504cfdcfaa29aa07c73f",
+        "6c7a4db3c6ce07da3cef2856",
+        "47d5cbc6f29eeb14e504d8ef",
+        "bf92a5abd48be1c1fca534f3"
+      ]
+    },
+    {
+      "_id": "aeacec683b914376806e29ad",
+      "userId": "c7749e0be8a67fbfcf8f1189",
+      "affiliateSales": [
+        "64ec94f0152e810e22bea6e8",
+        "4fefa874d1d2f62467cb0be4",
+        "8cab30dcaf028069dfcc2cb5",
+        "46caa4b3eca035bde2def93c",
+        "c60c0f053897bf9b04cdd2eb",
+        "9b8b942a590bd8dbeb7ffcb3",
+        "4f016db7c499632cd6f5af95",
+        "d53b7f8de7ffd6c28ff1af95",
+        "75fed9db3e5c6d0239ce8f06"
+      ]
+    },
+    {
+      "_id": "ad3dae6119d29cd07dc08c1c",
+      "userId": "7f54ba686a1bd9dd0ad49efb",
+      "affiliateSales": [
+        "4e78dcd348c2eddbc81bae80",
+        "a2b4a3bece8f17a9db61cec9",
+        "7f90db7028ccb08bd4adaedc",
+        "52ae4a7446aad8ca2eecb25a"
+      ]
+    },
+    {
+      "_id": "d972710e2cc4ef4a93969c9d",
+      "userId": "a6ad4a5e76c3fda8c4fce07f",
+      "affiliateSales": [
+        "6b73aa4b6966baffda63b49d",
+        "d52fcdea4c3885c7d31c00a0",
+        "1db05ff1de8edb6216b83e2f",
+        "0d6ecc01e83d2ed487c90c6a",
+        "4fefa874d1d2f62467cb0be4",
+        "d1fed85e5c5fecf8f92fabe3",
+        "bbc05edd5413a3a0abecfad9"
+      ]
+    },
+    {
+      "_id": "b0df850321813dab72ce5fdf",
+      "userId": "5fc0d167c9ce62edc407fa60",
+      "affiliateSales": [
+        "ba27d0f11989ca2facbed7db",
+        "a2fbdc7c609e4bc9bec8df42",
+        "fba6c9106a03c9bcbbdf35de",
+        "1e01eb4a07c7adef9794f7aa",
+        "acbeca18aa9f3c04f3c96acc"
+      ]
+    },
+    {
+      "_id": "86ed887f3a176b8ac7dbaadc",
+      "userId": "96cf26dcf4ff2b1ebbce6111",
+      "affiliateSales": [
+        "20da2e7a047fcaf2ed8e2abe",
+        "865bb4121d3438da18dc2ad8",
+        "58f40bd82b04379b01abc4d5",
+        "fccdb3fad7ba7fdda74b9fce",
+        "ef546efcbf9314cb7c0c981d",
+        "5f2fb7afac7b7ddd0e4cf3d4",
+        "a298f52bac5f88b88c9da9bf",
+        "dda97ebdd9e5e7514d815ade",
+        "fa39e09dae3626de9d9edbfd"
+      ]
+    },
+    {
+      "_id": "e9dbc071be17adf9b1d7e9ef",
+      "userId": "2aec00be1d6d6fb10187abfc",
+      "affiliateSales": [
+        "c319ffd1f5abd9a959eea3d1",
+        "3b1e9e1cd9af4f19c22c9b3a"
+      ]
+    },
+    {
+      "_id": "cded3e4db6f3c19a5a9c9aae",
+      "userId": "dda5cd7519a4a0df2c2faee6",
+      "affiliateSales": [
+        "b35aa28bf6c0a13cf7c7f7b7",
+        "7a4ca71ea00297d1f832ad7a",
+        "ddae2dffb747e1bbac32ccc3",
+        "ef11cbd2becccb31def4cced",
+        "ef9f33b7621c83d6df9c4ce6",
+        "fb4031a72fa5a12ce20eea6f",
+        "7c7efa917cf31811c8beb7da",
+        "7c93e25c957d59f6fa7c1af4",
+        "200a0ea37aec02d43f52f9cb"
+      ]
+    },
+    {
+      "_id": "6cc39f8bec22ba679eac03e5",
+      "userId": "ffd4cebffc44e15adcebecb7",
+      "affiliateSales": [
+        "eb5ddccdd05eb48c28990c8b",
+        "58a710c8ebc3b78e3a5b4b7b",
+        "4ebaa3f0d7b461d84db02d5c",
+        "62aaaddbe6cc2f89cee8b8f9",
+        "8410a9f9aee77292b5047d1d",
+        "d1aa4d59df61ce1dced963b8",
+        "3e0ea370fd86cdcfbea314a4",
+        "9a9dadfe56e5a26fdcdfbe28",
+        "c1e1f7dd5c94d9cc7d43be42",
+        "eeb8ebff55ae286ed9b29ecd"
+      ]
+    },
+    {
+      "_id": "dede4ae2c1dc71a3b6ed94b8",
+      "userId": "3ae47eaee00ea0ce15b0ebef",
+      "affiliateSales": [
+        "a45a5bccdeb2fdb044f3dd3b",
+        "fd5bd1aa771af3b387411c9c",
+        "46cefcbae06f1cfeccbaaa45",
+        "bff90ccc12b7ef7ade88cfd2",
+        "3b24ad2eaeee43f0c74c4c61",
+        "0acac4ce9e270adcc4ec3786",
+        "50afb612bc565fad5fe3a8fa"
+      ]
+    },
+    {
+      "_id": "4d83ee5b9dddd82bd5db9a61",
+      "userId": "a5ba560ab4a17f0b55efbec5",
+      "affiliateSales": [
+        "57f0dd1bfe0ebf89bd8eefc3",
+        "16cff6f91171dfd769f8adfa",
+        "eafe84bba89fdc0c2a82a0fb",
+        "e11d5ba5c9b46cab6c96af84",
+        "2de363aabbef22d77e109fca",
+        "db1dcd421bf3add5a47ea7ca",
+        "1bab45dcaf4e72b2f5d85fef",
+        "f14b1fca7ccf8c7c579d67a5",
+        "afebd9a6dbbbb8df17bdcbf4",
+        "89b4cad215b4d8d3b4edec75"
+      ]
+    },
+    {
+      "_id": "acadffe9f9774d0ecc7a28ed",
+      "userId": "33cbab38b32cfa4b16ff4fd0",
+      "affiliateSales": [
+        "72bedc6addab43f2d88a4a1b",
+        "37b7184d3cbe2ab1cfa6614e",
+        "f8848e7ab7ac7c89bd55f6f5",
+        "e2c51b6e2874dc59bf3f83f2",
+        "fc3498e7acd0acae2f5039fe"
+      ]
+    },
+    {
+      "_id": "56aeae10546a86ac0dd4b0bf",
+      "userId": "8fcc17faf56eb7bfeec3769e",
+      "affiliateSales": [
+        "13a601c9d3c9dde80f541fd8",
+        "d8004b54b8280b41eaab77fc",
+        "1b3b215ee009ae00ea2ddb3d",
+        "cab5e33e33ab83a56cafeab8"
+      ]
+    },
+    {
+      "_id": "aa782568a86a6d57585429b8",
+      "userId": "0d205c2aea8cd4d4c48927ad",
+      "affiliateSales": [
+        "11915326e7ddac4bfebd8ed9",
+        "8b6198edec99aeba7e1edaaf",
+        "bdf7a1f5c8fb15cfd6ed8bae"
+      ]
+    },
+    {
+      "_id": "9d2a1a8ebff4fcb9a66e0dac",
+      "userId": "8d341f77050fa9e707c0ac6c",
+      "affiliateSales": [
+        "bdcbecb7b4e627daf5dfebba",
+        "aa6ee7ef6fb06fb3216101b3",
+        "d52fcdea4c3885c7d31c00a0",
+        "5e4d2a0b74e1d0ffad6112c7",
+        "3c6f78dd4fa487e97bf60e93",
+        "eeb8ebff55ae286ed9b29ecd",
+        "75fed9db3e5c6d0239ce8f06"
+      ]
+    },
+    {
+      "_id": "b9cd485c66ec87fb5ef94ced",
+      "userId": "374eabdedfac6866cc7df538",
+      "affiliateSales": [
+        "fba6c9106a03c9bcbbdf35de",
+        "f92cefdce5ac4faf4c2b3ad6",
+        "de3eacfcdd4619a8eba2a72c",
+        "c23fde87efa8fdbc94ba6dbe",
+        "6dd72e1bab46832bbc48874e",
+        "9aec1f4c660fa594fcdce8ab",
+        "39cac9c0b6edc981b2122ad4"
+      ]
+    },
+    {
+      "_id": "5bcff0ccd9ac5f67aaa8fdbe",
+      "userId": "c2aba2dda8b4f1be2fe50b3c",
+      "affiliateSales": [
+        "532c10a29585fd26ccfd0e67",
+        "65ab2e0e1afac7e237bfa8fd"
+      ]
+    },
+    {
+      "_id": "5229c129d14fca1c4f28a3b1",
+      "userId": "0a29a16bcfec1bfeedab0de7",
+      "affiliateSales": [
+        "62aaaddbe6cc2f89cee8b8f9",
+        "0bbbffaae1c6554ce893120c",
+        "5dad90c366d4bead0ea13d18",
+        "78face59d1f93abd2555ab7d",
+        "2ce9308a43ad04481b28f9ea",
+        "7a4ca71ea00297d1f832ad7a",
+        "4bec781a3ceebe5de5ea9e5c",
+        "c91a8dbee0be0be58ad4a59d",
+        "ccb443212afdc87dfce1dd5c"
+      ]
+    },
+    {
+      "_id": "3d04089aa77bdf70c893eb03",
+      "userId": "0adac04da22bb5dd3da1065b",
+      "affiliateSales": [
+        "333c7b38ac50bbdf4cbc37de",
+        "5fabbfdca8f0267c0bf0be95",
+        "9aec1f4c660fa594fcdce8ab",
+        "c0da8e1e815abfeb6564efa6",
+        "abddff7ac09ebbfc6eb737da",
+        "26f6cdeb0ce5f527da536dd3",
+        "b284a18cd4fdf0fbedaae53c",
+        "d92fb45f5321dba5ef6ada9b",
+        "365a6d2d6fcd5f6a9def9ea2",
+        "9fe81ba378d3f4ceeeffde92"
+      ]
+    },
+    {
+      "_id": "d50adf6dd66fc7d6dbadd5aa",
+      "userId": "643ebad5dbd9a8a011f3bcc3",
+      "affiliateSales": [
+        "11304dba449651c23a4dca63",
+        "7e4fd1377b666cf51afca94a",
+        "acbeca18aa9f3c04f3c96acc",
+        "8c1be5b01b8a7addafcadf9f",
+        "abddff7ac09ebbfc6eb737da",
+        "c98daeb4552c6f9eff956feb"
+      ]
+    },
+    {
+      "_id": "05f8ca9ea1afa88756fb7a7c",
+      "userId": "dfee2340d5ea50316c8dba4c",
+      "affiliateSales": [
+        "d69aa7a54dbce2f1478e0e3e",
+        "df61e4cf1f5710185acd1a6a",
+        "4fc40c2755ddeeebbf46a689",
+        "907abd3ecafb7f9eb6ac8614"
+      ]
+    },
+    {
+      "_id": "2f5bcddaa1273c5302288dcb",
+      "userId": "c6cba2b8bcf3e16d6ed5d9ee",
+      "affiliateSales": [
+        "01bfc62faf698de278a89d3b",
+        "17e4c8c025a351cf3e892e27",
+        "af75a9e7a6cfec5aef0daeec"
+      ]
+    },
+    {
+      "_id": "77684bc258dfd70d2cba79b6",
+      "userId": "bb5ec2ff3edff97a5d2b0b16",
+      "affiliateSales": [
+        "c23fde87efa8fdbc94ba6dbe",
+        "0bbbffaae1c6554ce893120c",
+        "a45a5bccdeb2fdb044f3dd3b"
+      ]
+    },
+    {
+      "_id": "f41865371b3ddf3b5a4c1615",
+      "userId": "6be0bcfff69b6ffb60ed64ab",
+      "affiliateSales": [
+        "bdf7a1f5c8fb15cfd6ed8bae",
+        "11915326e7ddac4bfebd8ed9",
+        "6dc465d23e8c2fecfba35a91",
+        "17e4c8c025a351cf3e892e27",
+        "01bfc62faf698de278a89d3b",
+        "80fbc7eb86da52c0d8950cb0"
+      ]
+    },
+    {
+      "_id": "8ceec12e6e33e71cfa9bfea3",
+      "userId": "52af25ffdaab1cc1928a09cf",
+      "affiliateSales": [
+        "b8cec4fc66f6a89a92ee979e",
+        "ca6e4b65bd8035afd8c658d0",
+        "0e7ac49e3cfc05f41c9fbaaf",
+        "e76fde0dba8c8a45c91a3840",
+        "edb324dccafa0bdee4edceb4",
+        "efb8dddfacbaaa0d5b372d5e",
+        "3edafabb2d2e5a6e5778d6e1",
+        "dbdd5cf30cb8ef3b7d63d0e2",
+        "bff90ccc12b7ef7ade88cfd2",
+        "58a710c8ebc3b78e3a5b4b7b"
+      ]
+    },
+    {
+      "_id": "61ebc77f6788fc2a3bbd2b6c",
+      "userId": "9dc140d1a8acd444c0aed339",
+      "affiliateSales": [
+        "20e993bd02ddbfafc3c0ef00",
+        "3ae01708ea121fccb2f6cffa",
+        "a67bdefe86e30324a81c72dd",
+        "d50a95ea44ef24e9743bae8c",
+        "b4aa5b82b07854db879bb25c"
+      ]
+    },
+    {
+      "_id": "cced02c6fdf0578e89a50e8c",
+      "userId": "7cdbefe47adf1a06c107fdfa",
+      "affiliateSales": [
+        "82f06df3ebf01e1157f270dd",
+        "de3eacfcdd4619a8eba2a72c",
+        "30ddd75b5a9bfe6d536bde9f",
+        "cd9aecc7b09e9e408aead42f",
+        "e8bea44d3fc7feabe33addee"
+      ]
+    },
+    {
+      "_id": "23ade5125b0b6bf286ecd0ae",
+      "userId": "067fe7a5b36cc1fdac1d615f",
+      "affiliateSales": [
+        "8c5cedeb2d1669bdefd2745d",
+        "fbe1cbfc35d1b4eeebf3e6e2"
+      ]
+    },
+    {
+      "_id": "af0d789bd1fe691a0a7ac1cd",
+      "userId": "bafead2b08d15f07be790d5c",
+      "affiliateSales": [
+        "4db0b84f0d4542ee2f338a44",
+        "16cff6f91171dfd769f8adfa",
+        "66a9578c1cc225128d74e9c5",
+        "b65eb8cb92eace42ba2b2efe"
+      ]
+    },
+    {
+      "_id": "3ef8b02ca82fb97164ecd5d9",
+      "userId": "dfd74ee4d9a3ea0fb1005408",
+      "affiliateSales": [
+        "c55f10bcb8f630fe175c8bb7",
+        "78ffb4ece79aecc2fbfe6d46",
+        "bb2002b415424b17b477a7c4",
+        "a51bf8caa529fde41bccb0c2"
+      ]
+    },
+    {
+      "_id": "91dc5b09f75ccebfd52be01c",
+      "userId": "d1c7be18bfd77dec9beec9bf",
+      "affiliateSales": [
+        "4f016db7c499632cd6f5af95",
+        "9b8b942a590bd8dbeb7ffcb3",
+        "aeffafeaee1e9ffc2fe323d4",
+        "4f116be66189e633d3bc3eae",
+        "20a9ab6a83bca636fe2affbb",
+        "6844eaae254cfaaadcfc7f38",
+        "cbec5b5d1dfcbcc0c00fbd56",
+        "577d3d4fdc2ad538da01bbe2",
+        "c1b4f0c4da479af8cff081bc"
+      ]
+    },
+    {
+      "_id": "034f2fbbce67cbe73ff9ce1e",
+      "userId": "fbe7a446e1bc54d4725c37c2",
+      "affiliateSales": [
+        "18ca15f7ca166f36bbae398d",
+        "5cb7b0d18b3cd9aad0f8c3b5",
+        "7303f17dc7aeeaea2bf3fe2d",
+        "b9a2ef457c52e8edad10febd",
+        "a2ca3d989d80c8070a49eacf",
+        "4f116be66189e633d3bc3eae",
+        "c504a480c58f981ceaad1e8e",
+        "af75a9e7a6cfec5aef0daeec",
+        "bff90ccc12b7ef7ade88cfd2",
+        "2efcad87dbcbe76ece1c9f13"
+      ]
+    },
+    {
+      "_id": "315dfc4a2ccdda7275ab5293",
+      "userId": "88a861fbe13c0a3adaf1ee83",
+      "affiliateSales": [
+        "3b1e9e1cd9af4f19c22c9b3a",
+        "1db05ff1de8edb6216b83e2f",
+        "c98daeb4552c6f9eff956feb",
+        "6e6d9fbce3fee3bef0c1c1de",
+        "dda97ebdd9e5e7514d815ade",
+        "6b73aa4b6966baffda63b49d"
+      ]
+    },
+    {
+      "_id": "ca2df2ecb57ddfe093430bea",
+      "userId": "b5b3bb88ca6bcdd2f7ba2700",
+      "affiliateSales": [
+        "66a9578c1cc225128d74e9c5",
+        "172e5b2a5a6e7d1df6d6a09a",
+        "e6607c8f4b897cd25c4afab3",
+        "10af1df278475a59c8f886cd",
+        "4ebaa3f0d7b461d84db02d5c",
+        "3df6a4bc5f5a9d1a21c5b9da",
+        "ef7091609f6ca66ae4d4b1ed"
+      ]
+    },
+    {
+      "_id": "0cdc964d0641c5de0d96d6ca",
+      "userId": "15162f07d8ffbccdf9884da7",
+      "affiliateSales": [
+        "edb324dccafa0bdee4edceb4",
+        "211d4ea4d2bbf001adbb4cab",
+        "b2b720a42b8e8fdcd4c7b93a",
+        "939c91fdc440062899d9831e",
+        "620577c736b4955ebb25b68c",
+        "911472ab443296ffecda3da8"
+      ]
+    },
+    {
+      "_id": "f7a2a99ff5567e3aa870fecc",
+      "userId": "94bd9fc2e917fc5d3a28dec6",
+      "affiliateSales": [
+        "70c3dcaec25603fdba3b3cc5",
+        "e590ca763bc93cb68adc59a4"
+      ]
+    },
+    {
+      "_id": "fdc4fcbafccaefe65dc6b61a",
+      "userId": "2fbfbecbab9a047f7bfa3cdd",
+      "affiliateSales": [
+        "ab6cccbc0ffafdbb4bc4c4c7",
+        "8bd61bf3eafdbe4cec6cace0",
+        "bbb12ba0ba4f620b7eb5bddc"
+      ]
+    },
+    {
+      "_id": "bb0da74ad99bd3acbae3facf",
+      "userId": "bb69a6a3b886ef56b6cbf2b1",
+      "affiliateSales": [
+        "e0c429e9f8f51efa9e82f003",
+        "dbd4ef78a8d7ad90afac22de",
+        "1e611d3d52c0a2c154c40cdd",
+        "6173c716cbf0f1bdcbedcc5d",
+        "fd5bd1aa771af3b387411c9c",
+        "07ecce592b85bde6dad5c913",
+        "ef546efcbf9314cb7c0c981d",
+        "cd90471ddc52861fbe24fa4e"
+      ]
+    },
+    {
+      "_id": "e618115e973cdf1bdc617ab7",
+      "userId": "eeb0daa1a4fa194fc56bcaa9",
+      "affiliateSales": [
+        "dade8a2ab3bb64e5bd0d9baf",
+        "1f3be16e23ab0b2fc17bafb2",
+        "333c7b38ac50bbdf4cbc37de",
+        "90145dccc7a5931ff921c8fb",
+        "e173ebb4af3eae2fcc6b84de",
+        "bdcbecb7b4e627daf5dfebba",
+        "5cc3ecbcacd9f4dffcadf658",
+        "a4bdb8496dbf6a94af375cd3"
+      ]
+    },
+    {
+      "_id": "acf61d62f9b34c59afdc33e4",
+      "userId": "8e3f65ad49ae7d9beed6f9e8",
+      "affiliateSales": [
+        "feb1930f6ac530febf0e7cad",
+        "4fefa874d1d2f62467cb0be4",
+        "483ec2feaf583b7a3c47c6eb",
+        "4cacca74efa8fbaafb7debb5",
+        "514de5dedbcd02a2c0dc3cfb"
+      ]
+    },
+    {
+      "_id": "efa54ce31fd28caefcf8debd",
+      "userId": "a3b7ee3cf854c59871eeb150",
+      "affiliateSales": [
+        "ec7ac4bd86b0abdffbaeaf9f",
+        "94cdb6abc4fc85e27d32aa49",
+        "d8004b54b8280b41eaab77fc",
+        "4f016db7c499632cd6f5af95",
+        "3a4f422ad34d4f1c9f42d6de",
+        "ffaa4dc7cdc9beab2eb07aec",
+        "b038fe8fb65fca0dbba81dad"
+      ]
+    },
+    {
+      "_id": "e83eb13c50bbbfa871fbfaba",
+      "userId": "5de17af18eab248fbd0bcb3c",
+      "affiliateSales": [
+        "cd90471ddc52861fbe24fa4e",
+        "a7fc6519e0480dccbd7a641c",
+        "b4aa5b82b07854db879bb25c",
+        "9ea0bdede6b5e2c7fcaaeb92",
+        "3eb57cf6ae4a5cfe1f45cdc5",
+        "aaee7ecdecb6ba9762c9b70f",
+        "ef9f33b7621c83d6df9c4ce6",
+        "0e4fabff691f4cbc3b6c7b4e",
+        "de1a45233bb8adb429eeae5e"
+      ]
+    }
+  ]
+}

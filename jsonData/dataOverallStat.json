@@ -1,0 +1,1918 @@
+{
+  "dataOverallStat": [
+    {
+      "totalCustomers": 2381,
+      "yearlySalesTotal": 45786688,
+      "yearlyTotalSoldUnits": 460871,
+      "year": 2023,
+      "monthlyData": [
+        {
+          "month": "january",
+          "totalSales": 3933972,
+          "totalUnits": 39497,
+          "_id": "abbc0ab070afdaf8c7eced1b"
+        },
+        {
+          "month": "february",
+          "totalSales": 3655982,
+          "totalUnits": 35277,
+          "_id": "5c78efdfef9eeeb9a1e1ce1d"
+        },
+        {
+          "month": "march",
+          "totalSales": 3816804,
+          "totalUnits": 39818,
+          "_id": "9fcdadf6cc04bdcafb144eda"
+        },
+        {
+          "month": "april",
+          "totalSales": 3732290,
+          "totalUnits": 37132,
+          "_id": "e6593cdc75ead0fd1eabc3ee"
+        },
+        {
+          "month": "may",
+          "totalSales": 3891809,
+          "totalUnits": 38291,
+          "_id": "cedae84ff3e0fbccbbda8ae6"
+        },
+        {
+          "month": "june",
+          "totalSales": 3836310,
+          "totalUnits": 38709,
+          "_id": "5c101e98aa4eb8ed51dea94a"
+        },
+        {
+          "month": "july",
+          "totalSales": 3870606,
+          "totalUnits": 37797,
+          "_id": "724ab0756bede7eccbfbdffe"
+        },
+        {
+          "month": "august",
+          "totalSales": 3834381,
+          "totalUnits": 38743,
+          "_id": "7bd47f2a2e204fbfac1b3812"
+        },
+        {
+          "month": "september",
+          "totalSales": 3801674,
+          "totalUnits": 37783,
+          "_id": "ed45d478e5dbbdadd7ea717c"
+        },
+        {
+          "month": "october",
+          "totalSales": 3833751,
+          "totalUnits": 39830,
+          "_id": "f0edb1bedeacceec2aec1061"
+        },
+        {
+          "month": "november",
+          "totalSales": 3703981,
+          "totalUnits": 38581,
+          "_id": "cbdf527feed739dcd1202fdf"
+        },
+        {
+          "month": "december",
+          "totalSales": 3875128,
+          "totalUnits": 39413,
+          "_id": "6f0cf40d9a12daf6fdb96cb9"
+        }
+      ],
+      "dailyData": [
+        {
+          "date": "2023-01-01",
+          "totalSales": 114956,
+          "totalUnits": 1308
+        },
+        {
+          "date": "2023-01-02",
+          "totalSales": 139552,
+          "totalUnits": 1174
+        },
+        {
+          "date": "2023-01-03",
+          "totalSales": 112407,
+          "totalUnits": 1174
+        },
+        {
+          "date": "2023-01-04",
+          "totalSales": 130993,
+          "totalUnits": 1422
+        },
+        {
+          "date": "2023-01-05",
+          "totalSales": 140800,
+          "totalUnits": 1400
+        },
+        {
+          "date": "2023-01-06",
+          "totalSales": 127586,
+          "totalUnits": 1407
+        },
+        {
+          "date": "2023-01-07",
+          "totalSales": 147305,
+          "totalUnits": 1334
+        },
+        {
+          "date": "2023-01-08",
+          "totalSales": 116904,
+          "totalUnits": 1228
+        },
+        {
+          "date": "2023-01-09",
+          "totalSales": 103030,
+          "totalUnits": 1420
+        },
+        {
+          "date": "2023-01-10",
+          "totalSales": 108038,
+          "totalUnits": 1520
+        },
+        {
+          "date": "2023-01-11",
+          "totalSales": 136986,
+          "totalUnits": 1360
+        },
+        {
+          "date": "2023-01-12",
+          "totalSales": 121875,
+          "totalUnits": 1183
+        },
+        {
+          "date": "2023-01-13",
+          "totalSales": 155539,
+          "totalUnits": 1136
+        },
+        {
+          "date": "2023-01-14",
+          "totalSales": 121396,
+          "totalUnits": 1383
+        },
+        {
+          "date": "2023-01-15",
+          "totalSales": 130201,
+          "totalUnits": 1181
+        },
+        {
+          "date": "2023-01-16",
+          "totalSales": 122473,
+          "totalUnits": 1143
+        },
+        {
+          "date": "2023-01-17",
+          "totalSales": 121475,
+          "totalUnits": 1418
+        },
+        {
+          "date": "2023-01-18",
+          "totalSales": 102546,
+          "totalUnits": 1349
+        },
+        {
+          "date": "2023-01-19",
+          "totalSales": 134175,
+          "totalUnits": 1118
+        },
+        {
+          "date": "2023-01-20",
+          "totalSales": 104167,
+          "totalUnits": 1078
+        },
+        {
+          "date": "2023-01-21",
+          "totalSales": 143936,
+          "totalUnits": 1385
+        },
+        {
+          "date": "2023-01-22",
+          "totalSales": 123942,
+          "totalUnits": 1243
+        },
+        {
+          "date": "2023-01-23",
+          "totalSales": 111451,
+          "totalUnits": 1265
+        },
+        {
+          "date": "2023-01-24",
+          "totalSales": 118222,
+          "totalUnits": 1227
+        },
+        {
+          "date": "2023-01-25",
+          "totalSales": 126016,
+          "totalUnits": 1300
+        },
+        {
+          "date": "2023-01-26",
+          "totalSales": 103851,
+          "totalUnits": 1211
+        },
+        {
+          "date": "2023-01-27",
+          "totalSales": 147712,
+          "totalUnits": 1135
+        },
+        {
+          "date": "2023-01-28",
+          "totalSales": 123331,
+          "totalUnits": 1157
+        },
+        {
+          "date": "2023-01-29",
+          "totalSales": 129075,
+          "totalUnits": 1389
+        },
+        {
+          "date": "2023-01-30",
+          "totalSales": 161011,
+          "totalUnits": 1428
+        },
+        {
+          "date": "2023-01-31",
+          "totalSales": 153021,
+          "totalUnits": 1021
+        },
+        {
+          "date": "2023-02-01",
+          "totalSales": 121327,
+          "totalUnits": 1440
+        },
+        {
+          "date": "2023-02-02",
+          "totalSales": 137495,
+          "totalUnits": 1248
+        },
+        {
+          "date": "2023-02-03",
+          "totalSales": 137588,
+          "totalUnits": 1439
+        },
+        {
+          "date": "2023-02-04",
+          "totalSales": 109877,
+          "totalUnits": 1077
+        },
+        {
+          "date": "2023-02-05",
+          "totalSales": 151574,
+          "totalUnits": 1079
+        },
+        {
+          "date": "2023-02-06",
+          "totalSales": 132658,
+          "totalUnits": 1414
+        },
+        {
+          "date": "2023-02-07",
+          "totalSales": 127891,
+          "totalUnits": 1308
+        },
+        {
+          "date": "2023-02-08",
+          "totalSales": 120892,
+          "totalUnits": 1163
+        },
+        {
+          "date": "2023-02-09",
+          "totalSales": 127596,
+          "totalUnits": 1352
+        },
+        {
+          "date": "2023-02-10",
+          "totalSales": 120798,
+          "totalUnits": 1103
+        },
+        {
+          "date": "2023-02-11",
+          "totalSales": 142623,
+          "totalUnits": 1153
+        },
+        {
+          "date": "2023-02-12",
+          "totalSales": 135989,
+          "totalUnits": 1427
+        },
+        {
+          "date": "2023-02-13",
+          "totalSales": 130300,
+          "totalUnits": 1281
+        },
+        {
+          "date": "2023-02-14",
+          "totalSales": 108992,
+          "totalUnits": 1092
+        },
+        {
+          "date": "2023-02-15",
+          "totalSales": 148955,
+          "totalUnits": 1384
+        },
+        {
+          "date": "2023-02-16",
+          "totalSales": 103298,
+          "totalUnits": 1129
+        },
+        {
+          "date": "2023-02-17",
+          "totalSales": 147995,
+          "totalUnits": 1094
+        },
+        {
+          "date": "2023-02-18",
+          "totalSales": 124550,
+          "totalUnits": 1194
+        },
+        {
+          "date": "2023-02-19",
+          "totalSales": 131708,
+          "totalUnits": 1358
+        },
+        {
+          "date": "2023-02-20",
+          "totalSales": 146560,
+          "totalUnits": 1439
+        },
+        {
+          "date": "2023-02-21",
+          "totalSales": 115657,
+          "totalUnits": 1220
+        },
+        {
+          "date": "2023-02-22",
+          "totalSales": 149525,
+          "totalUnits": 1333
+        },
+        {
+          "date": "2023-02-23",
+          "totalSales": 111975,
+          "totalUnits": 1118
+        },
+        {
+          "date": "2023-02-24",
+          "totalSales": 151837,
+          "totalUnits": 1231
+        },
+        {
+          "date": "2023-02-25",
+          "totalSales": 121731,
+          "totalUnits": 1302
+        },
+        {
+          "date": "2023-02-26",
+          "totalSales": 122947,
+          "totalUnits": 1128
+        },
+        {
+          "date": "2023-02-27",
+          "totalSales": 134025,
+          "totalUnits": 1257
+        },
+        {
+          "date": "2023-02-28",
+          "totalSales": 139619,
+          "totalUnits": 1514
+        },
+        {
+          "date": "2023-03-01",
+          "totalSales": 132981,
+          "totalUnits": 1120
+        },
+        {
+          "date": "2023-03-02",
+          "totalSales": 119195,
+          "totalUnits": 1413
+        },
+        {
+          "date": "2023-03-03",
+          "totalSales": 139722,
+          "totalUnits": 1218
+        },
+        {
+          "date": "2023-03-04",
+          "totalSales": 131782,
+          "totalUnits": 1466
+        },
+        {
+          "date": "2023-03-05",
+          "totalSales": 110795,
+          "totalUnits": 1087
+        },
+        {
+          "date": "2023-03-06",
+          "totalSales": 130691,
+          "totalUnits": 1335
+        },
+        {
+          "date": "2023-03-07",
+          "totalSales": 94475,
+          "totalUnits": 1423
+        },
+        {
+          "date": "2023-03-08",
+          "totalSales": 134746,
+          "totalUnits": 1549
+        },
+        {
+          "date": "2023-03-09",
+          "totalSales": 137338,
+          "totalUnits": 948
+        },
+        {
+          "date": "2023-03-10",
+          "totalSales": 121585,
+          "totalUnits": 1211
+        },
+        {
+          "date": "2023-03-11",
+          "totalSales": 131782,
+          "totalUnits": 1320
+        },
+        {
+          "date": "2023-03-12",
+          "totalSales": 124093,
+          "totalUnits": 923
+        },
+        {
+          "date": "2023-03-13",
+          "totalSales": 130812,
+          "totalUnits": 1366
+        },
+        {
+          "date": "2023-03-14",
+          "totalSales": 101399,
+          "totalUnits": 1304
+        },
+        {
+          "date": "2023-03-15",
+          "totalSales": 125120,
+          "totalUnits": 1283
+        },
+        {
+          "date": "2023-03-16",
+          "totalSales": 110427,
+          "totalUnits": 1283
+        },
+        {
+          "date": "2023-03-17",
+          "totalSales": 129547,
+          "totalUnits": 1496
+        },
+        {
+          "date": "2023-03-18",
+          "totalSales": 119572,
+          "totalUnits": 1349
+        },
+        {
+          "date": "2023-03-19",
+          "totalSales": 139801,
+          "totalUnits": 956
+        },
+        {
+          "date": "2023-03-20",
+          "totalSales": 125314,
+          "totalUnits": 1214
+        },
+        {
+          "date": "2023-03-21",
+          "totalSales": 118642,
+          "totalUnits": 1023
+        },
+        {
+          "date": "2023-03-22",
+          "totalSales": 120040,
+          "totalUnits": 1440
+        },
+        {
+          "date": "2023-03-23",
+          "totalSales": 130380,
+          "totalUnits": 1679
+        },
+        {
+          "date": "2023-03-24",
+          "totalSales": 109740,
+          "totalUnits": 1171
+        },
+        {
+          "date": "2023-03-25",
+          "totalSales": 128467,
+          "totalUnits": 1369
+        },
+        {
+          "date": "2023-03-26",
+          "totalSales": 148573,
+          "totalUnits": 1600
+        },
+        {
+          "date": "2023-03-27",
+          "totalSales": 127744,
+          "totalUnits": 1352
+        },
+        {
+          "date": "2023-03-28",
+          "totalSales": 110953,
+          "totalUnits": 1299
+        },
+        {
+          "date": "2023-03-29",
+          "totalSales": 123935,
+          "totalUnits": 1028
+        },
+        {
+          "date": "2023-03-30",
+          "totalSales": 97777,
+          "totalUnits": 1265
+        },
+        {
+          "date": "2023-03-31",
+          "totalSales": 109376,
+          "totalUnits": 1328
+        },
+        {
+          "date": "2023-04-01",
+          "totalSales": 106597,
+          "totalUnits": 999
+        },
+        {
+          "date": "2023-04-02",
+          "totalSales": 110877,
+          "totalUnits": 1428
+        },
+        {
+          "date": "2023-04-03",
+          "totalSales": 117046,
+          "totalUnits": 1148
+        },
+        {
+          "date": "2023-04-04",
+          "totalSales": 102336,
+          "totalUnits": 1240
+        },
+        {
+          "date": "2023-04-05",
+          "totalSales": 140130,
+          "totalUnits": 1105
+        },
+        {
+          "date": "2023-04-06",
+          "totalSales": 109718,
+          "totalUnits": 1200
+        },
+        {
+          "date": "2023-04-07",
+          "totalSales": 140339,
+          "totalUnits": 1337
+        },
+        {
+          "date": "2023-04-08",
+          "totalSales": 129920,
+          "totalUnits": 1265
+        },
+        {
+          "date": "2023-04-09",
+          "totalSales": 133241,
+          "totalUnits": 970
+        },
+        {
+          "date": "2023-04-10",
+          "totalSales": 125316,
+          "totalUnits": 1442
+        },
+        {
+          "date": "2023-04-11",
+          "totalSales": 139381,
+          "totalUnits": 1124
+        },
+        {
+          "date": "2023-04-12",
+          "totalSales": 144773,
+          "totalUnits": 1284
+        },
+        {
+          "date": "2023-04-13",
+          "totalSales": 130980,
+          "totalUnits": 1457
+        },
+        {
+          "date": "2023-04-14",
+          "totalSales": 128330,
+          "totalUnits": 1071
+        },
+        {
+          "date": "2023-04-15",
+          "totalSales": 111445,
+          "totalUnits": 1209
+        },
+        {
+          "date": "2023-04-16",
+          "totalSales": 108983,
+          "totalUnits": 1590
+        },
+        {
+          "date": "2023-04-17",
+          "totalSales": 146369,
+          "totalUnits": 1343
+        },
+        {
+          "date": "2023-04-18",
+          "totalSales": 129106,
+          "totalUnits": 1362
+        },
+        {
+          "date": "2023-04-19",
+          "totalSales": 131104,
+          "totalUnits": 1054
+        },
+        {
+          "date": "2023-04-20",
+          "totalSales": 115671,
+          "totalUnits": 1086
+        },
+        {
+          "date": "2023-04-21",
+          "totalSales": 126609,
+          "totalUnits": 1292
+        },
+        {
+          "date": "2023-04-22",
+          "totalSales": 130290,
+          "totalUnits": 1171
+        },
+        {
+          "date": "2023-04-23",
+          "totalSales": 114706,
+          "totalUnits": 1156
+        },
+        {
+          "date": "2023-04-24",
+          "totalSales": 129169,
+          "totalUnits": 1307
+        },
+        {
+          "date": "2023-04-25",
+          "totalSales": 143401,
+          "totalUnits": 1423
+        },
+        {
+          "date": "2023-04-26",
+          "totalSales": 127597,
+          "totalUnits": 1124
+        },
+        {
+          "date": "2023-04-27",
+          "totalSales": 115104,
+          "totalUnits": 1028
+        },
+        {
+          "date": "2023-04-28",
+          "totalSales": 133901,
+          "totalUnits": 1403
+        },
+        {
+          "date": "2023-04-29",
+          "totalSales": 113866,
+          "totalUnits": 1299
+        },
+        {
+          "date": "2023-04-30",
+          "totalSales": 95985,
+          "totalUnits": 1215
+        },
+        {
+          "date": "2023-05-01",
+          "totalSales": 122124,
+          "totalUnits": 1248
+        },
+        {
+          "date": "2023-05-02",
+          "totalSales": 124435,
+          "totalUnits": 1287
+        },
+        {
+          "date": "2023-05-03",
+          "totalSales": 138377,
+          "totalUnits": 1139
+        },
+        {
+          "date": "2023-05-04",
+          "totalSales": 120434,
+          "totalUnits": 1160
+        },
+        {
+          "date": "2023-05-05",
+          "totalSales": 111851,
+          "totalUnits": 1402
+        },
+        {
+          "date": "2023-05-06",
+          "totalSales": 111974,
+          "totalUnits": 1464
+        },
+        {
+          "date": "2023-05-07",
+          "totalSales": 146012,
+          "totalUnits": 1163
+        },
+        {
+          "date": "2023-05-08",
+          "totalSales": 124011,
+          "totalUnits": 905
+        },
+        {
+          "date": "2023-05-09",
+          "totalSales": 111748,
+          "totalUnits": 1249
+        },
+        {
+          "date": "2023-05-10",
+          "totalSales": 131132,
+          "totalUnits": 1211
+        },
+        {
+          "date": "2023-05-11",
+          "totalSales": 110049,
+          "totalUnits": 1290
+        },
+        {
+          "date": "2023-05-12",
+          "totalSales": 132251,
+          "totalUnits": 1316
+        },
+        {
+          "date": "2023-05-13",
+          "totalSales": 140008,
+          "totalUnits": 1225
+        },
+        {
+          "date": "2023-05-14",
+          "totalSales": 112576,
+          "totalUnits": 1457
+        },
+        {
+          "date": "2023-05-15",
+          "totalSales": 99786,
+          "totalUnits": 1279
+        },
+        {
+          "date": "2023-05-16",
+          "totalSales": 154888,
+          "totalUnits": 1255
+        },
+        {
+          "date": "2023-05-17",
+          "totalSales": 100332,
+          "totalUnits": 1290
+        },
+        {
+          "date": "2023-05-18",
+          "totalSales": 120897,
+          "totalUnits": 1110
+        },
+        {
+          "date": "2023-05-19",
+          "totalSales": 115132,
+          "totalUnits": 1213
+        },
+        {
+          "date": "2023-05-20",
+          "totalSales": 128002,
+          "totalUnits": 1193
+        },
+        {
+          "date": "2023-05-21",
+          "totalSales": 143564,
+          "totalUnits": 1204
+        },
+        {
+          "date": "2023-05-22",
+          "totalSales": 140281,
+          "totalUnits": 1127
+        },
+        {
+          "date": "2023-05-23",
+          "totalSales": 112155,
+          "totalUnits": 1209
+        },
+        {
+          "date": "2023-05-24",
+          "totalSales": 132822,
+          "totalUnits": 1266
+        },
+        {
+          "date": "2023-05-25",
+          "totalSales": 157542,
+          "totalUnits": 1273
+        },
+        {
+          "date": "2023-05-26",
+          "totalSales": 116209,
+          "totalUnits": 1359
+        },
+        {
+          "date": "2023-05-27",
+          "totalSales": 119541,
+          "totalUnits": 1298
+        },
+        {
+          "date": "2023-05-28",
+          "totalSales": 123708,
+          "totalUnits": 1047
+        },
+        {
+          "date": "2023-05-29",
+          "totalSales": 130656,
+          "totalUnits": 1279
+        },
+        {
+          "date": "2023-05-30",
+          "totalSales": 124196,
+          "totalUnits": 1242
+        },
+        {
+          "date": "2023-05-31",
+          "totalSales": 135116,
+          "totalUnits": 1131
+        },
+        {
+          "date": "2023-06-01",
+          "totalSales": 119309,
+          "totalUnits": 1064
+        },
+        {
+          "date": "2023-06-02",
+          "totalSales": 129176,
+          "totalUnits": 1286
+        },
+        {
+          "date": "2023-06-03",
+          "totalSales": 115037,
+          "totalUnits": 1386
+        },
+        {
+          "date": "2023-06-04",
+          "totalSales": 123355,
+          "totalUnits": 1287
+        },
+        {
+          "date": "2023-06-05",
+          "totalSales": 138600,
+          "totalUnits": 1190
+        },
+        {
+          "date": "2023-06-06",
+          "totalSales": 114401,
+          "totalUnits": 1257
+        },
+        {
+          "date": "2023-06-07",
+          "totalSales": 102418,
+          "totalUnits": 1416
+        },
+        {
+          "date": "2023-06-08",
+          "totalSales": 123425,
+          "totalUnits": 1194
+        },
+        {
+          "date": "2023-06-09",
+          "totalSales": 126238,
+          "totalUnits": 1188
+        },
+        {
+          "date": "2023-06-10",
+          "totalSales": 140134,
+          "totalUnits": 1163
+        },
+        {
+          "date": "2023-06-11",
+          "totalSales": 124282,
+          "totalUnits": 1269
+        },
+        {
+          "date": "2023-06-12",
+          "totalSales": 121988,
+          "totalUnits": 1374
+        },
+        {
+          "date": "2023-06-13",
+          "totalSales": 117204,
+          "totalUnits": 1440
+        },
+        {
+          "date": "2023-06-14",
+          "totalSales": 137165,
+          "totalUnits": 1282
+        },
+        {
+          "date": "2023-06-15",
+          "totalSales": 122455,
+          "totalUnits": 1200
+        },
+        {
+          "date": "2023-06-16",
+          "totalSales": 161057,
+          "totalUnits": 1273
+        },
+        {
+          "date": "2023-06-17",
+          "totalSales": 126914,
+          "totalUnits": 1362
+        },
+        {
+          "date": "2023-06-18",
+          "totalSales": 121016,
+          "totalUnits": 1428
+        },
+        {
+          "date": "2023-06-19",
+          "totalSales": 131117,
+          "totalUnits": 1249
+        },
+        {
+          "date": "2023-06-20",
+          "totalSales": 150169,
+          "totalUnits": 1095
+        },
+        {
+          "date": "2023-06-21",
+          "totalSales": 127099,
+          "totalUnits": 1389
+        },
+        {
+          "date": "2023-06-22",
+          "totalSales": 116383,
+          "totalUnits": 1258
+        },
+        {
+          "date": "2023-06-23",
+          "totalSales": 123360,
+          "totalUnits": 1381
+        },
+        {
+          "date": "2023-06-24",
+          "totalSales": 123855,
+          "totalUnits": 1604
+        },
+        {
+          "date": "2023-06-25",
+          "totalSales": 118191,
+          "totalUnits": 1005
+        },
+        {
+          "date": "2023-06-26",
+          "totalSales": 121355,
+          "totalUnits": 1468
+        },
+        {
+          "date": "2023-06-27",
+          "totalSales": 116177,
+          "totalUnits": 1382
+        },
+        {
+          "date": "2023-06-28",
+          "totalSales": 143040,
+          "totalUnits": 1323
+        },
+        {
+          "date": "2023-06-29",
+          "totalSales": 146756,
+          "totalUnits": 1140
+        },
+        {
+          "date": "2023-06-30",
+          "totalSales": 154634,
+          "totalUnits": 1356
+        },
+        {
+          "date": "2023-07-01",
+          "totalSales": 143602,
+          "totalUnits": 1227
+        },
+        {
+          "date": "2023-07-02",
+          "totalSales": 130998,
+          "totalUnits": 1146
+        },
+        {
+          "date": "2023-07-03",
+          "totalSales": 124909,
+          "totalUnits": 1226
+        },
+        {
+          "date": "2023-07-04",
+          "totalSales": 91488,
+          "totalUnits": 967
+        },
+        {
+          "date": "2023-07-05",
+          "totalSales": 116508,
+          "totalUnits": 1159
+        },
+        {
+          "date": "2023-07-06",
+          "totalSales": 123783,
+          "totalUnits": 1334
+        },
+        {
+          "date": "2023-07-07",
+          "totalSales": 139993,
+          "totalUnits": 1129
+        },
+        {
+          "date": "2023-07-08",
+          "totalSales": 137102,
+          "totalUnits": 1307
+        },
+        {
+          "date": "2023-07-09",
+          "totalSales": 109982,
+          "totalUnits": 1146
+        },
+        {
+          "date": "2023-07-10",
+          "totalSales": 133911,
+          "totalUnits": 1197
+        },
+        {
+          "date": "2023-07-11",
+          "totalSales": 129621,
+          "totalUnits": 1285
+        },
+        {
+          "date": "2023-07-12",
+          "totalSales": 95663,
+          "totalUnits": 1067
+        },
+        {
+          "date": "2023-07-13",
+          "totalSales": 125684,
+          "totalUnits": 1067
+        },
+        {
+          "date": "2023-07-14",
+          "totalSales": 118224,
+          "totalUnits": 1306
+        },
+        {
+          "date": "2023-07-15",
+          "totalSales": 149301,
+          "totalUnits": 1291
+        },
+        {
+          "date": "2023-07-16",
+          "totalSales": 139173,
+          "totalUnits": 1379
+        },
+        {
+          "date": "2023-07-17",
+          "totalSales": 130605,
+          "totalUnits": 1359
+        },
+        {
+          "date": "2023-07-18",
+          "totalSales": 126982,
+          "totalUnits": 1213
+        },
+        {
+          "date": "2023-07-19",
+          "totalSales": 140174,
+          "totalUnits": 1277
+        },
+        {
+          "date": "2023-07-20",
+          "totalSales": 131456,
+          "totalUnits": 1254
+        },
+        {
+          "date": "2023-07-21",
+          "totalSales": 95222,
+          "totalUnits": 1062
+        },
+        {
+          "date": "2023-07-22",
+          "totalSales": 120457,
+          "totalUnits": 1210
+        },
+        {
+          "date": "2023-07-23",
+          "totalSales": 113693,
+          "totalUnits": 1015
+        },
+        {
+          "date": "2023-07-24",
+          "totalSales": 95020,
+          "totalUnits": 1369
+        },
+        {
+          "date": "2023-07-25",
+          "totalSales": 130669,
+          "totalUnits": 1195
+        },
+        {
+          "date": "2023-07-26",
+          "totalSales": 131133,
+          "totalUnits": 1090
+        },
+        {
+          "date": "2023-07-27",
+          "totalSales": 136711,
+          "totalUnits": 1407
+        },
+        {
+          "date": "2023-07-28",
+          "totalSales": 99967,
+          "totalUnits": 1253
+        },
+        {
+          "date": "2023-07-29",
+          "totalSales": 150579,
+          "totalUnits": 1256
+        },
+        {
+          "date": "2023-07-30",
+          "totalSales": 139416,
+          "totalUnits": 1293
+        },
+        {
+          "date": "2023-07-31",
+          "totalSales": 118580,
+          "totalUnits": 1311
+        },
+        {
+          "date": "2023-08-01",
+          "totalSales": 137538,
+          "totalUnits": 1379
+        },
+        {
+          "date": "2023-08-02",
+          "totalSales": 128670,
+          "totalUnits": 1458
+        },
+        {
+          "date": "2023-08-03",
+          "totalSales": 134177,
+          "totalUnits": 1105
+        },
+        {
+          "date": "2023-08-04",
+          "totalSales": 126232,
+          "totalUnits": 1303
+        },
+        {
+          "date": "2023-08-05",
+          "totalSales": 126514,
+          "totalUnits": 1306
+        },
+        {
+          "date": "2023-08-06",
+          "totalSales": 107249,
+          "totalUnits": 1142
+        },
+        {
+          "date": "2023-08-07",
+          "totalSales": 143916,
+          "totalUnits": 1353
+        },
+        {
+          "date": "2023-08-08",
+          "totalSales": 92926,
+          "totalUnits": 1266
+        },
+        {
+          "date": "2023-08-09",
+          "totalSales": 119765,
+          "totalUnits": 1363
+        },
+        {
+          "date": "2023-08-10",
+          "totalSales": 105890,
+          "totalUnits": 1395
+        },
+        {
+          "date": "2023-08-11",
+          "totalSales": 138598,
+          "totalUnits": 1354
+        },
+        {
+          "date": "2023-08-12",
+          "totalSales": 135532,
+          "totalUnits": 1414
+        },
+        {
+          "date": "2023-08-13",
+          "totalSales": 91830,
+          "totalUnits": 1199
+        },
+        {
+          "date": "2023-08-14",
+          "totalSales": 116223,
+          "totalUnits": 1360
+        },
+        {
+          "date": "2023-08-15",
+          "totalSales": 115404,
+          "totalUnits": 1326
+        },
+        {
+          "date": "2023-08-16",
+          "totalSales": 154010,
+          "totalUnits": 1052
+        },
+        {
+          "date": "2023-08-17",
+          "totalSales": 124987,
+          "totalUnits": 1428
+        },
+        {
+          "date": "2023-08-18",
+          "totalSales": 119234,
+          "totalUnits": 1261
+        },
+        {
+          "date": "2023-08-19",
+          "totalSales": 116606,
+          "totalUnits": 1004
+        },
+        {
+          "date": "2023-08-20",
+          "totalSales": 142732,
+          "totalUnits": 1192
+        },
+        {
+          "date": "2023-08-21",
+          "totalSales": 118118,
+          "totalUnits": 1198
+        },
+        {
+          "date": "2023-08-22",
+          "totalSales": 142636,
+          "totalUnits": 1250
+        },
+        {
+          "date": "2023-08-23",
+          "totalSales": 126806,
+          "totalUnits": 1099
+        },
+        {
+          "date": "2023-08-24",
+          "totalSales": 144158,
+          "totalUnits": 1100
+        },
+        {
+          "date": "2023-08-25",
+          "totalSales": 117577,
+          "totalUnits": 1196
+        },
+        {
+          "date": "2023-08-26",
+          "totalSales": 126443,
+          "totalUnits": 1234
+        },
+        {
+          "date": "2023-08-27",
+          "totalSales": 122954,
+          "totalUnits": 1063
+        },
+        {
+          "date": "2023-08-28",
+          "totalSales": 111384,
+          "totalUnits": 1284
+        },
+        {
+          "date": "2023-08-29",
+          "totalSales": 123951,
+          "totalUnits": 1168
+        },
+        {
+          "date": "2023-08-30",
+          "totalSales": 114659,
+          "totalUnits": 1297
+        },
+        {
+          "date": "2023-08-31",
+          "totalSales": 107662,
+          "totalUnits": 1194
+        },
+        {
+          "date": "2023-09-01",
+          "totalSales": 136176,
+          "totalUnits": 1317
+        },
+        {
+          "date": "2023-09-02",
+          "totalSales": 138806,
+          "totalUnits": 1335
+        },
+        {
+          "date": "2023-09-03",
+          "totalSales": 142138,
+          "totalUnits": 1240
+        },
+        {
+          "date": "2023-09-04",
+          "totalSales": 126365,
+          "totalUnits": 1272
+        },
+        {
+          "date": "2023-09-05",
+          "totalSales": 108501,
+          "totalUnits": 942
+        },
+        {
+          "date": "2023-09-06",
+          "totalSales": 139052,
+          "totalUnits": 1415
+        },
+        {
+          "date": "2023-09-07",
+          "totalSales": 148727,
+          "totalUnits": 1254
+        },
+        {
+          "date": "2023-09-08",
+          "totalSales": 126398,
+          "totalUnits": 1411
+        },
+        {
+          "date": "2023-09-09",
+          "totalSales": 107393,
+          "totalUnits": 1312
+        },
+        {
+          "date": "2023-09-10",
+          "totalSales": 140777,
+          "totalUnits": 1311
+        },
+        {
+          "date": "2023-09-11",
+          "totalSales": 125980,
+          "totalUnits": 949
+        },
+        {
+          "date": "2023-09-12",
+          "totalSales": 131038,
+          "totalUnits": 1448
+        },
+        {
+          "date": "2023-09-13",
+          "totalSales": 131066,
+          "totalUnits": 1278
+        },
+        {
+          "date": "2023-09-14",
+          "totalSales": 107871,
+          "totalUnits": 1167
+        },
+        {
+          "date": "2023-09-15",
+          "totalSales": 131220,
+          "totalUnits": 1374
+        },
+        {
+          "date": "2023-09-16",
+          "totalSales": 104413,
+          "totalUnits": 1564
+        },
+        {
+          "date": "2023-09-17",
+          "totalSales": 112528,
+          "totalUnits": 1352
+        },
+        {
+          "date": "2023-09-18",
+          "totalSales": 126242,
+          "totalUnits": 1020
+        },
+        {
+          "date": "2023-09-19",
+          "totalSales": 131519,
+          "totalUnits": 1329
+        },
+        {
+          "date": "2023-09-20",
+          "totalSales": 110991,
+          "totalUnits": 1285
+        },
+        {
+          "date": "2023-09-21",
+          "totalSales": 106593,
+          "totalUnits": 1021
+        },
+        {
+          "date": "2023-09-22",
+          "totalSales": 112177,
+          "totalUnits": 1123
+        },
+        {
+          "date": "2023-09-23",
+          "totalSales": 113363,
+          "totalUnits": 1327
+        },
+        {
+          "date": "2023-09-24",
+          "totalSales": 127071,
+          "totalUnits": 1233
+        },
+        {
+          "date": "2023-09-25",
+          "totalSales": 121988,
+          "totalUnits": 1089
+        },
+        {
+          "date": "2023-09-26",
+          "totalSales": 152857,
+          "totalUnits": 1680
+        },
+        {
+          "date": "2023-09-27",
+          "totalSales": 132723,
+          "totalUnits": 1274
+        },
+        {
+          "date": "2023-09-28",
+          "totalSales": 123501,
+          "totalUnits": 1139
+        },
+        {
+          "date": "2023-09-29",
+          "totalSales": 141199,
+          "totalUnits": 1178
+        },
+        {
+          "date": "2023-09-30",
+          "totalSales": 143001,
+          "totalUnits": 1144
+        },
+        {
+          "date": "2023-10-01",
+          "totalSales": 133970,
+          "totalUnits": 1238
+        },
+        {
+          "date": "2023-10-02",
+          "totalSales": 124661,
+          "totalUnits": 1210
+        },
+        {
+          "date": "2023-10-03",
+          "totalSales": 115381,
+          "totalUnits": 1357
+        },
+        {
+          "date": "2023-10-04",
+          "totalSales": 130461,
+          "totalUnits": 1503
+        },
+        {
+          "date": "2023-10-05",
+          "totalSales": 140312,
+          "totalUnits": 1173
+        },
+        {
+          "date": "2023-10-06",
+          "totalSales": 93375,
+          "totalUnits": 1332
+        },
+        {
+          "date": "2023-10-07",
+          "totalSales": 129811,
+          "totalUnits": 1431
+        },
+        {
+          "date": "2023-10-08",
+          "totalSales": 128451,
+          "totalUnits": 1517
+        },
+        {
+          "date": "2023-10-09",
+          "totalSales": 132296,
+          "totalUnits": 1377
+        },
+        {
+          "date": "2023-10-10",
+          "totalSales": 141593,
+          "totalUnits": 1161
+        },
+        {
+          "date": "2023-10-11",
+          "totalSales": 105754,
+          "totalUnits": 1229
+        },
+        {
+          "date": "2023-10-12",
+          "totalSales": 109582,
+          "totalUnits": 1428
+        },
+        {
+          "date": "2023-10-13",
+          "totalSales": 132650,
+          "totalUnits": 1196
+        },
+        {
+          "date": "2023-10-14",
+          "totalSales": 149274,
+          "totalUnits": 1059
+        },
+        {
+          "date": "2023-10-15",
+          "totalSales": 113761,
+          "totalUnits": 1098
+        },
+        {
+          "date": "2023-10-16",
+          "totalSales": 126134,
+          "totalUnits": 1311
+        },
+        {
+          "date": "2023-10-17",
+          "totalSales": 133174,
+          "totalUnits": 1387
+        },
+        {
+          "date": "2023-10-18",
+          "totalSales": 135048,
+          "totalUnits": 1341
+        },
+        {
+          "date": "2023-10-19",
+          "totalSales": 129071,
+          "totalUnits": 1203
+        },
+        {
+          "date": "2023-10-20",
+          "totalSales": 121890,
+          "totalUnits": 1103
+        },
+        {
+          "date": "2023-10-21",
+          "totalSales": 131105,
+          "totalUnits": 1242
+        },
+        {
+          "date": "2023-10-22",
+          "totalSales": 107418,
+          "totalUnits": 1125
+        },
+        {
+          "date": "2023-10-23",
+          "totalSales": 123361,
+          "totalUnits": 1517
+        },
+        {
+          "date": "2023-10-24",
+          "totalSales": 132317,
+          "totalUnits": 1401
+        },
+        {
+          "date": "2023-10-25",
+          "totalSales": 126251,
+          "totalUnits": 1309
+        },
+        {
+          "date": "2023-10-26",
+          "totalSales": 116441,
+          "totalUnits": 1094
+        },
+        {
+          "date": "2023-10-27",
+          "totalSales": 121104,
+          "totalUnits": 1097
+        },
+        {
+          "date": "2023-10-28",
+          "totalSales": 115549,
+          "totalUnits": 1373
+        },
+        {
+          "date": "2023-10-29",
+          "totalSales": 119440,
+          "totalUnits": 1314
+        },
+        {
+          "date": "2023-10-30",
+          "totalSales": 139133,
+          "totalUnits": 1358
+        },
+        {
+          "date": "2023-10-31",
+          "totalSales": 74983,
+          "totalUnits": 1346
+        },
+        {
+          "date": "2023-11-01",
+          "totalSales": 114519,
+          "totalUnits": 1233
+        },
+        {
+          "date": "2023-11-02",
+          "totalSales": 121775,
+          "totalUnits": 1231
+        },
+        {
+          "date": "2023-11-03",
+          "totalSales": 108969,
+          "totalUnits": 1480
+        },
+        {
+          "date": "2023-11-04",
+          "totalSales": 120386,
+          "totalUnits": 1277
+        },
+        {
+          "date": "2023-11-05",
+          "totalSales": 144641,
+          "totalUnits": 1345
+        },
+        {
+          "date": "2023-11-06",
+          "totalSales": 126866,
+          "totalUnits": 1551
+        },
+        {
+          "date": "2023-11-07",
+          "totalSales": 125410,
+          "totalUnits": 1294
+        },
+        {
+          "date": "2023-11-08",
+          "totalSales": 131968,
+          "totalUnits": 1316
+        },
+        {
+          "date": "2023-11-09",
+          "totalSales": 119347,
+          "totalUnits": 1434
+        },
+        {
+          "date": "2023-11-10",
+          "totalSales": 99926,
+          "totalUnits": 1224
+        },
+        {
+          "date": "2023-11-11",
+          "totalSales": 122767,
+          "totalUnits": 1466
+        },
+        {
+          "date": "2023-11-12",
+          "totalSales": 117155,
+          "totalUnits": 1436
+        },
+        {
+          "date": "2023-11-13",
+          "totalSales": 139421,
+          "totalUnits": 1190
+        },
+        {
+          "date": "2023-11-14",
+          "totalSales": 113526,
+          "totalUnits": 1486
+        },
+        {
+          "date": "2023-11-15",
+          "totalSales": 141188,
+          "totalUnits": 1363
+        },
+        {
+          "date": "2023-11-16",
+          "totalSales": 132226,
+          "totalUnits": 1097
+        },
+        {
+          "date": "2023-11-17",
+          "totalSales": 95228,
+          "totalUnits": 1245
+        },
+        {
+          "date": "2023-11-18",
+          "totalSales": 115464,
+          "totalUnits": 1148
+        },
+        {
+          "date": "2023-11-19",
+          "totalSales": 119774,
+          "totalUnits": 1141
+        },
+        {
+          "date": "2023-11-20",
+          "totalSales": 115006,
+          "totalUnits": 1122
+        },
+        {
+          "date": "2023-11-21",
+          "totalSales": 145835,
+          "totalUnits": 1376
+        },
+        {
+          "date": "2023-11-22",
+          "totalSales": 122020,
+          "totalUnits": 1248
+        },
+        {
+          "date": "2023-11-23",
+          "totalSales": 125699,
+          "totalUnits": 1295
+        },
+        {
+          "date": "2023-11-24",
+          "totalSales": 131746,
+          "totalUnits": 1283
+        },
+        {
+          "date": "2023-11-25",
+          "totalSales": 97546,
+          "totalUnits": 1104
+        },
+        {
+          "date": "2023-11-26",
+          "totalSales": 127755,
+          "totalUnits": 1322
+        },
+        {
+          "date": "2023-11-27",
+          "totalSales": 133988,
+          "totalUnits": 1318
+        },
+        {
+          "date": "2023-11-28",
+          "totalSales": 132966,
+          "totalUnits": 1348
+        },
+        {
+          "date": "2023-11-29",
+          "totalSales": 139848,
+          "totalUnits": 911
+        },
+        {
+          "date": "2023-11-30",
+          "totalSales": 121016,
+          "totalUnits": 1297
+        },
+        {
+          "date": "2023-12-01",
+          "totalSales": 154400,
+          "totalUnits": 1087
+        },
+        {
+          "date": "2023-12-02",
+          "totalSales": 143704,
+          "totalUnits": 1470
+        },
+        {
+          "date": "2023-12-03",
+          "totalSales": 148513,
+          "totalUnits": 1169
+        },
+        {
+          "date": "2023-12-04",
+          "totalSales": 108495,
+          "totalUnits": 1379
+        },
+        {
+          "date": "2023-12-05",
+          "totalSales": 127888,
+          "totalUnits": 1530
+        },
+        {
+          "date": "2023-12-06",
+          "totalSales": 119278,
+          "totalUnits": 1436
+        },
+        {
+          "date": "2023-12-07",
+          "totalSales": 125582,
+          "totalUnits": 1142
+        },
+        {
+          "date": "2023-12-08",
+          "totalSales": 92160,
+          "totalUnits": 1434
+        },
+        {
+          "date": "2023-12-09",
+          "totalSales": 128219,
+          "totalUnits": 1320
+        },
+        {
+          "date": "2023-12-10",
+          "totalSales": 118634,
+          "totalUnits": 1284
+        },
+        {
+          "date": "2023-12-11",
+          "totalSales": 127880,
+          "totalUnits": 1549
+        },
+        {
+          "date": "2023-12-12",
+          "totalSales": 106225,
+          "totalUnits": 1258
+        },
+        {
+          "date": "2023-12-13",
+          "totalSales": 142267,
+          "totalUnits": 1205
+        },
+        {
+          "date": "2023-12-14",
+          "totalSales": 129257,
+          "totalUnits": 1381
+        },
+        {
+          "date": "2023-12-15",
+          "totalSales": 111077,
+          "totalUnits": 1267
+        },
+        {
+          "date": "2023-12-16",
+          "totalSales": 105964,
+          "totalUnits": 1192
+        },
+        {
+          "date": "2023-12-17",
+          "totalSales": 137529,
+          "totalUnits": 1305
+        },
+        {
+          "date": "2023-12-18",
+          "totalSales": 126583,
+          "totalUnits": 1199
+        },
+        {
+          "date": "2023-12-19",
+          "totalSales": 117732,
+          "totalUnits": 1200
+        },
+        {
+          "date": "2023-12-20",
+          "totalSales": 118226,
+          "totalUnits": 1225
+        },
+        {
+          "date": "2023-12-21",
+          "totalSales": 131346,
+          "totalUnits": 1286
+        },
+        {
+          "date": "2023-12-22",
+          "totalSales": 125675,
+          "totalUnits": 1230
+        },
+        {
+          "date": "2023-12-23",
+          "totalSales": 128024,
+          "totalUnits": 1158
+        },
+        {
+          "date": "2023-12-24",
+          "totalSales": 136608,
+          "totalUnits": 1040
+        },
+        {
+          "date": "2023-12-25",
+          "totalSales": 123939,
+          "totalUnits": 1103
+        },
+        {
+          "date": "2023-12-26",
+          "totalSales": 118763,
+          "totalUnits": 1359
+        },
+        {
+          "date": "2023-12-27",
+          "totalSales": 133608,
+          "totalUnits": 1242
+        },
+        {
+          "date": "2023-12-28",
+          "totalSales": 122597,
+          "totalUnits": 1284
+        },
+        {
+          "date": "2023-12-29",
+          "totalSales": 161102,
+          "totalUnits": 1159
+        },
+        {
+          "date": "2023-12-30",
+          "totalSales": 87781,
+          "totalUnits": 1272
+        },
+        {
+          "date": "2023-12-31",
+          "totalSales": 116072,
+          "totalUnits": 1248
+        }
+      ],
+      "salesByCategory": {
+        "appliances": 16576477,
+        "clothing": 8845167,
+        "accessories": 13001455,
+        "misc": 7363589
+      },
+      "_id": "fde0f5acee8b31fcc9c8c208"
+    }
+  ]
+}
